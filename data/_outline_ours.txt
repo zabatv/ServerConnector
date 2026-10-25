@@ -1,0 +1,54 @@
+http://127.0.0.1:55591/p/fre5zy
+viewport 1440x900 doc 960px
+failed: 5
+
+body  [0,0 1368x960]  fs=16px lh=24px ff=Play rad=0px
+  div#__next  [0,0 1368x900]  fs=14px lh=24px ff=Play rad=0px
+    div#__next__modal_root__.kfy3iW_className.kfy3iW_variable.Emjrgq_variable  [0,0 1368x900]  fs=14px lh=24px ff=Play rad=0px
+      div.styles__Wrapper-sc-1fbfad92-0.fQqiRk.dyPe9a_frame  [0,0 1368x900]  fs=14px lh=24px ff=Play rad=0px
+        div.styles__NavigationSidebarHolder-sc-1fbfad92-4.iQhIJZ  [0,0 246x900]  fs=14px lh=24px ff=Play rad=0px
+            div.styles__MainNavWrapper-sc-219c8b23-1.dCDOjV  [0,0 246x900]  fs=14px lh=24px ff=Play rad=0px
+              div.styles__MainNavHeaderContainer-sc-1d678d21-0.liMtQz  [0,0 246x80]  fs=14px lh=24px ff=Play rad=0px
+                div.styles__LogoHomeButtonContainer-sc-1d678d21-1.fRflli  [0,0 88x80]  fs=14px lh=24px ff=Play rad=0px
+              div.styles__NavigationSearchButtonSlot-sc-219c8b23-4.CArts  [0,80 246x48]  fs=14px lh=24px ff=Play rad=0px
+                div.styles__Holder-sc-7bd5c52d-6.cwmjRe  [0,80 246x48]  fs=14px lh=24px ff=Play rad=0px
+                  div.ButtonBase__Wrapper-sc-25751fa0-0.htxxfE.styles__NavControlBackground-sc-7bd5c52d-3  [0,80 246x48]  fs=14px lh=24px ff=Play rad=4px
+              div.styles__SelectedGameSelectorSlot-sc-219c8b23-3.kmixRm  [0,128 246x48]  fs=14px lh=24px ff=Play rad=0px
+                div.RQRWpq_controls  [24,132 198x40]  fs=14px lh=24px ff=Play rad=0px
+                  div.GameSelectorWrapper-sc-def62e0a-0.ihsbhO  [24,132 198x40]  fs=14px lh=24px ff=Play rad=0px
+              div.styles__ScrollableNavSectionWrapper-sc-55e52da6-0.loRLyO  [0,176 246x539]  fs=14px lh=24px ff=Play rad=0px
+                div.NavSectionItem__Wrapper-sc-f5828f5b-0.ewTSPz  [0,192 242x48]  fs=14px lh=24px ff=Play rad=0px
+                  a.si2  [0,192 242x48]  fs=14px lh=24px ff=Play rad=0px
+                div.Glance__Wrapper-sc-713ed50f-0  [0,240 242x48]  fs=14px lh=24px ff=Play rad=0px
+                  div  [0,240 242x48]  fs=14px lh=24px ff=Play rad=0px
+                div.NavSectionItem__Wrapper-sc-f5828f5b-0.ewTSPz  [0,288 242x48]  fs=14px lh=24px ff=Play rad=0px
+                  a.si4  [0,288 242x48]  fs=14px lh=24px ff=Play rad=0px
+                div.Glance__Wrapper-sc-713ed50f-0  [0,336 242x48]  fs=14px lh=24px ff=Play rad=0px
+                  div  [0,336 242x48]  fs=14px lh=24px ff=Play rad=0px
+                div.NavSectionItem__Wrapper-sc-f5828f5b-0.ewTSPz  [0,384 242x48]  fs=14px lh=24px ff=Play rad=0px
+                  a.si6  [0,384 242x48]  fs=14px lh=24px ff=Play rad=0px
+                div.NavSectionItem__Wrapper-sc-f5828f5b-0.ewTSPz  [0,481 242x48]  fs=14px lh=24px ff=Play rad=0px
+                  a.si10  [0,481 242x48]  fs=14px lh=24px ff=Play rad=0px
+                div.NavSectionItem__Wrapper-sc-f5828f5b-0.ewTSPz  [0,529 242x48]  fs=14px lh=24px ff=Play rad=0px
+                  a.si11  [0,529 242x48]  fs=14px lh=24px ff=Play rad=0px
+              div.styles__FooterNavSectionWrapper-sc-219c8b23-2.iqFdHi  [0,715 246x185]  fs=14px lh=24px ff=Play rad=0px
+                div.NavSectionItem__Wrapper-sc-f5828f5b-0.ewTSPz  [0,736 246x48]  fs=14px lh=24px ff=Play rad=0px
+                  a.si12  [0,736 246x48]  fs=14px lh=24px ff=Play rad=0px
+                div.NavSectionItem__Wrapper-sc-f5828f5b-0.ewTSPz  [0,784 246x48]  fs=14px lh=24px ff=Play rad=0px
+                  a.si13  [0,784 246x48]  fs=14px lh=24px ff=Play rad=0px
+                div.NavSectionItem__Wrapper-sc-f5828f5b-0.ewTSPz  [0,832 246x48]  fs=14px lh=24px ff=Play rad=0px
+                  a.si14  [0,832 246x48]  fs=14px lh=24px ff=Play rad=0px
+        div#_r_9_.styles__CanvasHolder-sc-1fbfad92-7.eyXDmm  [246,8 1058x884]  fs=14px lh=24px ff=Play rad=16px
+          div#canvas-wrapper.styles__Wrapper-sc-b3b4f312-0.hcnVAi  [247,9 1056x882]  fs=14px lh=24px ff=Play rad=0px
+            div#canvas-body.styles__Body-sc-b3b4f312-1.jzZRzW  [247,9 1056x882]  fs=14px lh=24px ff=Play rad=0px
+              div.styles__Content-sc-cd4a8e07-0.gWFaET  [247,9 1056x1827]  fs=14px lh=24px ff=Play rad=0px
+                div.styles__MainContent-sc-cd4a8e07-1.irxvx  [271,33 1008x1779]  fs=14px lh=24px ff=Play rad=0px
+                  aside.styles__SecondaryContent-sc-cd4a8e07-3.hQxNhu  [271,33 300x1481]  fs=14px lh=24px ff=Play rad=0px
+                  div.styles__Flex-sc-574cca67-0.styles__Col-sc-574cca67-2.styles__PrimaryContent-sc-cd4a8e07-2  [611,33 668x1779]  fs=14px lh=24px ff=Play rad=0px
+  div#fi-right-sidebar.fi-sidebar  [1368,0 72x900]  fs=16px lh=24px ff=Play rad=0px
+    img.fi-avatar  [1386,18 36x36]  fs=16px lh=24px ff=Play rad=50%
+    div.fi-nav-item  [1380,63 48x48]  fs=16px lh=24px ff=Play rad=4px
+    div.fi-nav-item  [1380,113 48x48]  fs=16px lh=24px ff=Play rad=4px
+    div.fi-nav-item  [1380,163 48x48]  fs=16px lh=24px ff=Play rad=4px
+    div.fi-nav-item  [1380,213 48x48]  fs=16px lh=24px ff=Play rad=4px
+    div.fi-nav-item  [1380,263 48x48]  fs=16px lh=24px ff=Play rad=4px

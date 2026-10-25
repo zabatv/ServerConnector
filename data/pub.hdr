@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Security-Policy: default-src 'self'; img-src 'self' https: data:; style-src 'self'; script-src 'self'; connect-src 'self'; font-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+X-Frame-Options: DENY
+Cross-Origin-Opener-Policy: same-origin
+Content-Length: 21686
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-store
+Date: Mon, 19 Oct 2026 10:36:03 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
