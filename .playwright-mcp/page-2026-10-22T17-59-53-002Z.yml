@@ -1,0 +1,790 @@
+- generic [ref=f6e1]:
+  - generic [ref=f6e9]:
+    - complementary [ref=f6e10]:
+      - generic [ref=f6e11]:
+        - generic [ref=f6e12]:
+          - generic [ref=f6e14]:
+            - img [ref=f6e18] [cursor=pointer]
+            - img "avatar" [ref=f6e32]
+          - heading "Jimpphat" [level=1] [ref=f6e34]
+        - button "ADD FRIEND" [active] [ref=f6e36] [cursor=pointer]
+        - generic [ref=f6e1788]:
+          - generic [ref=f6e1789]:
+            - heading "Verification Required" [level=2] [ref=f6e1790]
+            - button "Close" [ref=f6e1791] [cursor=pointer]
+          - generic [ref=f6e1794]:
+            - paragraph [ref=f6e1795]: You need to verify your account before you can send friend requests.
+            - paragraph [ref=f6e1796]: Please complete the verification to unlock this feature.
+          - generic [ref=f6e1798]:
+            - button "CANCEL" [ref=f6e1799] [cursor=pointer]
+            - link "VERIFY ACCOUNT" [ref=f6e1800] [cursor=pointer]:
+              - /url: https://faceit.clientanticheat.com/login/
+      - generic [ref=f6e37]:
+        - generic [ref=f6e39]:
+          - generic [ref=f6e40]: Gift A Sub
+          - generic [ref=f6e44] [cursor=pointer]: Gift Sub
+        - generic [ref=f6e45]:
+          - generic [ref=f6e46]: Member since Sep 6, 2018
+          - generic [ref=f6e47]: We don't know anything about Jimpphat
+          - generic [ref=f6e48]:
+            - img "fi" [ref=f6e50]
+            - generic [ref=f6e51]: FI
+          - link [ref=f6e55] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f6e59]:
+          - generic [ref=f6e60]: Game history
+          - generic [ref=f6e61]:
+            - generic [ref=f6e62] [cursor=pointer]:
+              - generic [ref=f6e63]: C
+              - generic [ref=f6e65]:
+                - generic [ref=f6e66]: CS2
+                - generic [ref=f6e67]: 522 matches
+            - generic [ref=f6e71]:
+              - generic [ref=f6e72]: C
+              - generic [ref=f6e74]:
+                - generic [ref=f6e75]: CS:GO
+                - generic [ref=f6e76]: — matches
+    - generic [ref=f6e77]:
+      - generic [ref=f6e79]:
+        - link "Games" [ref=f6e81] [cursor=pointer]:
+          - /url: "#"
+        - link "Friends" [ref=f6e87] [cursor=pointer]:
+          - /url: "#"
+        - link "Videos" [ref=f6e93] [cursor=pointer]:
+          - /url: "#"
+        - link "Guestbook" [ref=f6e99] [cursor=pointer]:
+          - /url: "#"
+        - link "Inventory" [ref=f6e105] [cursor=pointer]:
+          - /url: "#"
+        - link "Clubs" [ref=f6e111] [cursor=pointer]:
+          - /url: "#"
+        - link "Teams" [ref=f6e117] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f6e122]:
+        - generic [ref=f6e123]:
+          - generic [ref=f6e126] [cursor=pointer]:
+            - generic [ref=f6e127]: C
+            - generic [ref=f6e129]: CS2
+          - generic [ref=f6e135]:
+            - link "Summary" [ref=f6e137] [cursor=pointer]:
+              - /url: "#"
+            - link "Match history" [ref=f6e142] [cursor=pointer]:
+              - /url: "#"
+            - link "Matchmaking" [ref=f6e147] [cursor=pointer]:
+              - /url: "#"
+            - link "Leagues" [ref=f6e152] [cursor=pointer]:
+              - /url: "#"
+            - link "Tournaments" [ref=f6e157] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=f6e161]:
+          - generic [ref=f6e162]:
+            - generic [ref=f6e163]:
+              - generic [ref=f6e164]:
+                - generic [ref=f6e169]:
+                  - generic [ref=f6e170]: Season 9
+                  - generic [ref=f6e171]: Matchmaking
+                - link "Season 9 stats" [ref=f6e172] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f6e177]:
+                - generic [ref=f6e178]:
+                  - img "Skill level 10" [ref=f6e179]
+                  - generic "Challenger rank" [ref=f6e184]: "#628"
+                  - generic [ref=f6e187]: 3,634
+                - generic [ref=f6e188]:
+                  - generic [ref=f6e189]:
+                    - generic [ref=f6e190]:
+                      - img "fi" [ref=f6e192]
+                      - generic [ref=f6e193]: "12"
+                    - generic [ref=f6e194]:
+                      - img "EU" [ref=f6e195]:
+                        - img "EU" [ref=f6e196]
+                      - generic [ref=f6e200]: "628"
+                  - generic [ref=f6e201]:
+                    - generic [ref=f6e202]:
+                      - generic [ref=f6e203]: "51"
+                      - generic [ref=f6e204]: Matches
+                      - generic [aria-hidden] [ref=f6e205]: •
+                    - generic [ref=f6e206]:
+                      - generic [ref=f6e207]: 64.7%
+                      - generic [ref=f6e208]: Win rate
+            - generic [ref=f6e209]:
+              - generic [ref=f6e210]:
+                - generic [ref=f6e211]: Recent performance
+                - generic [ref=f6e212]:
+                  - generic [ref=f6e213]: Last 30 Matches
+                  - generic [ref=f6e214]: •
+                  - generic [ref=f6e215] [cursor=pointer]:
+                    - img "Skill level 10" [ref=f6e216]
+                    - generic [ref=f6e221]: 3,251 Avg skill level of Match
+              - generic [ref=f6e225]:
+                - generic [ref=f6e226]:
+                  - generic [ref=f6e227]: Elo change
+                  - generic [ref=f6e228]: "+313"
+                - generic [ref=f6e229]:
+                  - generic [ref=f6e230]:
+                    - generic [ref=f6e231]: W
+                    - generic [ref=f6e233]: "21"
+                  - generic [ref=f6e234]: /
+                  - generic [ref=f6e235]:
+                    - generic [ref=f6e236]: L
+                    - generic [ref=f6e238]: "9"
+              - img "Elo progression" [ref=f6e242] [cursor=pointer]
+              - generic [ref=f6e248]:
+                - generic [ref=f6e250]:
+                  - generic [ref=f6e251]:
+                    - generic [ref=f6e252]: "1.50"
+                    - img "FACEIT Rating" [ref=f6e275]
+                  - generic [ref=f6e279]:
+                    - generic [ref=f6e280]:
+                      - generic [ref=f6e281]: Swing
+                      - generic [ref=f6e282]: +6.49%
+                    - generic [ref=f6e284]:
+                      - generic [ref=f6e285]: Consistency
+                      - generic [ref=f6e286]: 64%
+                - generic [ref=f6e288]:
+                  - generic [ref=f6e289]:
+                    - generic [ref=f6e290]: 21 / 12 / 5
+                    - generic [ref=f6e291]: K/D/A
+                  - generic [ref=f6e292]:
+                    - generic [ref=f6e293]: "1.74"
+                    - generic [ref=f6e294]: K/D
+                  - generic [ref=f6e295]:
+                    - generic [ref=f6e296]: "1.02"
+                    - generic [ref=f6e297]: K/R
+                  - generic [ref=f6e298]:
+                    - generic [ref=f6e299]: 60%
+                    - generic [ref=f6e300]: HS%
+                  - generic [ref=f6e301]:
+                    - generic [ref=f6e302]: "103.9"
+                    - generic [ref=f6e303]: ADR
+                  - generic [ref=f6e304]:
+                    - generic [ref=f6e305]: 70%
+                    - generic [ref=f6e306]: Win rate
+          - generic [ref=f6e307]:
+            - generic [ref=f6e308]:
+              - generic [ref=f6e309]: Recent matches
+              - link "Full match history" [ref=f6e312] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=f6e316]:
+              - generic [ref=f6e318]:
+                - generic [ref=f6e319]: Date
+                - generic [ref=f6e320]: Score
+                - generic [ref=f6e322]: Rating
+                - generic [ref=f6e336]: K/D/A
+                - generic [ref=f6e337]: Map
+              - generic [ref=f6e338]:
+                - 'link "Thu 27 Aug 01:38 W 13 : 3 Skill level 10 3,634 30 1.54 22 / 8 / 4 Anubis" [ref=f6e339] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e341]:
+                    - generic [ref=f6e342]: Thu 27 Aug
+                    - generic [ref=f6e343]: 01:38
+                  - generic [ref=f6e345]:
+                    - generic [ref=f6e346]: W
+                    - generic [ref=f6e347]:
+                      - generic [ref=f6e348]: "13"
+                      - generic [ref=f6e349]: ":"
+                      - generic [ref=f6e350]: "3"
+                  - generic [ref=f6e358]:
+                    - img "Skill level 10" [ref=f6e359]
+                    - generic [ref=f6e364]:
+                      - generic [ref=f6e365]: 3,634
+                      - generic [ref=f6e366]: "30"
+                  - generic [ref=f6e373]: "1.54"
+                  - generic [ref=f6e381]: 22 / 8 / 4
+                  - generic [ref=f6e382]: Anubis
+                - 'link "Thu 27 Aug 01:05 W 13 : 6 Skill level 10 3,604 30 1.30 15 / 11 / 2 Anubis" [ref=f6e386] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e388]:
+                    - generic [ref=f6e389]: Thu 27 Aug
+                    - generic [ref=f6e390]: 01:05
+                  - generic [ref=f6e392]:
+                    - generic [ref=f6e393]: W
+                    - generic [ref=f6e394]:
+                      - generic [ref=f6e395]: "13"
+                      - generic [ref=f6e396]: ":"
+                      - generic [ref=f6e397]: "6"
+                  - generic [ref=f6e405]:
+                    - img "Skill level 10" [ref=f6e406]
+                    - generic [ref=f6e411]:
+                      - generic [ref=f6e412]: 3,604
+                      - generic [ref=f6e413]: "30"
+                  - generic [ref=f6e420]: "1.30"
+                  - generic [ref=f6e428]: 15 / 11 / 2
+                  - generic [ref=f6e429]: Anubis
+                - 'link "Thu 27 Aug 00:10 W 13 : 6 Skill level 10 3,574 30 1.30 17 / 12 / 5 Mirage Mirage" [ref=f6e433] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e435]:
+                    - generic [ref=f6e436]: Thu 27 Aug
+                    - generic [ref=f6e437]: 00:10
+                  - generic [ref=f6e439]:
+                    - generic [ref=f6e440]: W
+                    - generic [ref=f6e441]:
+                      - generic [ref=f6e442]: "13"
+                      - generic [ref=f6e443]: ":"
+                      - generic [ref=f6e444]: "6"
+                  - generic [ref=f6e452]:
+                    - img "Skill level 10" [ref=f6e453]
+                    - generic [ref=f6e458]:
+                      - generic [ref=f6e459]: 3,574
+                      - generic [ref=f6e460]: "30"
+                  - generic [ref=f6e467]: "1.30"
+                  - generic [ref=f6e475]: 17 / 12 / 5
+                  - generic [ref=f6e477]:
+                    - img "Mirage" [ref=f6e478]
+                    - generic [ref=f6e479]: Mirage
+                - 'link "Wed 26 Aug 22:08 W 13 : 10 Skill level 10 3,545 30 1.30 18 / 14 / 5 Dust 2 Dust 2" [ref=f6e481] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e483]:
+                    - generic [ref=f6e484]: Wed 26 Aug
+                    - generic [ref=f6e485]: 22:08
+                  - generic [ref=f6e487]:
+                    - generic [ref=f6e488]: W
+                    - generic [ref=f6e489]:
+                      - generic [ref=f6e490]: "13"
+                      - generic [ref=f6e491]: ":"
+                      - generic [ref=f6e492]: "10"
+                  - generic [ref=f6e500]:
+                    - img "Skill level 10" [ref=f6e501]
+                    - generic [ref=f6e506]:
+                      - generic [ref=f6e507]: 3,545
+                      - generic [ref=f6e508]: "30"
+                  - generic [ref=f6e515]: "1.30"
+                  - generic [ref=f6e523]: 18 / 14 / 5
+                  - generic [ref=f6e525]:
+                    - img "Dust 2" [ref=f6e526]
+                    - generic [ref=f6e527]: Dust 2
+                - 'link "Wed 26 Aug 21:08 W 13 : 2 Skill level 10 3,514 30 2.08 22 / 4 / 2 Ancient" [ref=f6e529] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e531]:
+                    - generic [ref=f6e532]: Wed 26 Aug
+                    - generic [ref=f6e533]: 21:08
+                  - generic [ref=f6e535]:
+                    - generic [ref=f6e536]: W
+                    - generic [ref=f6e537]:
+                      - generic [ref=f6e538]: "13"
+                      - generic [ref=f6e539]: ":"
+                      - generic [ref=f6e540]: "2"
+                  - generic [ref=f6e548]:
+                    - img "Skill level 10" [ref=f6e549]
+                    - generic [ref=f6e554]:
+                      - generic [ref=f6e555]: 3,514
+                      - generic [ref=f6e556]: "30"
+                  - generic [ref=f6e563]: "2.08"
+                  - generic [ref=f6e571]: 22 / 4 / 2
+                  - generic [ref=f6e572]: Ancient
+                - 'link "Wed 26 Aug 20:39 L 10 : 13 Skill level 10 3,486 30 1.23 24 / 16 / 3 Mirage Mirage" [ref=f6e576] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e578]:
+                    - generic [ref=f6e579]: Wed 26 Aug
+                    - generic [ref=f6e580]: 20:39
+                  - generic [ref=f6e582]:
+                    - generic [ref=f6e583]: L
+                    - generic [ref=f6e584]:
+                      - generic [ref=f6e585]: "10"
+                      - generic [ref=f6e586]: ":"
+                      - generic [ref=f6e587]: "13"
+                  - generic [ref=f6e595]:
+                    - img "Skill level 10" [ref=f6e596]
+                    - generic [ref=f6e601]:
+                      - generic [ref=f6e602]: 3,486
+                      - generic [ref=f6e603]: "30"
+                  - generic [ref=f6e610]: "1.23"
+                  - generic [ref=f6e618]: 24 / 16 / 3
+                  - generic [ref=f6e620]:
+                    - img "Mirage" [ref=f6e621]
+                    - generic [ref=f6e622]: Mirage
+                - 'link "Wed 26 Aug 19:32 L 9 : 13 Skill level 10 3,515 30 1.48 21 / 16 / 2 Anubis" [ref=f6e624] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e626]:
+                    - generic [ref=f6e627]: Wed 26 Aug
+                    - generic [ref=f6e628]: 19:32
+                  - generic [ref=f6e630]:
+                    - generic [ref=f6e631]: L
+                    - generic [ref=f6e632]:
+                      - generic [ref=f6e633]: "9"
+                      - generic [ref=f6e634]: ":"
+                      - generic [ref=f6e635]: "13"
+                  - generic [ref=f6e643]:
+                    - img "Skill level 10" [ref=f6e644]
+                    - generic [ref=f6e649]:
+                      - generic [ref=f6e650]: 3,515
+                      - generic [ref=f6e651]: "30"
+                  - generic [ref=f6e658]: "1.48"
+                  - generic [ref=f6e666]: 21 / 16 / 2
+                  - generic [ref=f6e667]: Anubis
+                - 'link "Sun 23 Aug 22:25 W 13 : 7 Skill level 10 3,545 30 1.62 20 / 9 / 7 Ancient" [ref=f6e671] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e673]:
+                    - generic [ref=f6e674]: Sun 23 Aug
+                    - generic [ref=f6e675]: 22:25
+                  - generic [ref=f6e677]:
+                    - generic [ref=f6e678]: W
+                    - generic [ref=f6e679]:
+                      - generic [ref=f6e680]: "13"
+                      - generic [ref=f6e681]: ":"
+                      - generic [ref=f6e682]: "7"
+                  - generic [ref=f6e690]:
+                    - img "Skill level 10" [ref=f6e691]
+                    - generic [ref=f6e696]:
+                      - generic [ref=f6e697]: 3,545
+                      - generic [ref=f6e698]: "30"
+                  - generic [ref=f6e705]: "1.62"
+                  - generic [ref=f6e713]: 20 / 9 / 7
+                  - generic [ref=f6e714]: Ancient
+                - 'link "Sun 23 Aug 21:53 W 13 : 5 Skill level 10 3,517 30 2.00 25 / 8 / 7 Mirage Mirage" [ref=f6e718] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e720]:
+                    - generic [ref=f6e721]: Sun 23 Aug
+                    - generic [ref=f6e722]: 21:53
+                  - generic [ref=f6e724]:
+                    - generic [ref=f6e725]: W
+                    - generic [ref=f6e726]:
+                      - generic [ref=f6e727]: "13"
+                      - generic [ref=f6e728]: ":"
+                      - generic [ref=f6e729]: "5"
+                  - generic [ref=f6e737]:
+                    - img "Skill level 10" [ref=f6e738]
+                    - generic [ref=f6e743]:
+                      - generic [ref=f6e744]: 3,517
+                      - generic [ref=f6e745]: "30"
+                  - generic [ref=f6e752]: "2.00"
+                  - generic [ref=f6e760]: 25 / 8 / 7
+                  - generic [ref=f6e762]:
+                    - img "Mirage" [ref=f6e763]
+                    - generic [ref=f6e764]: Mirage
+                - 'link "Sun 23 Aug 21:19 L 10 : 13 Skill level 10 3,488 30 1.17 17 / 16 / 4 Mirage Mirage" [ref=f6e766] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e768]:
+                    - generic [ref=f6e769]: Sun 23 Aug
+                    - generic [ref=f6e770]: 21:19
+                  - generic [ref=f6e772]:
+                    - generic [ref=f6e773]: L
+                    - generic [ref=f6e774]:
+                      - generic [ref=f6e775]: "10"
+                      - generic [ref=f6e776]: ":"
+                      - generic [ref=f6e777]: "13"
+                  - generic [ref=f6e785]:
+                    - img "Skill level 10" [ref=f6e786]
+                    - generic [ref=f6e791]:
+                      - generic [ref=f6e792]: 3,488
+                      - generic [ref=f6e793]: "30"
+                  - generic [ref=f6e800]: "1.17"
+                  - generic [ref=f6e808]: 17 / 16 / 4
+                  - generic [ref=f6e810]:
+                    - img "Mirage" [ref=f6e811]
+                    - generic [ref=f6e812]: Mirage
+                - 'link "Sun 23 Aug 20:40 W 13 : 5 Skill level 10 3,518 30 1.82 23 / 10 / 3 Ancient" [ref=f6e814] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e816]:
+                    - generic [ref=f6e817]: Sun 23 Aug
+                    - generic [ref=f6e818]: 20:40
+                  - generic [ref=f6e820]:
+                    - generic [ref=f6e821]: W
+                    - generic [ref=f6e822]:
+                      - generic [ref=f6e823]: "13"
+                      - generic [ref=f6e824]: ":"
+                      - generic [ref=f6e825]: "5"
+                  - generic [ref=f6e833]:
+                    - img "Skill level 10" [ref=f6e834]
+                    - generic [ref=f6e839]:
+                      - generic [ref=f6e840]: 3,518
+                      - generic [ref=f6e841]: "30"
+                  - generic [ref=f6e848]: "1.82"
+                  - generic [ref=f6e856]: 23 / 10 / 3
+                  - generic [ref=f6e857]: Ancient
+                - 'link "Sat 22 Aug 22:59 W 13 : 9 Skill level 10 3,490 30 1.92 29 / 14 / 2 Mirage Mirage" [ref=f6e861] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e863]:
+                    - generic [ref=f6e864]: Sat 22 Aug
+                    - generic [ref=f6e865]: 22:59
+                  - generic [ref=f6e867]:
+                    - generic [ref=f6e868]: W
+                    - generic [ref=f6e869]:
+                      - generic [ref=f6e870]: "13"
+                      - generic [ref=f6e871]: ":"
+                      - generic [ref=f6e872]: "9"
+                  - generic [ref=f6e880]:
+                    - img "Skill level 10" [ref=f6e881]
+                    - generic [ref=f6e886]:
+                      - generic [ref=f6e887]: 3,490
+                      - generic [ref=f6e888]: "30"
+                  - generic [ref=f6e895]: "1.92"
+                  - generic [ref=f6e903]: 29 / 14 / 2
+                  - generic [ref=f6e905]:
+                    - img "Mirage" [ref=f6e906]
+                    - generic [ref=f6e907]: Mirage
+                - 'link "Sat 22 Aug 22:20 W 13 : 3 Skill level 10 3,462 30 1.17 12 / 7 / 6 Mirage Mirage" [ref=f6e909] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e911]:
+                    - generic [ref=f6e912]: Sat 22 Aug
+                    - generic [ref=f6e913]: 22:20
+                  - generic [ref=f6e915]:
+                    - generic [ref=f6e916]: W
+                    - generic [ref=f6e917]:
+                      - generic [ref=f6e918]: "13"
+                      - generic [ref=f6e919]: ":"
+                      - generic [ref=f6e920]: "3"
+                  - generic [ref=f6e928]:
+                    - img "Skill level 10" [ref=f6e929]
+                    - generic [ref=f6e934]:
+                      - generic [ref=f6e935]: 3,462
+                      - generic [ref=f6e936]: "30"
+                  - generic [ref=f6e943]: "1.17"
+                  - generic [ref=f6e951]: 12 / 7 / 6
+                  - generic [ref=f6e953]:
+                    - img "Mirage" [ref=f6e954]
+                    - generic [ref=f6e955]: Mirage
+                - 'link "Sat 22 Aug 21:43 W 13 : 8 Skill level 10 3,433 30 1.83 18 / 11 / 4 Nuke Nuke" [ref=f6e957] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e959]:
+                    - generic [ref=f6e960]: Sat 22 Aug
+                    - generic [ref=f6e961]: 21:43
+                  - generic [ref=f6e963]:
+                    - generic [ref=f6e964]: W
+                    - generic [ref=f6e965]:
+                      - generic [ref=f6e966]: "13"
+                      - generic [ref=f6e967]: ":"
+                      - generic [ref=f6e968]: "8"
+                  - generic [ref=f6e976]:
+                    - img "Skill level 10" [ref=f6e977]
+                    - generic [ref=f6e982]:
+                      - generic [ref=f6e983]: 3,433
+                      - generic [ref=f6e984]: "30"
+                  - generic [ref=f6e991]: "1.83"
+                  - generic [ref=f6e999]: 18 / 11 / 4
+                  - generic [ref=f6e1001]:
+                    - img "Nuke" [ref=f6e1002]
+                    - generic [ref=f6e1003]: Nuke
+                - 'link "Sat 22 Aug 20:58 W 13 : 8 Skill level 10 3,403 30 1.91 25 / 9 / 3 Anubis" [ref=f6e1005] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1007]:
+                    - generic [ref=f6e1008]: Sat 22 Aug
+                    - generic [ref=f6e1009]: 20:58
+                  - generic [ref=f6e1011]:
+                    - generic [ref=f6e1012]: W
+                    - generic [ref=f6e1013]:
+                      - generic [ref=f6e1014]: "13"
+                      - generic [ref=f6e1015]: ":"
+                      - generic [ref=f6e1016]: "8"
+                  - generic [ref=f6e1024]:
+                    - img "Skill level 10" [ref=f6e1025]
+                    - generic [ref=f6e1030]:
+                      - generic [ref=f6e1031]: 3,403
+                      - generic [ref=f6e1032]: "30"
+                  - generic [ref=f6e1039]: "1.91"
+                  - generic [ref=f6e1047]: 25 / 9 / 3
+                  - generic [ref=f6e1048]: Anubis
+                - 'link "Sat 22 Aug 20:14 W 13 : 6 Skill level 10 3,373 30 1.12 15 / 9 / 2 Dust 2 Dust 2" [ref=f6e1052] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1054]:
+                    - generic [ref=f6e1055]: Sat 22 Aug
+                    - generic [ref=f6e1056]: 20:14
+                  - generic [ref=f6e1058]:
+                    - generic [ref=f6e1059]: W
+                    - generic [ref=f6e1060]:
+                      - generic [ref=f6e1061]: "13"
+                      - generic [ref=f6e1062]: ":"
+                      - generic [ref=f6e1063]: "6"
+                  - generic [ref=f6e1071]:
+                    - img "Skill level 10" [ref=f6e1072]
+                    - generic [ref=f6e1077]:
+                      - generic [ref=f6e1078]: 3,373
+                      - generic [ref=f6e1079]: "30"
+                  - generic [ref=f6e1086]: "1.12"
+                  - generic [ref=f6e1094]: 15 / 9 / 2
+                  - generic [ref=f6e1096]:
+                    - img "Dust 2" [ref=f6e1097]
+                    - generic [ref=f6e1098]: Dust 2
+                - 'link "Sat 22 Aug 19:32 L 8 : 13 Skill level 10 3,343 30 1.29 19 / 16 / 2 Mirage Mirage" [ref=f6e1100] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1102]:
+                    - generic [ref=f6e1103]: Sat 22 Aug
+                    - generic [ref=f6e1104]: 19:32
+                  - generic [ref=f6e1106]:
+                    - generic [ref=f6e1107]: L
+                    - generic [ref=f6e1108]:
+                      - generic [ref=f6e1109]: "8"
+                      - generic [ref=f6e1110]: ":"
+                      - generic [ref=f6e1111]: "13"
+                  - generic [ref=f6e1119]:
+                    - img "Skill level 10" [ref=f6e1120]
+                    - generic [ref=f6e1125]:
+                      - generic [ref=f6e1126]: 3,343
+                      - generic [ref=f6e1127]: "30"
+                  - generic [ref=f6e1134]: "1.29"
+                  - generic [ref=f6e1142]: 19 / 16 / 2
+                  - generic [ref=f6e1144]:
+                    - img "Mirage" [ref=f6e1145]
+                    - generic [ref=f6e1146]: Mirage
+                - 'link "Sat 22 Aug 18:44 L 7 : 13 Skill level 10 3,373 30 1.33 15 / 15 / 5 Ancient" [ref=f6e1148] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1150]:
+                    - generic [ref=f6e1151]: Sat 22 Aug
+                    - generic [ref=f6e1152]: 18:44
+                  - generic [ref=f6e1154]:
+                    - generic [ref=f6e1155]: L
+                    - generic [ref=f6e1156]:
+                      - generic [ref=f6e1157]: "7"
+                      - generic [ref=f6e1158]: ":"
+                      - generic [ref=f6e1159]: "13"
+                  - generic [ref=f6e1167]:
+                    - img "Skill level 10" [ref=f6e1168]
+                    - generic [ref=f6e1173]:
+                      - generic [ref=f6e1174]: 3,373
+                      - generic [ref=f6e1175]: "30"
+                  - generic [ref=f6e1182]: "1.33"
+                  - generic [ref=f6e1190]: 15 / 15 / 5
+                  - generic [ref=f6e1191]: Ancient
+                - 'link "Sat 22 Aug 18:03 L 6 : 13 Skill level 10 3,404 30 0.91 13 / 16 / 4 Mirage Mirage" [ref=f6e1195] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1197]:
+                    - generic [ref=f6e1198]: Sat 22 Aug
+                    - generic [ref=f6e1199]: 18:03
+                  - generic [ref=f6e1201]:
+                    - generic [ref=f6e1202]: L
+                    - generic [ref=f6e1203]:
+                      - generic [ref=f6e1204]: "6"
+                      - generic [ref=f6e1205]: ":"
+                      - generic [ref=f6e1206]: "13"
+                  - generic [ref=f6e1214]:
+                    - img "Skill level 10" [ref=f6e1215]
+                    - generic [ref=f6e1220]:
+                      - generic [ref=f6e1221]: 3,404
+                      - generic [ref=f6e1222]: "30"
+                  - generic [ref=f6e1229]: "0.91"
+                  - generic [ref=f6e1237]: 13 / 16 / 4
+                  - generic [ref=f6e1239]:
+                    - img "Mirage" [ref=f6e1240]
+                    - generic [ref=f6e1241]: Mirage
+                - 'link "Fri 21 Aug 19:52 W 13 : 6 Skill level 10 3,434 30 1.44 20 / 8 / 3 Dust 2 Dust 2" [ref=f6e1243] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1245]:
+                    - generic [ref=f6e1246]: Fri 21 Aug
+                    - generic [ref=f6e1247]: 19:52
+                  - generic [ref=f6e1249]:
+                    - generic [ref=f6e1250]: W
+                    - generic [ref=f6e1251]:
+                      - generic [ref=f6e1252]: "13"
+                      - generic [ref=f6e1253]: ":"
+                      - generic [ref=f6e1254]: "6"
+                  - generic [ref=f6e1262]:
+                    - img "Skill level 10" [ref=f6e1263]
+                    - generic [ref=f6e1268]:
+                      - generic [ref=f6e1269]: 3,434
+                      - generic [ref=f6e1270]: "30"
+                  - generic [ref=f6e1277]: "1.44"
+                  - generic [ref=f6e1285]: 20 / 8 / 3
+                  - generic [ref=f6e1287]:
+                    - img "Dust 2" [ref=f6e1288]
+                    - generic [ref=f6e1289]: Dust 2
+                - 'link "Fri 21 Aug 19:14 W 13 : 8 Skill level 10 3,406 30 1.59 25 / 12 / 10 Mirage Mirage" [ref=f6e1291] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1293]:
+                    - generic [ref=f6e1294]: Fri 21 Aug
+                    - generic [ref=f6e1295]: 19:14
+                  - generic [ref=f6e1297]:
+                    - generic [ref=f6e1298]: W
+                    - generic [ref=f6e1299]:
+                      - generic [ref=f6e1300]: "13"
+                      - generic [ref=f6e1301]: ":"
+                      - generic [ref=f6e1302]: "8"
+                  - generic [ref=f6e1310]:
+                    - img "Skill level 10" [ref=f6e1311]
+                    - generic [ref=f6e1316]:
+                      - generic [ref=f6e1317]: 3,406
+                      - generic [ref=f6e1318]: "30"
+                  - generic [ref=f6e1325]: "1.59"
+                  - generic [ref=f6e1333]: 25 / 12 / 10
+                  - generic [ref=f6e1335]:
+                    - img "Mirage" [ref=f6e1336]
+                    - generic [ref=f6e1337]: Mirage
+                - 'link "Fri 21 Aug 17:24 W 13 : 5 Skill level 10 3,378 30 1.94 27 / 5 / 3 Anubis" [ref=f6e1339] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1341]:
+                    - generic [ref=f6e1342]: Fri 21 Aug
+                    - generic [ref=f6e1343]: 17:24
+                  - generic [ref=f6e1345]:
+                    - generic [ref=f6e1346]: W
+                    - generic [ref=f6e1347]:
+                      - generic [ref=f6e1348]: "13"
+                      - generic [ref=f6e1349]: ":"
+                      - generic [ref=f6e1350]: "5"
+                  - generic [ref=f6e1358]:
+                    - img "Skill level 10" [ref=f6e1359]
+                    - generic [ref=f6e1364]:
+                      - generic [ref=f6e1365]: 3,378
+                      - generic [ref=f6e1366]: "30"
+                  - generic [ref=f6e1373]: "1.94"
+                  - generic [ref=f6e1381]: 27 / 5 / 3
+                  - generic [ref=f6e1382]: Anubis
+                - 'link "Fri 21 Aug 16:14 W 13 : 6 Skill level 10 3,350 30 1.85 26 / 7 / 3 Ancient" [ref=f6e1386] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1388]:
+                    - generic [ref=f6e1389]: Fri 21 Aug
+                    - generic [ref=f6e1390]: 16:14
+                  - generic [ref=f6e1392]:
+                    - generic [ref=f6e1393]: W
+                    - generic [ref=f6e1394]:
+                      - generic [ref=f6e1395]: "13"
+                      - generic [ref=f6e1396]: ":"
+                      - generic [ref=f6e1397]: "6"
+                  - generic [ref=f6e1405]:
+                    - img "Skill level 10" [ref=f6e1406]
+                    - generic [ref=f6e1411]:
+                      - generic [ref=f6e1412]: 3,350
+                      - generic [ref=f6e1413]: "30"
+                  - generic [ref=f6e1420]: "1.85"
+                  - generic [ref=f6e1428]: 26 / 7 / 3
+                  - generic [ref=f6e1429]: Ancient
+                - 'link "Thu 20 Aug 20:18 L 13 : 16 Skill level 10 3,322 30 1.35 26 / 24 / 8 Ancient" [ref=f6e1433] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1435]:
+                    - generic [ref=f6e1436]: Thu 20 Aug
+                    - generic [ref=f6e1437]: 20:18
+                  - generic [ref=f6e1439]:
+                    - generic [ref=f6e1440]: L
+                    - generic [ref=f6e1441]:
+                      - generic [ref=f6e1442]: "13"
+                      - generic [ref=f6e1443]: ":"
+                      - generic [ref=f6e1444]: "16"
+                  - generic [ref=f6e1452]:
+                    - img "Skill level 10" [ref=f6e1453]
+                    - generic [ref=f6e1458]:
+                      - generic [ref=f6e1459]: 3,322
+                      - generic [ref=f6e1460]: "30"
+                  - generic [ref=f6e1467]: "1.35"
+                  - generic [ref=f6e1475]: 26 / 24 / 8
+                  - generic [ref=f6e1476]: Ancient
+                - 'link "Thu 20 Aug 19:27 W 13 : 11 Skill level 10 3,352 30 0.98 18 / 17 / 5 Nuke Nuke" [ref=f6e1480] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1482]:
+                    - generic [ref=f6e1483]: Thu 20 Aug
+                    - generic [ref=f6e1484]: 19:27
+                  - generic [ref=f6e1486]:
+                    - generic [ref=f6e1487]: W
+                    - generic [ref=f6e1488]:
+                      - generic [ref=f6e1489]: "13"
+                      - generic [ref=f6e1490]: ":"
+                      - generic [ref=f6e1491]: "11"
+                  - generic [ref=f6e1499]:
+                    - img "Skill level 10" [ref=f6e1500]
+                    - generic [ref=f6e1505]:
+                      - generic [ref=f6e1506]: 3,352
+                      - generic [ref=f6e1507]: "30"
+                  - generic [ref=f6e1514]: "0.98"
+                  - generic [ref=f6e1522]: 18 / 17 / 5
+                  - generic [ref=f6e1524]:
+                    - img "Nuke" [ref=f6e1525]
+                    - generic [ref=f6e1526]: Nuke
+                - 'link "Thu 20 Aug 18:39 W 16 : 14 Skill level 10 3,323 30 1.35 27 / 18 / 10 Mirage Mirage" [ref=f6e1528] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1530]:
+                    - generic [ref=f6e1531]: Thu 20 Aug
+                    - generic [ref=f6e1532]: 18:39
+                  - generic [ref=f6e1534]:
+                    - generic [ref=f6e1535]: W
+                    - generic [ref=f6e1536]:
+                      - generic [ref=f6e1537]: "16"
+                      - generic [ref=f6e1538]: ":"
+                      - generic [ref=f6e1539]: "14"
+                  - generic [ref=f6e1547]:
+                    - img "Skill level 10" [ref=f6e1548]
+                    - generic [ref=f6e1553]:
+                      - generic [ref=f6e1554]: 3,323
+                      - generic [ref=f6e1555]: "30"
+                  - generic [ref=f6e1562]: "1.35"
+                  - generic [ref=f6e1570]: 27 / 18 / 10
+                  - generic [ref=f6e1572]:
+                    - img "Mirage" [ref=f6e1573]
+                    - generic [ref=f6e1574]: Mirage
+                - 'link "Tue 18 Aug 22:57 L 10 : 13 Skill level 10 3,294 30 1.15 23 / 15 / 8 Dust 2 Dust 2" [ref=f6e1576] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1578]:
+                    - generic [ref=f6e1579]: Tue 18 Aug
+                    - generic [ref=f6e1580]: 22:57
+                  - generic [ref=f6e1582]:
+                    - generic [ref=f6e1583]: L
+                    - generic [ref=f6e1584]:
+                      - generic [ref=f6e1585]: "10"
+                      - generic [ref=f6e1586]: ":"
+                      - generic [ref=f6e1587]: "13"
+                  - generic [ref=f6e1595]:
+                    - img "Skill level 10" [ref=f6e1596]
+                    - generic [ref=f6e1601]:
+                      - generic [ref=f6e1602]: 3,294
+                      - generic [ref=f6e1603]: "30"
+                  - generic [ref=f6e1610]: "1.15"
+                  - generic [ref=f6e1618]: 23 / 15 / 8
+                  - generic [ref=f6e1620]:
+                    - img "Dust 2" [ref=f6e1621]
+                    - generic [ref=f6e1622]: Dust 2
+                - 'link "Tue 18 Aug 22:19 W 13 : 8 Skill level 10 3,320 30 1.66 24 / 10 / 2 Mirage Mirage" [ref=f6e1624] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1626]:
+                    - generic [ref=f6e1627]: Tue 18 Aug
+                    - generic [ref=f6e1628]: 22:19
+                  - generic [ref=f6e1630]:
+                    - generic [ref=f6e1631]: W
+                    - generic [ref=f6e1632]:
+                      - generic [ref=f6e1633]: "13"
+                      - generic [ref=f6e1634]: ":"
+                      - generic [ref=f6e1635]: "8"
+                  - generic [ref=f6e1643]:
+                    - img "Skill level 10" [ref=f6e1644]
+                    - generic [ref=f6e1649]:
+                      - generic [ref=f6e1650]: 3,320
+                      - generic [ref=f6e1651]: "30"
+                  - generic [ref=f6e1658]: "1.66"
+                  - generic [ref=f6e1666]: 24 / 10 / 2
+                  - generic [ref=f6e1668]:
+                    - img "Mirage" [ref=f6e1669]
+                    - generic [ref=f6e1670]: Mirage
+                - 'link "Tue 18 Aug 02:00 L 11 : 13 Skill level 10 3,291 30 1.53 25 / 15 / 6 Mirage Mirage" [ref=f6e1672] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1674]:
+                    - generic [ref=f6e1675]: Tue 18 Aug
+                    - generic [ref=f6e1676]: 02:00
+                  - generic [ref=f6e1678]:
+                    - generic [ref=f6e1679]: L
+                    - generic [ref=f6e1680]:
+                      - generic [ref=f6e1681]: "11"
+                      - generic [ref=f6e1682]: ":"
+                      - generic [ref=f6e1683]: "13"
+                  - generic [ref=f6e1691]:
+                    - img "Skill level 10" [ref=f6e1692]
+                    - generic [ref=f6e1697]:
+                      - generic [ref=f6e1698]: 3,291
+                      - generic [ref=f6e1699]: "30"
+                  - generic [ref=f6e1706]: "1.53"
+                  - generic [ref=f6e1714]: 25 / 15 / 6
+                  - generic [ref=f6e1716]:
+                    - img "Mirage" [ref=f6e1717]
+                    - generic [ref=f6e1718]: Mirage
+                - 'link "Tue 18 Aug 01:08 W 13 : 10 Skill level 10 3,321 30 1.81 27 / 14 / 5 Mirage Mirage" [ref=f6e1720] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/Jimpphat
+                  - generic [ref=f6e1722]:
+                    - generic [ref=f6e1723]: Tue 18 Aug
+                    - generic [ref=f6e1724]: 01:08
+                  - generic [ref=f6e1726]:
+                    - generic [ref=f6e1727]: W
+                    - generic [ref=f6e1728]:
+                      - generic [ref=f6e1729]: "13"
+                      - generic [ref=f6e1730]: ":"
+                      - generic [ref=f6e1731]: "10"
+                  - generic [ref=f6e1739]:
+                    - img "Skill level 10" [ref=f6e1740]
+                    - generic [ref=f6e1745]:
+                      - generic [ref=f6e1746]: 3,321
+                      - generic [ref=f6e1747]: "30"
+                  - generic [ref=f6e1754]: "1.81"
+                  - generic [ref=f6e1762]: 27 / 14 / 5
+                  - generic [ref=f6e1764]:
+                    - img "Mirage" [ref=f6e1765]
+                    - generic [ref=f6e1766]: Mirage
+  - generic [ref=f6e1768]:
+    - img "avatar" [ref=f6e1769] [cursor=pointer]
+    - generic "Matches" [ref=f6e1770] [cursor=pointer]
+    - generic "Notifications" [ref=f6e1773] [cursor=pointer]
+    - generic "Social" [ref=f6e1776] [cursor=pointer]
+    - generic "Create Group" [ref=f6e1779] [cursor=pointer]
+    - generic "Invite Players" [ref=f6e1784] [cursor=pointer]

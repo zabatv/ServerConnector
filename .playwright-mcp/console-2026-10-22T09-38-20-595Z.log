@@ -1,0 +1,25 @@
+[     210ms] [ERROR] The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header. @ http://2.26.125.147:4173/p/w0nderful:0
+[     594ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/fuse-icons/sprite-objects.5ce3ac91211f.svg#gift:0
+[     657ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/fuse-icons/sprite-alert.390e4a77f3d2.svg#info:0
+[     996ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/fuse-icons/sprite-navigation.72ebf51430e7.svg#arrowDown:0
+[     996ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/fuse-icons/sprite-platform.3413ed781672.svg#matchmaking:0
+[    1144ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/distribution.faceit-cdn.net/images/4f8ebe48-40af-4b99-b66a-00b2bee8e869.webp:0
+[  110343ms] [ERROR] The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header. @ http://2.26.125.147:4173/p/w0nderful:0
+[  110364ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/4285c2e5-2e4b-4a89-aa97-809f985812e5.jpg:0
+[  110364ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/7ea1852d-93a4-4371-bed0-a81c70e6caec.avif:0
+[  110365ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/b412609d-c2a7-40ce-8b82-79e193da1c9c.png?width=48&height=48:0
+[  110365ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/723663eb-485e-4121-b367-bf43a16f8b3d.png?width=48&height=48:0
+[  110376ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/723663eb-485e-4121-b367-bf43a16f8b3d.png?width=48&height=48:0
+[  110376ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/b412609d-c2a7-40ce-8b82-79e193da1c9c.png?width=48&height=48:0
+[  110376ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/c1040791-5184-4d9e-85e0-f4ee9f60b385.png?width=48&height=48:0
+[  110381ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/b412609d-c2a7-40ce-8b82-79e193da1c9c.png?width=48&height=48:0
+[  110388ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/723663eb-485e-4121-b367-bf43a16f8b3d.png?width=48&height=48:0
+[  110388ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/b412609d-c2a7-40ce-8b82-79e193da1c9c.png?width=48&height=48:0
+[  110399ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/b412609d-c2a7-40ce-8b82-79e193da1c9c.png?width=48&height=48:0
+[  110399ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/c1040791-5184-4d9e-85e0-f4ee9f60b385.png?width=48&height=48:0
+[  110402ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://distribution.faceit-cdn.net/images/38feed66-9bcd-432a-991e-4f404d922147.jpg:0
+[  110777ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/fuse-icons/sprite-alert.390e4a77f3d2.svg#info:0
+[  110778ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/fuse-icons/sprite-objects.5ce3ac91211f.svg#gift:0
+[  110778ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/fuse-icons/sprite-platform.3413ed781672.svg#matchmaking:0
+[  110778ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/fuse-icons/sprite-navigation.72ebf51430e7.svg#arrowDown:0
+[  111059ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://2.26.125.147:4173/distribution.faceit-cdn.net/images/4f8ebe48-40af-4b99-b66a-00b2bee8e869.webp:0

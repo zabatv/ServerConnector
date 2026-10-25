@@ -1,0 +1,26 @@
+- generic [ref=f11e2]:
+  - generic [ref=f11e3]:
+    - banner [ref=f11e4]:
+      - generic [ref=f11e5]:
+        - link [ref=f11e6] [cursor=pointer]:
+          - /url: /
+        - navigation
+      - generic [ref=f11e81]:
+        - button [ref=f11e82] [cursor=pointer]
+        - button [ref=f11e89] [cursor=pointer]
+        - button [ref=f11e96] [cursor=pointer]
+        - button "Ап 0" [ref=f11e102] [cursor=pointer]:
+          - generic [ref=f11e103]:
+            - generic [ref=f11e104]: Ап
+            - generic: "0"
+    - main [ref=f11e106]
+  - button [ref=f11e111] [cursor=pointer]:
+    - img "support-logo" [ref=f11e113]
+  - generic [ref=f11e115]:
+    - paragraph [ref=f11e116]:
+      - text: На нашем сайте обрабатываются cookie-файлы, в том числе при помощи сервисов веб-аналитики Яндекс.Метрика и Top.Mail.ru. Используя сайт, вы соглашаетесь на обработку персональных данных при помощи cookie-файлов. Подробнее об обработке персональных данных вы можете узнать в
+      - link "Политике конфиденциальности" [ref=f11e117] [cursor=pointer]:
+        - /url: https://storage.yandexcloud.net/s3newlxpbulgakov/privacy_policy_and_personal_data.pdf
+    - generic [ref=f11e118]:
+      - button "Отказаться" [ref=f11e119] [cursor=pointer]
+      - button "Принять" [ref=f11e122] [cursor=pointer]

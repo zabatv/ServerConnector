@@ -1,0 +1,41 @@
+- generic [active] [ref=f6e1]:
+  - banner [ref=f6e2]:
+    - link "Rostrum" [ref=f6e3] [cursor=pointer]:
+      - /url: /
+    - navigation [ref=f6e5]:
+      - link "Панель" [ref=f6e6] [cursor=pointer]:
+        - /url: /admin
+      - link "Claim" [ref=f6e7] [cursor=pointer]:
+        - /url: /admin/claim
+      - button "Выйти" [ref=f6e9] [cursor=pointer]
+  - main [ref=f6e10]:
+    - generic [ref=f6e11]:
+      - paragraph [ref=f6e12]: НАСТРОЙКА
+      - generic [ref=f6e13]:
+        - generic [ref=f6e14]:
+          - generic [ref=f6e15]: МОЙ ПРОФИЛЬ (A · мой ник на FACEIT)
+          - combobox "МОЙ ПРОФИЛЬ (A · мой ник на FACEIT)" [ref=f6e16]
+        - generic [ref=f6e17]:
+          - generic [ref=f6e18]: НИК ЖЕРТВЫ (B · профиль жертвы)
+          - combobox "НИК ЖЕРТВЫ (B · профиль жертвы)" [ref=f6e19]
+        - generic [ref=f6e20]:
+          - generic [ref=f6e21]: DISPLAY NICKNAME (C · ПЕЧАТАЕТСЯ В ПРОФИЛЕ)
+          - textbox "DISPLAY NICKNAME (C · ПЕЧАТАЕТСЯ В ПРОФИЛЕ)" [ref=f6e22]:
+            - /placeholder: пусто = подтверждённый алиас
+          - generic [ref=f6e23]: пусто — печатается реальный ник; алиас берётся из claim, если он есть
+        - generic [ref=f6e24]:
+          - generic [ref=f6e25]: НАЗНАЧЕНИЕ
+          - combobox "НАЗНАЧЕНИЕ" [ref=f6e26]:
+            - option "внутренняя страница" [selected]
+            - option "разрешённый внешний сайт"
+        - generic [ref=f6e27]:
+          - generic [ref=f6e28]: REDIRECT URL (КНОПКА ADD FRIEND)
+          - textbox "REDIRECT URL (КНОПКА ADD FRIEND)" [disabled] [ref=f6e29]:
+            - /placeholder: https://cup.example/bracket
+          - generic [ref=f6e30]: Любой корректный http(s)-адрес. Схемы кроме http/https отклоняются.
+        - paragraph [ref=f6e31]:
+          - text: ссылка вида
+          - code [ref=f6e32]: /p/xxxxxxxxxx
+          - text: · → внутренняя страница
+        - button "ЗАПУСТИТЬ" [ref=f6e33] [cursor=pointer]
+    - paragraph

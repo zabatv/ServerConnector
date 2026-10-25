@@ -1,0 +1,80 @@
+- generic [ref=f20e2]:
+  - banner [ref=f20e3]:
+    - generic [ref=f20e19]:
+      - img "brand logo" [ref=f20e21]
+      - text:     
+  - main [ref=f20e22]:
+    - generic [ref=f20e25]:
+      - generic [ref=f20e27]:
+        - generic [ref=f20e30]:
+          - generic [ref=f20e223]:
+            - generic [ref=f20e227]:
+              - generic [ref=f20e228]: ОУП.06.В Физика. Тема 7.2 Эволюция Вселенной. 1 курс 2 семестр.
+              - generic [ref=f20e229]: 1 Первая тема
+            - generic [ref=f20e231]:
+              - generic [ref=f20e232]: Вопрос 4. Какие действия могут изменить магнитный поток через замкнутый контур?
+              - generic [ref=f20e235]:
+                - generic [ref=f20e237] [cursor=pointer]:
+                  - text: A
+                  - generic [ref=f20e238]: В Повернуть контур (изменить угол между B и нормалью)
+                - generic [ref=f20e240] [cursor=pointer]:
+                  - text: B
+                  - generic [ref=f20e241]: Г Перемещать магнит и контур относительно друг друга
+                - generic [ref=f20e243] [cursor=pointer]:
+                  - text: C
+                  - generic [ref=f20e244]: Б Изменить площадь контура
+                  - text: ✓
+                - generic [ref=f20e246] [cursor=pointer]:
+                  - text: D
+                  - generic [ref=f20e247]: А Изменить магнитную индукцию B
+                  - text: ✓
+          - generic [ref=f20e57]:
+            - button " Назад" [ref=f20e167] [cursor=pointer]:
+              - generic [ref=f20e168]: 
+              - text: Назад
+            - generic [ref=f20e58]:
+              - text: 
+              - button "Ответить " [ref=f20e140] [cursor=pointer]:
+                - text: Ответить
+                - generic [ref=f20e141]: 
+        - generic [ref=f20e61]:
+          - generic [ref=f20e62]: 01:25:23
+          - generic [ref=f20e72]:
+            - generic [ref=f20e74]:
+              - generic [ref=f20e75]: Пройдено
+              - generic [ref=f20e76]: ":"
+              - generic [ref=f20e77]: 20%
+            - generic [ref=f20e79]:
+              - generic [ref=f20e80]:
+                - generic [ref=f20e81]: Все страницы
+                - generic [ref=f20e82] [cursor=pointer]
+              - generic [ref=f20e86]:
+                - generic [ref=f20e88]:
+                  - generic [ref=f20e89] [cursor=pointer]: "1"
+                  - generic [ref=f20e92] [cursor=pointer]: "2"
+                  - generic [ref=f20e94] [cursor=pointer]: "3"
+                  - generic [ref=f20e96] [cursor=pointer]: "4"
+                  - generic [ref=f20e98] [cursor=pointer]:
+                    - generic [ref=f20e99]: "5"
+                    - generic [ref=f20e248]: Вы здесь
+                  - generic [ref=f20e100] [cursor=pointer]: "6"
+                  - generic [ref=f20e102] [cursor=pointer]: "7"
+                  - generic [ref=f20e104] [cursor=pointer]: "8"
+                  - generic [ref=f20e106] [cursor=pointer]: "9"
+                  - generic [ref=f20e108] [cursor=pointer]: "10"
+                  - generic [ref=f20e110] [cursor=pointer]: "11"
+                  - generic [ref=f20e112] [cursor=pointer]: "12"
+                  - generic [ref=f20e114] [cursor=pointer]: "13"
+                  - generic [ref=f20e116] [cursor=pointer]: "14"
+                  - generic [ref=f20e118] [cursor=pointer]: "15"
+                  - generic [ref=f20e120] [cursor=pointer]: "16"
+                  - generic [ref=f20e122] [cursor=pointer]: "17"
+                  - generic [ref=f20e124] [cursor=pointer]: "18"
+                  - generic [ref=f20e126] [cursor=pointer]: "19"
+                  - generic [ref=f20e128] [cursor=pointer]: "20"
+                - generic [ref=f20e130]:
+                  - generic [ref=f20e131]: 
+                  - generic [ref=f20e133]: 1-10
+                  - generic [ref=f20e136] [cursor=pointer]: 
+      - generic [ref=f20e138]: © 2026 StartExam Platform
+  - contentinfo

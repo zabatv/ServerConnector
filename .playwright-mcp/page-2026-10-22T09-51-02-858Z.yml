@@ -1,0 +1,436 @@
+- generic [active] [ref=f12e1]:
+  - generic [ref=f12e3]:
+    - generic [ref=f12e4]:
+      - generic [ref=f12e5] [cursor=pointer]
+      - generic [ref=f12e9]: You're logged out
+      - generic [ref=f12e10]: Sign in for the full experience
+      - generic [ref=f12e11]:
+        - button "Create account" [ref=f12e12] [cursor=pointer]
+        - button "Login" [ref=f12e13] [cursor=pointer]
+    - generic [ref=f12e14]:
+      - generic [ref=f12e19]:
+        - link [ref=f12e20] [cursor=pointer]:
+          - /url: /en
+          - img "FACEIT" [ref=f12e22]
+        - generic [ref=f12e23]:
+          - button "Games" [ref=f12e24] [cursor=pointer]
+          - link "Download" [ref=f12e28] [cursor=pointer]:
+            - /url: /client
+          - button "Search" [ref=f12e29] [cursor=pointer]
+        - button "Log in" [ref=f12e33] [cursor=pointer]
+      - generic [ref=f12e34]:
+        - generic [ref=f12e38]:
+          - complementary [ref=f12e39]:
+            - generic [ref=f12e41]:
+              - generic [ref=f12e43]:
+                - img "avatar frame" [ref=f12e45]
+                - img "avatar" [ref=f12e61]
+              - heading "w0nderful" [level=1] [ref=f12e63]
+            - generic [ref=f12e74]:
+              - iframe [ref=f12e79]:
+                - generic [ref=f35e1]:
+                  - generic:
+                    - generic [ref=f35e2] [cursor=pointer]
+                    - button [ref=f35e9] [cursor=pointer]
+              - generic [ref=f12e80]:
+                - generic [ref=f12e81]: Advertisement
+                - link "Remove Ads" [ref=f12e82] [cursor=pointer]:
+                  - /url: /subscriptions/cs2/premium?cp=ad_placement_display&cp_source_page=/players/w0nderful
+            - generic [ref=f12e83]:
+              - generic [ref=f12e84]:
+                - generic [ref=f12e85]: Member since Jun 10, 2020
+                - generic [ref=f12e86]: We don't know anything about w0nderful
+                - generic [ref=f12e87]:
+                  - img "UA" [ref=f12e89]:
+                    - img "UA" [ref=f12e90]
+                  - generic [ref=f12e94]: Ukraine
+                - generic [ref=f12e95]:
+                  - link [ref=f12e98] [cursor=pointer]:
+                    - /url: http://www.twitch.tv/w0nderfulof
+                  - link [ref=f12e105] [cursor=pointer]:
+                    - /url: http://steamcommunity.com/profiles/76561199063068840
+              - generic [ref=f12e110]:
+                - generic [ref=f12e111]: Game history
+                - generic [ref=f12e112]:
+                  - button "C CS2 1,459 matches" [ref=f12e113] [cursor=pointer]:
+                    - generic [ref=f12e114]: C
+                    - generic [ref=f12e116]:
+                      - generic [ref=f12e117]: CS2
+                      - generic [ref=f12e118]: 1,459 matches
+                  - generic [ref=f12e122]:
+                    - generic [ref=f12e123]: C
+                    - generic [ref=f12e125]:
+                      - generic [ref=f12e126]: CS:GO
+                      - generic [ref=f12e127]: 2,440 matches
+              - generic [ref=f12e128]:
+                - generic [ref=f12e129]:
+                  - img "pinSeasonPrestigeChallengerTitle" [ref=f12e132]
+                  - img "pinChallengerS8EUTitle" [ref=f12e135]
+                  - img "pinChallengerS7EUTitle" [ref=f12e138]
+                  - img "pinGG25Over1GGsTitle" [ref=f12e141]
+                - button "All badges" [ref=f12e142] [cursor=pointer]
+              - generic [ref=f12e145]:
+                - generic [ref=f12e146]:
+                  - generic [ref=f12e147]:
+                    - generic [ref=f12e148]: Recent Activity
+                    - generic [ref=f12e149]: Last 90 days
+                  - generic [ref=f12e150]:
+                    - generic [ref=f12e151]:
+                      - generic [ref=f12e152]: Jul
+                      - generic [ref=f12e153]: Aug
+                      - generic [ref=f12e154]: Sep
+                      - generic [ref=f12e155]: Oct
+                    - generic [ref=f12e157]:
+                      - generic [ref=f12e158]: Mon
+                      - generic [ref=f12e159]: Tue
+                      - generic [ref=f12e160]: Wed
+                      - generic [ref=f12e161]: Thu
+                      - generic [ref=f12e162]: Fri
+                      - generic [ref=f12e163]: Sat
+                      - generic [ref=f12e164]: Sun
+                  - generic [ref=f12e256]:
+                    - generic [ref=f12e257]: 93 Matches Played
+                    - generic [ref=f12e258]:
+                      - generic [ref=f12e259]: 1 match
+                      - generic [ref=f12e264]: +5 matches
+                - generic [ref=f12e265]:
+                  - generic [ref=f12e266]:
+                    - generic [ref=f12e267]: Guestbook (1)
+                    - link "View all" [ref=f12e268] [cursor=pointer]:
+                      - /url: /en/players/w0nderful/guestbook
+                  - list [ref=f12e271]:
+                    - listitem [ref=f12e272]:
+                      - img "avatar" [ref=f12e274]
+                      - generic [ref=f12e276]:
+                        - generic [ref=f12e278]:
+                          - link "fakerealityy" [ref=f12e279] [cursor=pointer]:
+                            - /url: /en/players/fakerealityy
+                          - generic [ref=f12e281]: Feb 16, 9:54 PM
+                        - generic [ref=f12e282]: zyablik
+          - generic [ref=f12e284]:
+            - generic [ref=f12e286]:
+              - link [ref=f12e288] [cursor=pointer]:
+                - /url: /en/players/w0nderful
+                - button "Games" [ref=f12e289]
+              - link [ref=f12e294] [cursor=pointer]:
+                - /url: /en/players/w0nderful/friends
+                - button "Friends" [ref=f12e295]
+              - link [ref=f12e300] [cursor=pointer]:
+                - /url: /en/players/w0nderful/videos
+                - button "Videos" [ref=f12e301]
+              - link [ref=f12e306] [cursor=pointer]:
+                - /url: /en/players/w0nderful/guestbook
+                - button "Guestbook" [ref=f12e307]
+              - link [ref=f12e312] [cursor=pointer]:
+                - /url: /en/players/w0nderful/inventory
+                - button "Inventory" [ref=f12e313]
+              - link [ref=f12e318] [cursor=pointer]:
+                - /url: /en/players/w0nderful/clubs
+                - button "Clubs" [ref=f12e319]
+              - link [ref=f12e324] [cursor=pointer]:
+                - /url: /en/players/w0nderful/teams
+                - button "Teams" [ref=f12e325]
+            - generic [ref=f12e329]:
+              - generic [ref=f12e330]:
+                - button "C CS2" [ref=f12e332] [cursor=pointer]:
+                  - generic [ref=f12e333]:
+                    - generic [ref=f12e334]: C
+                    - generic [ref=f12e336]: CS2
+                - generic [ref=f12e342]:
+                  - link [ref=f12e344] [cursor=pointer]:
+                    - /url: /en/players/w0nderful/cs2
+                    - button "Summary" [ref=f12e345]
+                  - link [ref=f12e349] [cursor=pointer]:
+                    - /url: /en/players/w0nderful/cs2/history
+                    - button "Match history" [ref=f12e350]
+                  - link [ref=f12e354] [cursor=pointer]:
+                    - /url: /en/players/w0nderful/cs2/matchmaking
+                    - button "Matchmaking" [ref=f12e355]
+                  - link [ref=f12e359] [cursor=pointer]:
+                    - /url: /en/players/w0nderful/cs2/leagues
+                    - button "Leagues" [ref=f12e360]
+                  - link [ref=f12e364] [cursor=pointer]:
+                    - /url: /en/players/w0nderful/cs2/tournaments
+                    - button "Tournaments" [ref=f12e365]
+                  - link [ref=f12e369] [cursor=pointer]:
+                    - /url: /en/players/w0nderful/cs2/skins
+                    - button "Skin Vault Beta" [ref=f12e370]:
+                      - generic [ref=f12e371]:
+                        - generic [ref=f12e372]: Skin Vault
+                        - generic [ref=f12e373]: Beta
+              - generic [ref=f12e375]:
+                - generic [ref=f12e376]:
+                  - generic [ref=f12e377]:
+                    - generic [ref=f12e378]:
+                      - generic [ref=f12e383]:
+                        - generic [ref=f12e384]: Season 9
+                        - generic [ref=f12e385]: Matchmaking
+                      - link "Season 9 stats" [ref=f12e386] [cursor=pointer]:
+                        - /url: /en/players/w0nderful/cs2/matchmaking?season=822d32cb-174e-4ebf-ae28-5ef9b80fd007
+                    - generic [ref=f12e391]:
+                      - generic [ref=f12e392]:
+                        - generic [ref=f12e393]:
+                          - generic [ref=f12e394]: "#245"
+                          - img "Challenger rank" [ref=f12e395]:
+                            - img "Challenger rank" [ref=f12e396]
+                        - generic [ref=f12e400]: 3,846
+                      - generic [ref=f12e401]:
+                        - generic [ref=f12e402]:
+                          - generic [ref=f12e403]:
+                            - img "UA" [ref=f12e405]:
+                              - img "UA" [ref=f12e406]
+                            - generic [ref=f12e410]: "21"
+                          - generic [ref=f12e411]:
+                            - img "EU" [ref=f12e412]:
+                              - img "EU" [ref=f12e413]
+                            - generic [ref=f12e417]: "245"
+                        - generic [ref=f12e418]:
+                          - generic [ref=f12e419]:
+                            - generic [ref=f12e420]: "71"
+                            - generic [ref=f12e421]: Matches
+                            - generic [aria-hidden] [ref=f12e422]: •
+                          - generic [ref=f12e423]:
+                            - generic [ref=f12e424]: 66.2%
+                            - generic [ref=f12e425]: Win rate
+                  - generic [ref=f12e427]:
+                    - iframe [ref=f12e432]:
+                      - iframe [ref=f37e4]
+                    - generic [ref=f12e433]:
+                      - generic [ref=f12e434]: Advertisement
+                      - link "Remove Ads" [ref=f12e435] [cursor=pointer]:
+                        - /url: /subscriptions/cs2/premium?cp=ad_placement_display&cp_source_page=/players/w0nderful
+                  - generic [ref=f12e436]:
+                    - generic [ref=f12e437]:
+                      - generic [ref=f12e438]: Recent performance
+                      - generic [ref=f12e439]:
+                        - generic [ref=f12e440]: Last 30 Matches
+                        - generic [ref=f12e441]: •
+                        - generic [ref=f12e442] [cursor=pointer]:
+                          - img "Skill level 10" [ref=f12e443]
+                          - generic [ref=f12e461]: 3,386 Avg skill level of Match
+                    - generic [ref=f12e465]:
+                      - generic [ref=f12e466]:
+                        - generic [ref=f12e467]: Elo change
+                        - generic [ref=f12e468]: "+337"
+                      - generic [ref=f12e469]:
+                        - generic [ref=f12e470]:
+                          - generic [ref=f12e471]: W
+                          - generic [ref=f12e473]: "22"
+                        - generic [ref=f12e474]: /
+                        - generic [ref=f12e475]:
+                          - generic [ref=f12e476]: L
+                          - generic [ref=f12e478]: "8"
+                    - img "Elo progression" [ref=f12e482] [cursor=pointer]
+                    - generic [ref=f12e488]:
+                      - generic [ref=f12e490]:
+                        - generic [ref=f12e491]:
+                          - generic [ref=f12e492]: "1.38"
+                          - img "FACEIT Rating" [ref=f12e515]
+                        - generic [ref=f12e519]:
+                          - generic [ref=f12e520]:
+                            - generic [ref=f12e521]: Swing
+                            - generic [ref=f12e522]: +4.41%
+                          - generic [ref=f12e524]:
+                            - generic [ref=f12e525]: Consistency
+                            - generic [ref=f12e526]: 45%
+                      - generic [ref=f12e528]:
+                        - generic [ref=f12e529]:
+                          - generic [ref=f12e530]: 22 / 14 / 4
+                          - generic [ref=f12e531]: K/D/A
+                        - generic [ref=f12e532]:
+                          - generic [ref=f12e533]: "1.55"
+                          - generic [ref=f12e534]: K/D
+                        - generic [ref=f12e535]:
+                          - generic [ref=f12e536]: "1.05"
+                          - generic [ref=f12e537]: K/R
+                        - generic [ref=f12e538]:
+                          - generic [ref=f12e539]: 43%
+                          - generic [ref=f12e540]: HS%
+                        - generic [ref=f12e541]:
+                          - generic [ref=f12e542]: "105.0"
+                          - generic [ref=f12e543]: ADR
+                        - generic [ref=f12e544]:
+                          - generic [ref=f12e545]: 73%
+                          - generic [ref=f12e546]: Win rate
+                - generic [ref=f12e547]:
+                  - generic [ref=f12e548]:
+                    - generic [ref=f12e549]: Recent matches
+                    - link "Full match history" [ref=f12e552] [cursor=pointer]:
+                      - /url: /en/players/w0nderful/cs2/history
+                  - generic [ref=f12e556]:
+                    - generic [ref=f12e558]:
+                      - generic [ref=f12e559]: Date
+                      - generic [ref=f12e560]: Score
+                      - generic [ref=f12e562]: Rating
+                      - generic [ref=f12e576]: K/D/A
+                      - generic [ref=f12e577]: Map
+                    - generic [ref=f12e578]:
+                      - 'link "Sun 27 Sep 22:17 W 13 : 5 Skill level 10 3,846 27 2.30 ‎31 / 8 / 4 Mirage Mirage" [ref=f12e579] [cursor=pointer]':
+                        - /url: /en/cs2/room/1-b8adc746-f826-4520-ad45-e82225f11a23/scoreboard
+                        - generic [ref=f12e581]:
+                          - generic [ref=f12e582]: Sun 27 Sep
+                          - generic [ref=f12e583]: 22:17
+                        - generic [ref=f12e585]:
+                          - generic [ref=f12e586]: W
+                          - generic [ref=f12e587]:
+                            - generic [ref=f12e588]: "13"
+                            - generic [ref=f12e589]: ":"
+                            - generic [ref=f12e590]: "5"
+                        - generic [ref=f12e598]:
+                          - img "Skill level 10" [ref=f12e599]
+                          - generic [ref=f12e617]:
+                            - generic [ref=f12e618]: 3,846
+                            - generic [ref=f12e619]: "27"
+                        - generic [ref=f12e626]: "2.30"
+                        - generic [ref=f12e634]: ‎31 / 8 / 4
+                        - generic [ref=f12e636]:
+                          - img "Mirage" [ref=f12e637]
+                          - generic [ref=f12e638]: Mirage
+                      - 'link "Sat 26 Sep 18:00 L 5 : 13 Skill level 10 3,819 30 1.12 ‎16 / 15 / 4 Nuke Nuke" [ref=f12e640] [cursor=pointer]':
+                        - /url: /en/cs2/room/1-279593e2-ad90-4311-b41e-6953fbd64577/scoreboard
+                        - generic [ref=f12e642]:
+                          - generic [ref=f12e643]: Sat 26 Sep
+                          - generic [ref=f12e644]: 18:00
+                        - generic [ref=f12e646]:
+                          - generic [ref=f12e647]: L
+                          - generic [ref=f12e648]:
+                            - generic [ref=f12e649]: "5"
+                            - generic [ref=f12e650]: ":"
+                            - generic [ref=f12e651]: "13"
+                        - generic [ref=f12e659]:
+                          - img "Skill level 10" [ref=f12e660]
+                          - generic [ref=f12e678]:
+                            - generic [ref=f12e679]: 3,819
+                            - generic [ref=f12e680]: "30"
+                        - generic [ref=f12e687]: "1.12"
+                        - generic [ref=f12e695]: ‎16 / 15 / 4
+                        - generic [ref=f12e697]:
+                          - img "Nuke" [ref=f12e698]
+                          - generic [ref=f12e699]: Nuke
+                      - 'link "Sat 26 Sep 17:24 W 13 : 3 Skill level 10 3,849 26 1.79 ‎25 / 8 / 2 Mirage Mirage" [ref=f12e701] [cursor=pointer]':
+                        - /url: /en/cs2/room/1-028cdb76-8060-474a-9f17-c1b66e3831ac/scoreboard
+                        - generic [ref=f12e703]:
+                          - generic [ref=f12e704]: Sat 26 Sep
+                          - generic [ref=f12e705]: 17:24
+                        - generic [ref=f12e707]:
+                          - generic [ref=f12e708]: W
+                          - generic [ref=f12e709]:
+                            - generic [ref=f12e710]: "13"
+                            - generic [ref=f12e711]: ":"
+                            - generic [ref=f12e712]: "3"
+                        - generic [ref=f12e720]:
+                          - img "Skill level 10" [ref=f12e721]
+                          - generic [ref=f12e739]:
+                            - generic [ref=f12e740]: 3,849
+                            - generic [ref=f12e741]: "26"
+                        - generic [ref=f12e748]: "1.79"
+                        - generic [ref=f12e756]: ‎25 / 8 / 2
+                        - generic [ref=f12e758]:
+                          - img "Mirage" [ref=f12e759]
+                          - generic [ref=f12e760]: Mirage
+                      - 'link "Fri 25 Sep 23:31 W 25 : 21 Skill level 10 3,823 29 1.37 ‎49 / 32 / 8 Mirage Mirage" [ref=f12e762] [cursor=pointer]':
+                        - /url: /en/cs2/room/1-35a2cb38-4388-471c-90ed-a06f0e739e9f/scoreboard
+                        - generic [ref=f12e764]:
+                          - generic [ref=f12e765]: Fri 25 Sep
+                          - generic [ref=f12e766]: 23:31
+                        - generic [ref=f12e768]:
+                          - generic [ref=f12e769]: W
+                          - generic [ref=f12e770]:
+                            - generic [ref=f12e771]: "25"
+                            - generic [ref=f12e772]: ":"
+                            - generic [ref=f12e773]: "21"
+                        - generic [ref=f12e781]:
+                          - img "Skill level 10" [ref=f12e782]
+                          - generic [ref=f12e800]:
+                            - generic [ref=f12e801]: 3,823
+                            - generic [ref=f12e802]: "29"
+                        - generic [ref=f12e809]: "1.37"
+                        - generic [ref=f12e817]: ‎49 / 32 / 8
+                        - generic [ref=f12e819]:
+                          - img "Mirage" [ref=f12e820]
+                          - generic [ref=f12e821]: Mirage
+                      - 'link "Fri 25 Sep 22:38 L 11 : 13 Skill level 10 3,794 31 1.55 ‎25 / 18 / 2 Nuke Nuke" [ref=f12e823] [cursor=pointer]':
+                        - /url: /en/cs2/room/1-4e99d83b-f608-4e8a-9f8b-90ffa2849568/scoreboard
+                        - generic [ref=f12e825]:
+                          - generic [ref=f12e826]: Fri 25 Sep
+                          - generic [ref=f12e827]: 22:38
+                        - generic [ref=f12e829]:
+                          - generic [ref=f12e830]: L
+                          - generic [ref=f12e831]:
+                            - generic [ref=f12e832]: "11"
+                            - generic [ref=f12e833]: ":"
+                            - generic [ref=f12e834]: "13"
+                        - generic [ref=f12e842]:
+                          - img "Skill level 10" [ref=f12e843]
+                          - generic [ref=f12e861]:
+                            - generic [ref=f12e862]: 3,794
+                            - generic [ref=f12e863]: "31"
+                        - generic [ref=f12e870]: "1.55"
+                        - generic [ref=f12e878]: ‎25 / 18 / 2
+                        - generic [ref=f12e880]:
+                          - img "Nuke" [ref=f12e881]
+                          - generic [ref=f12e882]: Nuke
+                - generic [ref=f12e884]:
+                  - generic [ref=f12e885]:
+                    - generic [ref=f12e886]: Highlights
+                    - link "View all videos" [ref=f12e888] [cursor=pointer]:
+                      - /url: /en/players/w0nderful/videos
+                  - generic [ref=f12e892]:
+                    - generic [ref=f12e893] [cursor=pointer]:
+                      - generic [ref=f12e896]:
+                        - generic [ref=f12e897]: Mirage No Scope Ace
+                        - generic [ref=f12e898]: 24 days ago
+                      - generic [ref=f12e899]: "588"
+                    - generic [ref=f12e907] [cursor=pointer]:
+                      - generic [ref=f12e910]:
+                        - generic [ref=f12e911]: Nuke M4A1 4K at Match Point
+                        - generic [ref=f12e912]: 25 days ago
+                      - generic [ref=f12e913]: "120"
+                    - generic [ref=f12e921] [cursor=pointer]:
+                      - generic [ref=f12e924]:
+                        - generic [ref=f12e925]: Mirage AK-47 3K
+                        - generic [ref=f12e926]: 25 days ago
+                      - generic [ref=f12e927]: "85"
+                    - generic [ref=f12e935] [cursor=pointer]:
+                      - generic [ref=f12e938]:
+                        - generic [ref=f12e939]: Mirage MAC-10 4K in Overtime
+                        - generic [ref=f12e940]: 26 days ago
+                      - generic [ref=f12e941]: "62"
+        - generic [ref=f12e949]:
+          - generic [ref=f12e950]:
+            - generic [ref=f12e951]: Advertisement
+            - link "Remove Ads" [ref=f12e955] [cursor=pointer]:
+              - /url: /subscriptions/cs2/premium?cp=ad_placement_outstream&cp_source_page=/players/w0nderful
+          - generic [ref=f12e958]:
+            - generic [ref=f12e959]:
+              - generic "Advertisement" [ref=f12e960]
+              - iframe [ref=f12e962]:
+                - button [ref=f23e6] [cursor=pointer]
+            - generic [ref=f12e963] [cursor=pointer]
+  - alert [ref=f12e966]
+  - link [ref=f12e967] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e968] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e969] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e970] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e971] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e972] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e973] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e974] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e975] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e976] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e977] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e978] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=f12e979] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/

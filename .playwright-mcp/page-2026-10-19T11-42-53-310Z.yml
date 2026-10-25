@@ -1,0 +1,210 @@
+- generic [ref=f12e3]:
+  - navigation [ref=f12e5]:
+    - link [ref=f12e6] [cursor=pointer]:
+      - /url: /
+      - img "Pony Town" [ref=f12e7]
+    - generic [ref=f12e9]:
+      - link "Home" [ref=f12e12] [cursor=pointer]:
+        - /url: /
+      - link "Characters" [ref=f12e15] [cursor=pointer]:
+        - /url: /character
+      - link "Help" [ref=f12e18] [cursor=pointer]:
+        - /url: /help
+      - link "About" [ref=f12e21] [cursor=pointer]:
+        - /url: /about
+      - button "Signed-in as Герман Петров" [ref=f12e24] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f12e25]: Герман Петров
+  - main [ref=f12e30]:
+    - generic [ref=f12e32]:
+      - generic [ref=f12e33]:
+        - heading "Characters" [level=1] [ref=f12e34]
+        - heading "Character selection" [level=2] [ref=f12e35]
+        - generic [ref=f12e36]:
+          - generic [ref=f12e37]: Support us on Patreon!
+          - generic [ref=f12e49]:
+            - button "Add Pony Town to desktop" [ref=f12e50] [cursor=pointer]
+            - button "Dismiss add to desktop" [ref=f12e51] [cursor=pointer]
+          - generic [ref=f12e57]:
+            - generic "Name of your character" [ref=f12e58]:
+              - textbox "Name of your character" [ref=f12e59]: Пудинг
+              - generic "Emojis":
+                - generic [ref=f12e62] [cursor=pointer]:
+                  - img "face"
+            - button "Create new character" [ref=f12e64] [cursor=pointer]: new
+            - button "Select character" [ref=f12e66] [cursor=pointer]
+            - button "Delete pony" [disabled]
+          - generic [ref=f12e72]:
+            - generic "Preview zoom" [ref=f12e73]:
+              - button "4x" [ref=f12e75] [cursor=pointer]
+            - button "Change background" [ref=f12e76] [cursor=pointer]
+            - button "Toggle name and tag (N)" [ref=f12e80] [cursor=pointer]
+            - button "Turn head" [ref=f12e84] [cursor=pointer]
+            - button "Flip preview" [ref=f12e88] [cursor=pointer]
+            - button "Toggle color palette" [ref=f12e92] [cursor=pointer]
+            - button "Undo edit" [ref=f12e755] [cursor=pointer]
+            - button "Redo edit"
+          - generic [ref=f12e96]:
+            - button "Duplicate" [ref=f12e98] [cursor=pointer]
+            - button "Revert changes" [disabled]: Revert
+            - button "Save character" [ref=f12e99] [cursor=pointer]: Save
+          - generic [ref=f12e100]:
+            - generic [ref=f12e102]:
+              - button [ref=f12e103] [cursor=pointer]:
+                - strong [ref=f12e104]: Save & Play
+                - text: "on Safe Russian #1"
+              - button "select server" [ref=f12e105] [cursor=pointer]
+            - generic [ref=f12e106]:
+              - heading "Server rules" [level=5] [ref=f12e107]
+              - paragraph [ref=f12e108]: No swearing or adult topics are allowed
+          - generic [ref=f12e110]:
+            - heading "General rules" [level=5] [ref=f12e111]
+            - list [ref=f12e112]:
+              - listitem [ref=f12e113]: Be kind to others
+              - listitem [ref=f12e114]: Don't spam
+              - listitem [ref=f12e115]: Don't create more than one account
+              - listitem [ref=f12e116]: Don't use hacks, scripts, macros or autoclickers
+              - listitem [ref=f12e117]: Don't encourage behaviour violating the rules
+              - listitem [ref=f12e118]: Violation of the rules may result in temporary or permanent ban
+            - paragraph [ref=f12e119]:
+              - text: For more details about the rules, see our
+              - link "Help page" [ref=f12e120] [cursor=pointer]:
+                - /url: /help#rules
+              - text: .
+            - separator [ref=f12e121]
+            - heading "Notice" [level=5] [ref=f12e122]
+            - paragraph [ref=f12e123]:
+              - text: This game is a
+              - strong [ref=f12e124]: work in progress
+              - text: . There might be bugs and occasional downtimes.
+      - generic [ref=f12e125]:
+        - heading "Character customization" [level=2] [ref=f12e126]
+        - generic [ref=f12e127]:
+          - button "Undo edit" [ref=f12e759] [cursor=pointer]
+          - button "Redo edit"
+        - generic [ref=f12e128]:
+          - tablist "Character customization" [ref=f12e129]:
+            - tab "body" [ref=f12e130] [cursor=pointer]
+            - tab "mane" [ref=f12e131] [cursor=pointer]
+            - tab "tail" [active] [selected] [ref=f12e132] [cursor=pointer]
+            - tab "face" [ref=f12e133] [cursor=pointer]
+            - tab "items" [ref=f12e134] [cursor=pointer]
+            - tab "extra" [ref=f12e135] [cursor=pointer]
+          - generic [ref=f12e136]:
+            - text: ⁠
+            - tabpanel "tail" [ref=f12e1124]:
+              - generic [ref=f12e1125]:
+                - generic [ref=f12e1126]:
+                  - generic [ref=f12e1127]:
+                    - generic [ref=f12e1128]: Tail
+                    - radiogroup "Select Tail" [ref=f12e1132]:
+                      - generic [ref=f12e1133]:
+                        - radio [ref=f12e1134] [cursor=pointer]
+                        - radio [checked] [ref=f12e1135] [cursor=pointer]
+                        - radio [ref=f12e1136] [cursor=pointer]
+                        - radio [ref=f12e1137] [cursor=pointer]
+                        - radio [ref=f12e1138] [cursor=pointer]
+                        - radio [ref=f12e1139] [cursor=pointer]
+                        - radio [ref=f12e1140] [cursor=pointer]
+                        - radio [ref=f12e1141] [cursor=pointer]
+                        - radio [ref=f12e1142] [cursor=pointer]
+                        - radio [ref=f12e1143] [cursor=pointer]
+                        - radio [ref=f12e1144] [cursor=pointer]
+                        - radio [ref=f12e1145] [cursor=pointer]
+                        - radio [ref=f12e1146] [cursor=pointer]
+                        - radio [ref=f12e1147] [cursor=pointer]
+                        - radio [ref=f12e1148] [cursor=pointer]
+                        - radio [ref=f12e1149] [cursor=pointer]
+                        - radio [ref=f12e1150] [cursor=pointer]
+                        - radio [ref=f12e1151] [cursor=pointer]
+                        - radio [ref=f12e1152] [cursor=pointer]
+                        - radio [ref=f12e1153] [cursor=pointer]
+                        - radio [ref=f12e1154] [cursor=pointer]
+                        - radio [ref=f12e1155] [cursor=pointer]
+                        - radio [ref=f12e1156] [cursor=pointer]
+                        - radio [ref=f12e1157] [cursor=pointer]
+                        - radio [ref=f12e1158] [cursor=pointer]
+                        - radio [ref=f12e1159] [cursor=pointer]
+                        - radio [ref=f12e1160] [cursor=pointer]
+                        - radio [ref=f12e1161] [cursor=pointer]
+                        - radio [ref=f12e1162] [cursor=pointer]
+                        - radio [ref=f12e1163] [cursor=pointer]
+                        - radio [ref=f12e1164] [cursor=pointer]
+                        - radio [ref=f12e1165] [cursor=pointer]
+                        - radio [ref=f12e1166] [cursor=pointer]
+                        - radio [ref=f12e1167] [cursor=pointer]
+                        - radio [ref=f12e1168] [cursor=pointer]
+                        - radio [ref=f12e1169] [cursor=pointer]
+                        - radio [ref=f12e1170] [cursor=pointer]
+                        - radio [ref=f12e1171] [cursor=pointer]
+                        - radio [ref=f12e1172] [cursor=pointer]
+                        - radio [ref=f12e1173] [cursor=pointer]
+                        - radio [ref=f12e1174] [cursor=pointer]
+                        - radio [ref=f12e1175] [cursor=pointer]
+                        - radio [ref=f12e1176] [cursor=pointer]
+                        - radio [ref=f12e1177] [cursor=pointer]
+                        - radio [ref=f12e1178] [cursor=pointer]
+                        - radio [ref=f12e1179] [cursor=pointer]
+                        - radio [ref=f12e1180] [cursor=pointer]
+                        - radio [ref=f12e1181] [cursor=pointer]
+                        - radio [ref=f12e1182] [cursor=pointer]
+                        - radio [ref=f12e1183] [cursor=pointer]
+                        - radio [ref=f12e1184] [cursor=pointer]
+                        - radio [ref=f12e1185] [cursor=pointer]
+                        - radio [ref=f12e1190] [cursor=pointer]
+                        - radio [ref=f12e1195] [cursor=pointer]
+                        - radio [ref=f12e1200] [cursor=pointer]
+                        - radio [ref=f12e1201] [cursor=pointer]
+                        - radio [ref=f12e1206] [cursor=pointer]
+                  - generic [ref=f12e1211]:
+                    - generic [ref=f12e1212]: Color pattern
+                    - radiogroup "Select color pattern" [ref=f12e1216]:
+                      - generic [ref=f12e1217]:
+                        - radio [checked] [ref=f12e1218] [cursor=pointer]
+                        - radio [ref=f12e1219] [cursor=pointer]
+                        - radio [ref=f12e1220] [cursor=pointer]
+                        - radio [ref=f12e1221] [cursor=pointer]
+                        - radio [ref=f12e1222] [cursor=pointer]
+                        - radio [ref=f12e1227] [cursor=pointer]
+                  - generic [ref=f12e1234]:
+                    - generic [ref=f12e1235]:
+                      - generic [ref=f12e1236]: Color 1
+                      - checkbox "Automatic color" [checked] [ref=f12e1242] [cursor=pointer]
+                    - generic [ref=f12e1249]:
+                      - textbox "Color" [disabled] [ref=f12e1251]: f6bfd8
+                      - button "Pick color" [disabled]
+                - generic [ref=f12e1255] [cursor=pointer]:
+                  - checkbox "Lock to base color" [ref=f12e1256]
+                  - generic [ref=f12e1257]: Lock to base color
+  - contentinfo [ref=f12e707]:
+    - generic [ref=f12e708]:
+      - text: version 0.129.5-alpha
+      - generic [ref=f12e709]: changelog
+    - generic [ref=f12e710]:
+      - generic [ref=f12e711]:
+        - generic [ref=f12e712]:
+          - text: © 2016-2026
+          - link "Pony Town" [ref=f12e713] [cursor=pointer]:
+            - /url: https://twitter.com/ponytownteam
+          - text: "|"
+        - generic [ref=f12e714]:
+          - link "Patreon support page" [ref=f12e715] [cursor=pointer]:
+            - /url: https://patreon.com/ponytownteam
+          - link "Boosty support page" [ref=f12e719] [cursor=pointer]:
+            - /url: https://boosty.to/ponytown/about?utm_source=pony.town.site
+          - link "Google Play Store" [ref=f12e723] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=town.pony.game
+          - link "Official Twitter account" [ref=f12e727] [cursor=pointer]:
+            - /url: https://twitter.com/ponytownteam
+          - link "Russian Telegram channel" [ref=f12e731] [cursor=pointer]:
+            - /url: https://t.me/ponytown_ofc
+          - link "Official VKontakte page" [ref=f12e735] [cursor=pointer]:
+            - /url: https://vk.com/ponytown
+          - link "Game support email" [ref=f12e739] [cursor=pointer]:
+            - /url: mailto:ponytownhelp@gmail.com
+      - generic [ref=f12e743]:
+        - text: jobs|
+        - link "privacy policy" [ref=f12e744] [cursor=pointer]:
+          - /url: /privacypolicy.html
+        - text: "|"
+        - link "terms of service" [ref=f12e745] [cursor=pointer]:
+          - /url: /termsofservice.html

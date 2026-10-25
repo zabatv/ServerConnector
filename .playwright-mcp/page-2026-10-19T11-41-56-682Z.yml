@@ -1,0 +1,399 @@
+- generic [ref=f12e1]:
+  - generic [ref=f12e3]:
+    - navigation [ref=f12e5]:
+      - link [ref=f12e6] [cursor=pointer]:
+        - /url: /
+        - img "Pony Town" [ref=f12e7]
+      - generic [ref=f12e9]:
+        - link "Home" [ref=f12e12] [cursor=pointer]:
+          - /url: /
+        - link "Characters" [ref=f12e15] [cursor=pointer]:
+          - /url: /character
+        - link "Help" [ref=f12e18] [cursor=pointer]:
+          - /url: /help
+        - link "About" [ref=f12e21] [cursor=pointer]:
+          - /url: /about
+        - button "Signed-in as Герман Петров" [ref=f12e24] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e25]: Герман Петров
+    - main [ref=f12e30]:
+      - generic [ref=f12e32]:
+        - generic [ref=f12e33]:
+          - heading "Characters" [level=1] [ref=f12e34]
+          - heading "Character selection" [level=2] [ref=f12e35]
+          - generic [ref=f12e36]:
+            - generic [ref=f12e37]: Support us on Patreon!
+            - generic [ref=f12e49]:
+              - button "Add Pony Town to desktop" [ref=f12e50] [cursor=pointer]
+              - button "Dismiss add to desktop" [ref=f12e51] [cursor=pointer]
+            - generic [ref=f12e57]:
+              - generic "Name of your character" [ref=f12e58]:
+                - textbox "Name of your character" [ref=f12e59]: Пудинг
+                - generic "Emojis":
+                  - generic [ref=f12e62] [cursor=pointer]:
+                    - img "face"
+              - button "Create new character" [ref=f12e64] [cursor=pointer]: new
+              - button "Select character" [ref=f12e66] [cursor=pointer]
+              - button "Delete pony" [disabled]
+            - generic [ref=f12e72]:
+              - generic "Preview zoom" [ref=f12e73]:
+                - button "4x" [ref=f12e75] [cursor=pointer]
+              - button "Change background" [ref=f12e76] [cursor=pointer]
+              - button "Toggle name and tag (N)" [ref=f12e80] [cursor=pointer]
+              - button "Turn head" [ref=f12e84] [cursor=pointer]
+              - button "Flip preview" [ref=f12e88] [cursor=pointer]
+              - button "Toggle color palette" [ref=f12e92] [cursor=pointer]
+              - button "Undo edit"
+              - button "Redo edit"
+            - generic [ref=f12e96]:
+              - button "Duplicate" [ref=f12e98] [cursor=pointer]
+              - button "Revert changes" [disabled]: Revert
+              - button "Save character" [ref=f12e99] [cursor=pointer]: Save
+            - generic [ref=f12e100]:
+              - generic [ref=f12e102]:
+                - button [ref=f12e103] [cursor=pointer]:
+                  - strong [ref=f12e104]: Save & Play
+                  - text: "on Safe Russian #1"
+                - button "select server" [ref=f12e105] [cursor=pointer]
+              - generic [ref=f12e106]:
+                - heading "Server rules" [level=5] [ref=f12e107]
+                - paragraph [ref=f12e108]: No swearing or adult topics are allowed
+            - generic [ref=f12e110]:
+              - heading "General rules" [level=5] [ref=f12e111]
+              - list [ref=f12e112]:
+                - listitem [ref=f12e113]: Be kind to others
+                - listitem [ref=f12e114]: Don't spam
+                - listitem [ref=f12e115]: Don't create more than one account
+                - listitem [ref=f12e116]: Don't use hacks, scripts, macros or autoclickers
+                - listitem [ref=f12e117]: Don't encourage behaviour violating the rules
+                - listitem [ref=f12e118]: Violation of the rules may result in temporary or permanent ban
+              - paragraph [ref=f12e119]:
+                - text: For more details about the rules, see our
+                - link "Help page" [ref=f12e120] [cursor=pointer]:
+                  - /url: /help#rules
+                - text: .
+              - separator [ref=f12e121]
+              - heading "Notice" [level=5] [ref=f12e122]
+              - paragraph [ref=f12e123]:
+                - text: This game is a
+                - strong [ref=f12e124]: work in progress
+                - text: . There might be bugs and occasional downtimes.
+        - generic [ref=f12e125]:
+          - heading "Character customization" [level=2] [ref=f12e126]
+          - generic [ref=f12e127]:
+            - button "Undo edit"
+            - button "Redo edit"
+          - generic [ref=f12e128]:
+            - tablist "Character customization" [ref=f12e129]:
+              - tab "body" [selected] [ref=f12e130] [cursor=pointer]
+              - tab "mane" [ref=f12e131] [cursor=pointer]
+              - tab "tail" [ref=f12e132] [cursor=pointer]
+              - tab "face" [ref=f12e133] [cursor=pointer]
+              - tab "items" [ref=f12e134] [cursor=pointer]
+              - tab "extra" [ref=f12e135] [cursor=pointer]
+            - tabpanel "body" [ref=f12e137]:
+              - generic [ref=f12e138]:
+                - generic [ref=f12e139]:
+                  - generic [ref=f12e140]: Show social
+                  - button "Show social" [ref=f12e147] [cursor=pointer]:
+                    - strong [ref=f12e149]: ⁠None
+                - generic [ref=f12e150]:
+                  - generic [ref=f12e151]: Description
+                  - textbox "Description" [ref=f12e157]:
+                    - /placeholder: "example: with a hat #oc #winter"
+                - separator [ref=f12e158]
+                - generic [ref=f12e159]:
+                  - generic [ref=f12e160]: Export
+                  - generic [ref=f12e165]:
+                    - button "Export / Import" [ref=f12e167] [cursor=pointer]
+                    - generic [ref=f12e172]:
+                      - button "Export as GIF" [ref=f12e173] [cursor=pointer]: GIF
+                      - button "Export as PNG" [ref=f12e177] [cursor=pointer]: PNG
+                      - generic "Image export zoom" [ref=f12e182]:
+                        - button "4x" [ref=f12e184] [cursor=pointer]
+                      - button "Image export settings" [ref=f12e186] [cursor=pointer]
+                - generic [ref=f12e190]:
+                  - generic [ref=f12e191]: Effects
+                  - generic [ref=f12e193]:
+                    - button "Toggle hearts" [ref=f12e194] [cursor=pointer]
+                    - button "Toggle blush" [ref=f12e198] [cursor=pointer]
+                    - button "Toggle tears" [ref=f12e202] [cursor=pointer]
+                    - button "Toggle cry" [ref=f12e206] [cursor=pointer]
+                    - button "Toggle sleep" [ref=f12e210] [cursor=pointer]
+                    - button "Toggle magic" [disabled] [ref=f12e214] [cursor=pointer]
+                - generic [ref=f12e218]:
+                  - generic [ref=f12e219]:
+                    - generic [ref=f12e220]: Animation
+                    - checkbox "Play animation" [checked] [ref=f12e222] [cursor=pointer]
+                  - generic [ref=f12e227]:
+                    - spinbutton "Animation frame" [disabled] [ref=f12e228]: "0"
+                    - button "Active animation" [ref=f12e229] [cursor=pointer]:
+                      - strong [ref=f12e230]: stand
+                - separator [ref=f12e231]
+                - generic [ref=f12e232]:
+                  - generic [ref=f12e233]:
+                    - generic [ref=f12e234]: Advanced options
+                    - generic [ref=f12e235]:
+                      - generic [ref=f12e238] [cursor=pointer]:
+                        - checkbox "always respawn at spawn point" [ref=f12e239]
+                        - generic [ref=f12e240]: always respawn at spawn point
+                      - generic [ref=f12e243] [cursor=pointer]:
+                        - checkbox "allow custom outlines" [ref=f12e244]
+                        - generic [ref=f12e245]: allow custom outlines
+                  - generic [ref=f12e246]:
+                    - generic [ref=f12e247]:
+                      - generic [ref=f12e248]: Background
+                      - generic "Custom pony background color" [ref=f12e253]:
+                        - checkbox "Custom pony background color" [checked] [ref=f12e254] [cursor=pointer]
+                    - generic [ref=f12e261]:
+                      - textbox "Background" [disabled] [ref=f12e263]: 90ee90
+                      - button "Pick color" [disabled]
+                - separator [ref=f12e264]
+                - generic [ref=f12e266]:
+                  - generic [ref=f12e267]: Base color
+                  - generic [ref=f12e273]:
+                    - textbox "Base color" [active] [ref=f12e275]: e6d4f2
+                    - button "Pick color" [ref=f12e276] [cursor=pointer]
+                - separator [ref=f12e280]
+                - generic [ref=f12e281]:
+                  - generic [ref=f12e283]:
+                    - generic [ref=f12e284]: Front body
+                    - radiogroup "Select Front body" [ref=f12e286]:
+                      - generic [ref=f12e287]:
+                        - radio [checked] [ref=f12e288] [cursor=pointer]
+                        - radio [ref=f12e289] [cursor=pointer]
+                        - radio [ref=f12e290] [cursor=pointer]
+                        - radio [ref=f12e291] [cursor=pointer]
+                        - radio [ref=f12e292] [cursor=pointer]
+                  - generic [ref=f12e293]:
+                    - generic [ref=f12e294]: Color pattern
+                    - radiogroup "Select color pattern" [ref=f12e298]:
+                      - generic [ref=f12e299]:
+                        - radio [checked] [ref=f12e300] [cursor=pointer]
+                        - radio [ref=f12e301] [cursor=pointer]
+                        - radio [ref=f12e302] [cursor=pointer]
+                        - radio [ref=f12e303] [cursor=pointer]
+                  - generic [ref=f12e306]:
+                    - generic [ref=f12e307]:
+                      - generic [ref=f12e308]: Color 1
+                      - checkbox "Automatic color" [checked] [ref=f12e314] [cursor=pointer]
+                    - generic [ref=f12e321]:
+                      - textbox "Color" [disabled] [ref=f12e323]: e6d4f2
+                      - button "Pick color" [disabled]
+                - separator [ref=f12e324]
+                - generic [ref=f12e325]:
+                  - generic [ref=f12e327]:
+                    - generic [ref=f12e328]: Back body
+                    - radiogroup "Select Back body" [ref=f12e330]:
+                      - generic [ref=f12e331]:
+                        - radio [checked] [ref=f12e332] [cursor=pointer]
+                        - radio [ref=f12e333] [cursor=pointer]
+                        - radio [ref=f12e334] [cursor=pointer]
+                  - generic [ref=f12e340] [cursor=pointer]:
+                    - checkbox "Match back body pattern" [checked] [ref=f12e341]
+                    - generic [ref=f12e342]: Match back body pattern
+                  - generic [ref=f12e343]:
+                    - generic [ref=f12e344]: Color pattern
+                    - radiogroup "Select color pattern" [ref=f12e348]:
+                      - generic [ref=f12e349]:
+                        - radio [checked] [ref=f12e350] [cursor=pointer]
+                        - radio [ref=f12e351] [cursor=pointer]
+                        - radio [ref=f12e352] [cursor=pointer]
+                        - radio [ref=f12e353] [cursor=pointer]
+                        - radio [ref=f12e354] [cursor=pointer]
+                        - radio [ref=f12e355] [cursor=pointer]
+                        - radio [ref=f12e356] [cursor=pointer]
+                        - radio [ref=f12e357] [cursor=pointer]
+                  - generic [ref=f12e360]:
+                    - generic [ref=f12e361]:
+                      - generic [ref=f12e362]: Color 1
+                      - checkbox "Automatic color" [checked] [ref=f12e368] [cursor=pointer]
+                    - generic [ref=f12e375]:
+                      - textbox "Color" [disabled] [ref=f12e377]: e6d4f2
+                      - button "Pick color" [disabled]
+                - separator [ref=f12e378]
+                - generic [ref=f12e379]:
+                  - generic [ref=f12e380]: Match leg patterns
+                  - generic [ref=f12e381]:
+                    - generic [ref=f12e384] [cursor=pointer]:
+                      - checkbox "for front and back legs" [checked] [ref=f12e385]
+                      - generic [ref=f12e386]: for front and back legs
+                    - generic [ref=f12e389] [cursor=pointer]:
+                      - checkbox "for both front legs" [checked] [ref=f12e390]
+                      - generic [ref=f12e391]: for both front legs
+                    - generic [ref=f12e394]:
+                      - checkbox "for both back legs" [checked] [disabled]
+                      - generic [ref=f12e395]: for both back legs
+                - generic [ref=f12e396]:
+                  - generic [ref=f12e398]:
+                    - generic [ref=f12e399]: Legs pattern
+                    - radiogroup "Select color pattern" [ref=f12e401]:
+                      - generic [ref=f12e402]:
+                        - radio [checked] [ref=f12e403] [cursor=pointer]
+                        - radio [ref=f12e404] [cursor=pointer]
+                        - radio [ref=f12e405] [cursor=pointer]
+                        - radio [ref=f12e406] [cursor=pointer]
+                  - generic [ref=f12e409]:
+                    - generic [ref=f12e410]:
+                      - generic [ref=f12e411]: Color 1
+                      - checkbox "Automatic color" [checked] [ref=f12e417] [cursor=pointer]
+                    - generic [ref=f12e424]:
+                      - textbox "Color" [disabled] [ref=f12e426]: e6d4f2
+                      - button "Pick color" [disabled]
+                - separator [ref=f12e427]
+                - generic [ref=f12e428]:
+                  - generic [ref=f12e429]: Match hooves
+                  - generic [ref=f12e430]:
+                    - generic [ref=f12e433] [cursor=pointer]:
+                      - checkbox "for front and back legs" [checked] [ref=f12e434]
+                      - generic [ref=f12e435]: for front and back legs
+                    - generic [ref=f12e438] [cursor=pointer]:
+                      - checkbox "for both front legs" [checked] [ref=f12e439]
+                      - generic [ref=f12e440]: for both front legs
+                    - generic [ref=f12e443]:
+                      - checkbox "for both back legs" [checked] [disabled]
+                      - generic [ref=f12e444]: for both back legs
+                - generic [ref=f12e447]:
+                  - generic [ref=f12e448]: Hooves
+                  - radiogroup "Select Hooves" [ref=f12e450]:
+                    - generic [ref=f12e451]:
+                      - radio [checked] [ref=f12e452] [cursor=pointer]
+                      - radio [ref=f12e453] [cursor=pointer]
+                      - radio [ref=f12e454] [cursor=pointer]
+                      - radio [ref=f12e455] [cursor=pointer]
+                      - radio [ref=f12e456] [cursor=pointer]
+                      - radio [ref=f12e457] [cursor=pointer]
+                      - radio [ref=f12e458] [cursor=pointer]
+                      - radio [ref=f12e459] [cursor=pointer]
+                - separator [ref=f12e460]
+                - generic [ref=f12e463]:
+                  - generic [ref=f12e464]: Front horn
+                  - radiogroup "Select Front horn" [ref=f12e466]:
+                    - generic [ref=f12e467]:
+                      - radio [checked] [ref=f12e468] [cursor=pointer]
+                      - radio [ref=f12e469] [cursor=pointer]
+                      - radio [ref=f12e470] [cursor=pointer]
+                      - radio [ref=f12e471] [cursor=pointer]
+                      - radio [ref=f12e472] [cursor=pointer]
+                      - radio [ref=f12e473] [cursor=pointer]
+                - separator [ref=f12e474]
+                - generic [ref=f12e478] [cursor=pointer]:
+                  - checkbox "Match side horns" [checked] [ref=f12e479]
+                  - generic [ref=f12e480]: Match side horns
+                - generic [ref=f12e483]:
+                  - generic [ref=f12e484]: Side horns
+                  - radiogroup "Select Side horns" [ref=f12e486]:
+                    - generic [ref=f12e487]:
+                      - radio [checked] [ref=f12e488] [cursor=pointer]
+                      - radio [ref=f12e489] [cursor=pointer]
+                      - radio [ref=f12e490] [cursor=pointer]
+                      - radio [ref=f12e491] [cursor=pointer]
+                      - radio [ref=f12e492] [cursor=pointer]
+                      - radio [ref=f12e493] [cursor=pointer]
+                      - radio [ref=f12e494] [cursor=pointer]
+                      - radio [ref=f12e495] [cursor=pointer]
+                      - radio [ref=f12e496] [cursor=pointer]
+                      - radio [ref=f12e497] [cursor=pointer]
+                      - radio [ref=f12e498] [cursor=pointer]
+                      - radio [ref=f12e499] [cursor=pointer]
+                - separator [ref=f12e500]
+                - generic [ref=f12e504] [cursor=pointer]:
+                  - checkbox "Match wings" [checked] [ref=f12e505]
+                  - generic [ref=f12e506]: Match wings
+                - generic [ref=f12e509]:
+                  - generic [ref=f12e510]: Wings
+                  - radiogroup "Select Wings" [ref=f12e512]:
+                    - generic [ref=f12e513]:
+                      - radio [checked] [ref=f12e514] [cursor=pointer]
+                      - radio [ref=f12e515] [cursor=pointer]
+                      - radio [ref=f12e516] [cursor=pointer]
+                      - radio [ref=f12e517] [cursor=pointer]
+                      - radio [ref=f12e518] [cursor=pointer]
+                - separator [ref=f12e519]
+                - generic [ref=f12e523] [cursor=pointer]:
+                  - checkbox "Match ears" [checked] [ref=f12e524]
+                  - generic [ref=f12e525]: Match ears
+                - generic [ref=f12e526]:
+                  - generic [ref=f12e528]:
+                    - generic [ref=f12e529]: Ears
+                    - radiogroup "Select Ears" [ref=f12e531]:
+                      - generic [ref=f12e532]:
+                        - radio [checked] [ref=f12e533] [cursor=pointer]
+                        - radio [ref=f12e534] [cursor=pointer]
+                        - radio [ref=f12e535] [cursor=pointer]
+                        - radio [ref=f12e536] [cursor=pointer]
+                        - radio [ref=f12e537] [cursor=pointer]
+                        - radio [ref=f12e538] [cursor=pointer]
+                        - radio [ref=f12e539] [cursor=pointer]
+                        - radio [ref=f12e540] [cursor=pointer]
+                        - radio [ref=f12e541] [cursor=pointer]
+                        - radio [ref=f12e542] [cursor=pointer]
+                        - radio [ref=f12e543] [cursor=pointer]
+                        - radio [ref=f12e544] [cursor=pointer]
+                        - radio [ref=f12e545] [cursor=pointer]
+                        - radio [ref=f12e546] [cursor=pointer]
+                  - generic [ref=f12e547]:
+                    - generic [ref=f12e548]: Color pattern
+                    - radiogroup "Select color pattern" [ref=f12e552]:
+                      - generic [ref=f12e553]:
+                        - radio [checked] [ref=f12e554] [cursor=pointer]
+                        - radio [ref=f12e555] [cursor=pointer]
+                  - generic [ref=f12e558]:
+                    - generic [ref=f12e559]:
+                      - generic [ref=f12e560]: Color 1
+                      - checkbox "Automatic color" [checked] [ref=f12e566] [cursor=pointer]
+                    - generic [ref=f12e573]:
+                      - textbox "Color" [disabled] [ref=f12e575]: e6d4f2
+                      - button "Pick color" [disabled]
+                - separator [ref=f12e576]
+                - generic [ref=f12e577]:
+                  - generic [ref=f12e581] [cursor=pointer]:
+                    - checkbox "Match butt marks" [checked] [ref=f12e582]
+                    - generic [ref=f12e583]: Match butt marks
+                  - generic [ref=f12e584]:
+                    - button "Clear all" [ref=f12e586] [cursor=pointer]
+                    - generic [ref=f12e590]: Butt marks
+                  - group "Butt marks" [ref=f12e676]:
+                    - generic [ref=f12e678]:
+                      - button "Eraser" [ref=f12e679] [cursor=pointer]
+                      - button "Eyedropper" [ref=f12e683] [cursor=pointer]
+                      - button "Brush" [ref=f12e687] [cursor=pointer]
+                    - generic [ref=f12e694]:
+                      - textbox "Brush color" [ref=f12e696]: ffa500
+                      - button "Pick color" [ref=f12e697] [cursor=pointer]
+                  - generic [ref=f12e704] [cursor=pointer]:
+                    - checkbox "don't flip mark on the right side" [ref=f12e705]
+                    - generic [ref=f12e706]: don't flip mark on the right side
+    - contentinfo [ref=f12e707]:
+      - generic [ref=f12e708]:
+        - text: version 0.129.5-alpha
+        - generic [ref=f12e709]: changelog
+      - generic [ref=f12e710]:
+        - generic [ref=f12e711]:
+          - generic [ref=f12e712]:
+            - text: © 2016-2026
+            - link "Pony Town" [ref=f12e713] [cursor=pointer]:
+              - /url: https://twitter.com/ponytownteam
+            - text: "|"
+          - generic [ref=f12e714]:
+            - link "Patreon support page" [ref=f12e715] [cursor=pointer]:
+              - /url: https://patreon.com/ponytownteam
+            - link "Boosty support page" [ref=f12e719] [cursor=pointer]:
+              - /url: https://boosty.to/ponytown/about?utm_source=pony.town.site
+            - link "Google Play Store" [ref=f12e723] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=town.pony.game
+            - link "Official Twitter account" [ref=f12e727] [cursor=pointer]:
+              - /url: https://twitter.com/ponytownteam
+            - link "Russian Telegram channel" [ref=f12e731] [cursor=pointer]:
+              - /url: https://t.me/ponytown_ofc
+            - link "Official VKontakte page" [ref=f12e735] [cursor=pointer]:
+              - /url: https://vk.com/ponytown
+            - link "Game support email" [ref=f12e739] [cursor=pointer]:
+              - /url: mailto:ponytownhelp@gmail.com
+        - generic [ref=f12e743]:
+          - text: jobs|
+          - link "privacy policy" [ref=f12e744] [cursor=pointer]:
+            - /url: /privacypolicy.html
+          - text: "|"
+          - link "terms of service" [ref=f12e745] [cursor=pointer]:
+            - /url: /termsofservice.html
+  - button [ref=f12e751] [cursor=pointer]

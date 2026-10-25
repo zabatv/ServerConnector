@@ -1,0 +1,482 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - link "Home" [ref=e10] [cursor=pointer]:
+        - /url: /go?url=https://www.faceit.com/en/home
+      - generic "Search" [ref=e13] [cursor=pointer]
+      - generic "CS2" [ref=e23] [cursor=pointer]:
+        - generic [ref=e24]:
+          - img "avatar" [ref=e27]
+          - generic [ref=e28]: CS2
+      - generic [ref=e29]:
+        - link "Party Finder" [ref=e31] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/parties?cp=main_navigation
+          - generic:
+            - generic "Party Finder"
+        - link "Play" [ref=e35] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/play
+          - generic:
+            - generic "Play"
+        - link "Rank" [ref=e37] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/cs2/rank
+          - generic:
+            - generic "Rank"
+        - link "Track" [ref=e41] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/track?cp=main_navigation
+          - generic:
+            - generic "Track"
+        - link "Feed" [ref=e43] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/social-feed
+          - generic:
+            - generic "Feed"
+        - separator [ref=e44]
+        - link "Clubs" [ref=e46] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/clubs
+          - generic:
+            - generic "Clubs"
+        - link "Create a Club" [ref=e48] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/create-club
+          - generic:
+            - generic "Create a Club"
+      - generic [ref=e49]:
+        - link "Missions" [ref=e51] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/missions
+          - generic:
+            - generic "Missions"
+        - link "Shop" [ref=e53] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/shop?cp=navigation_sidebar_footer__shop_link
+          - generic:
+            - generic "Shop"
+        - link "Upgrade" [ref=e55] [cursor=pointer]:
+          - /url: /go?url=https://www.faceit.com/en/subscriptions/cs2/premium?cp=header
+          - generic:
+            - generic "Upgrade"
+    - generic [ref=e60]:
+      - complementary [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - generic [ref=e65]:
+              - generic:
+                - img "avatar frame" [ref=e67]
+                - img [ref=e71] [cursor=pointer]
+              - img "avatar" [ref=e106]
+            - heading "donk666" [level=1] [ref=e108]
+          - generic [ref=e118]:
+            - generic [ref=e119] [cursor=pointer]: Add friend
+            - generic [ref=e121] [cursor=pointer]
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - generic [ref=e128]: Gift A Sub
+            - generic [ref=e131] [cursor=pointer]: Gift Sub
+          - generic [ref=e132]:
+            - generic [ref=e133]: Member since Oct 27, 2017
+            - generic [ref=e134]: We don't know anything about donk666
+            - generic [ref=e135]:
+              - img "KR" [ref=e137]:
+                - img "KR" [ref=e138]
+              - generic [ref=e144]: Korea, Republic of
+            - generic [ref=e145]:
+              - link [ref=e148] [cursor=pointer]:
+                - /url: https://youtube.com/user/
+              - link [ref=e151] [cursor=pointer]:
+                - /url: http://steamcommunity.com/profiles/76561198386265483
+          - generic [ref=e153]:
+            - generic [ref=e154]: Game history
+            - generic [ref=e155]:
+              - generic [ref=e156] [cursor=pointer]:
+                - generic [ref=e157]: C
+                - generic [ref=e159]:
+                  - generic [ref=e160]: CS2
+                  - generic [ref=e161]: 2,577 matches
+              - generic [ref=e164]:
+                - generic [ref=e165]: C
+                - generic [ref=e167]:
+                  - generic [ref=e168]: CS:GO
+                  - generic [ref=e169]: 4,747 matches
+          - generic [ref=e170]:
+            - generic [ref=e171]:
+              - img "pinSeasonPrestigeChallengerTitle" [ref=e174]
+              - img "pinChallengerS8EUTitle" [ref=e177]
+              - img "pinChallengerS7EUTitle" [ref=e180]
+              - img "pinGG25Over1GGsTitle" [ref=e183]
+            - generic [ref=e184] [cursor=pointer]: All badges
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - generic [ref=e188]:
+                - generic [ref=e189]: Recent Activity
+                - generic [ref=e190]: Last 90 days
+              - generic [ref=e191]:
+                - generic [ref=e192]:
+                  - generic [ref=e193]: Jul
+                  - generic [ref=e194]: Aug
+                  - generic [ref=e195]: Sep
+                  - generic [ref=e196]: Oct
+                - generic [ref=e198]:
+                  - generic [ref=e199]: Mon
+                  - generic [ref=e200]: Tue
+                  - generic [ref=e201]: Wed
+                  - generic [ref=e202]: Thu
+                  - generic [ref=e203]: Fri
+                  - generic [ref=e204]: Sat
+                  - generic [ref=e205]: Sun
+              - generic [ref=e297]:
+                - generic [ref=e298]: 161 Matches Played
+                - generic [ref=e299]:
+                  - generic [ref=e300]: 1 match
+                  - generic [ref=e305]: +5 matches
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - generic [ref=e308]: Guestbook (5)
+                - link "View all" [ref=e309] [cursor=pointer]:
+                  - /url: /go?url=https://www.faceit.com/en/players/donk666/guestbook
+              - list [ref=e311]:
+                - listitem [ref=e312]:
+                  - img "avatar" [ref=e314]
+                  - generic [ref=e316]:
+                    - generic [ref=e318]:
+                      - link "fmylife" [ref=e319] [cursor=pointer]:
+                        - /url: /go?url=https://www.faceit.com/en/players/fmylife
+                      - generic [ref=e321]: Feb 10, 5:48 AM
+                    - img ":heart:" [ref=e326]
+                - listitem [ref=e328]:
+                  - img "avatar" [ref=e330]
+                  - generic [ref=e332]:
+                    - generic [ref=e334]:
+                      - link "shady" [ref=e335] [cursor=pointer]:
+                        - /url: /go?url=https://www.faceit.com/en/players/shady
+                      - generic [ref=e336]: Mar 31, 11:59 PM
+                    - generic [ref=e337]: The creator of counter-strike 2
+                - listitem [ref=e339]:
+                  - img "avatar" [ref=e341]
+                  - generic [ref=e343]:
+                    - generic [ref=e345]:
+                      - link "skywhywalker" [ref=e346] [cursor=pointer]:
+                        - /url: /go?url=https://www.faceit.com/en/players/skywhywalker
+                      - generic [ref=e347]: Feb 19, 9:38 AM
+                    - img ":red_card:" [ref=e352]
+      - generic [ref=e354]:
+        - generic [ref=e356]:
+          - link "Games" [ref=e358] [cursor=pointer]:
+            - /url: /go?url=https://www.faceit.com/en/players/donk666
+          - link "Friends" [ref=e360] [cursor=pointer]:
+            - /url: /go?url=https://www.faceit.com/en/players/donk666/friends
+          - link "Videos" [ref=e362] [cursor=pointer]:
+            - /url: /go?url=https://www.faceit.com/en/players/donk666/videos
+          - link "Guestbook" [ref=e364] [cursor=pointer]:
+            - /url: /go?url=https://www.faceit.com/en/players/donk666/guestbook
+          - link "Inventory" [ref=e366] [cursor=pointer]:
+            - /url: /go?url=https://www.faceit.com/en/players/donk666/inventory
+          - link "Clubs" [ref=e368] [cursor=pointer]:
+            - /url: /go?url=https://www.faceit.com/en/players/donk666/clubs
+          - link "Teams" [ref=e370] [cursor=pointer]:
+            - /url: /go?url=https://www.faceit.com/en/players/donk666/teams
+        - generic [ref=e371]:
+          - generic [ref=e372]:
+            - generic [ref=e375] [cursor=pointer]:
+              - generic [ref=e376]: C
+              - generic [ref=e378]: CS2
+            - generic [ref=e383]:
+              - link "Summary" [ref=e385] [cursor=pointer]:
+                - /url: /go?url=https://www.faceit.com/en/players/donk666/cs2
+              - link "Match history" [ref=e387] [cursor=pointer]:
+                - /url: /go?url=https://www.faceit.com/en/players/donk666/cs2/history
+              - link "Matchmaking" [ref=e389] [cursor=pointer]:
+                - /url: /go?url=https://www.faceit.com/en/players/donk666/cs2/matchmaking
+              - link "Leagues" [ref=e391] [cursor=pointer]:
+                - /url: /go?url=https://www.faceit.com/en/players/donk666/cs2/leagues
+              - link "Tournaments" [ref=e393] [cursor=pointer]:
+                - /url: /go?url=https://www.faceit.com/en/players/donk666/cs2/tournaments
+              - link "Skin Vault Beta" [ref=e395] [cursor=pointer]:
+                - /url: /go?url=https://www.faceit.com/en/players/donk666/cs2/skins
+                - generic:
+                  - generic:
+                    - generic: Skin Vault
+                    - generic: Beta
+          - generic [ref=e396]:
+            - generic [ref=e397]:
+              - generic [ref=e398]:
+                - generic [ref=e399]:
+                  - generic [ref=e403]:
+                    - generic [ref=e404]: Season 9
+                    - generic [ref=e405]: Matchmaking
+                  - link "Season 9 stats" [ref=e406] [cursor=pointer]:
+                    - /url: /go?url=https://www.faceit.com/en/players/donk666/cs2/matchmaking?season=822d32cb-174e-4ebf-ae28-5ef9b80fd007
+                - generic [ref=e407]:
+                  - generic [ref=e408]:
+                    - generic [ref=e409]:
+                      - generic [ref=e410]: "#1"
+                      - img "Challenger rank" [ref=e411]:
+                        - img "Challenger rank" [ref=e412]
+                    - generic [ref=e416]: 5,264
+                  - generic [ref=e417]:
+                    - generic [ref=e418]:
+                      - generic [ref=e419]: "#70"
+                      - generic [ref=e425]:
+                        - img "KR" [ref=e427]:
+                          - img "KR" [ref=e428]
+                        - generic [ref=e434]: "1"
+                      - generic [ref=e435]:
+                        - img "EU" [ref=e436]:
+                          - img "EU" [ref=e437]
+                        - generic [ref=e441]: "1"
+                    - generic [ref=e442]:
+                      - generic [ref=e443]:
+                        - generic [ref=e444]: "145"
+                        - generic [ref=e445]: Matches
+                        - generic [aria-hidden] [ref=e446]: •
+                      - generic [ref=e447]:
+                        - generic [ref=e448]: 66.2%
+                        - generic [ref=e449]: Win rate
+              - generic [ref=e450]:
+                - generic [ref=e451]:
+                  - generic [ref=e452]: Recent performance
+                  - generic [ref=e453]:
+                    - generic [ref=e454]: Last 30 Matches
+                    - generic [ref=e455]: •
+                    - generic [ref=e456] [cursor=pointer]:
+                      - img "Skill level 10" [ref=e457]
+                      - generic [ref=e475]: 3,757 Avg skill level of Match
+                - generic [ref=e478]:
+                  - generic [ref=e479]:
+                    - generic [ref=e480]: Elo change
+                    - generic [ref=e481]: "+179"
+                  - generic [ref=e482]:
+                    - generic [ref=e483]:
+                      - generic [ref=e484]: W
+                      - generic [ref=e486]: "20"
+                    - generic [ref=e487]: /
+                    - generic [ref=e488]:
+                      - generic [ref=e489]: L
+                      - generic [ref=e491]: "10"
+                - img "Elo progression" [ref=e495] [cursor=pointer]
+                - generic [ref=e501]:
+                  - generic [ref=e503]:
+                    - generic [ref=e504]:
+                      - generic [ref=e505]: "1.39"
+                      - img "FACEIT Rating" [ref=e528]
+                    - generic [ref=e532]:
+                      - generic [ref=e533]:
+                        - generic [ref=e534]: Swing
+                        - generic [ref=e535]: +4.63%
+                      - generic [ref=e537]:
+                        - generic [ref=e538]: Consistency
+                        - generic [ref=e539]: 67%
+                  - generic [ref=e541]:
+                    - generic [ref=e542]:
+                      - generic [ref=e543]: 22 / 15 / 5
+                      - generic [ref=e544]: K/D/A
+                    - generic [ref=e545]:
+                      - generic [ref=e546]: "1.51"
+                      - generic [ref=e547]: K/D
+                    - generic [ref=e548]:
+                      - generic [ref=e549]: "1.02"
+                      - generic [ref=e550]: K/R
+                    - generic [ref=e551]:
+                      - generic [ref=e552]: 68%
+                      - generic [ref=e553]: HS%
+                    - generic [ref=e554]:
+                      - generic [ref=e555]: "102.1"
+                      - generic [ref=e556]: ADR
+                    - generic [ref=e557]:
+                      - generic [ref=e558]: 66%
+                      - generic [ref=e559]: Win rate
+            - generic [ref=e560]:
+              - generic [ref=e561]:
+                - generic [ref=e562]: What did you think of the updated page?
+                - generic "close" [ref=e564] [cursor=pointer]
+              - generic [ref=e568]:
+                - button "Exciting" [ref=e569]
+                - button "Insightful" [ref=e577]
+                - button "Confusing" [ref=e588]
+                - button "Not interested" [ref=e604]
+            - generic [ref=e617]:
+              - generic [ref=e618]:
+                - generic [ref=e619]: Recent matches
+                - link "Full match history" [ref=e622] [cursor=pointer]:
+                  - /url: /go?url=https://www.faceit.com/en/players/donk666/cs2/history
+              - generic [ref=e623]:
+                - generic [ref=e625]:
+                  - generic [ref=e626]: Date
+                  - generic [ref=e627]: Score
+                  - generic [ref=e629]: Rating
+                  - generic [ref=e643]: K/D/A
+                  - generic [ref=e644]: Map
+                - generic [ref=e645]:
+                  - 'link "Wed 21 Oct 00:27 W 13 : 10 Skill level 10 5,264 27 1.17 ‎18 / 17 / 3 Cache Cache" [ref=e646] [cursor=pointer]':
+                    - /url: /go?url=https://www.faceit.com/en/cs2/room/1-7a804b4e-782f-4c40-9a57-5f47b0af6f68/scoreboard
+                    - generic:
+                      - generic:
+                        - generic: Wed 21 Oct
+                        - generic: 00:27
+                    - generic:
+                      - generic:
+                        - generic: W
+                        - generic:
+                          - generic: "13"
+                          - generic: ":"
+                          - generic: "10"
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "Skill level 10"
+                            - generic:
+                              - generic: 5,264
+                              - generic: "27"
+                    - generic: "1.17"
+                    - generic: ‎18 / 17 / 3
+                    - generic:
+                      - generic:
+                        - img "Cache"
+                        - generic: Cache
+                  - 'link "Tue 20 Oct 23:44 W 13 : 6 Skill level 10 5,237 26 1.66 ‎20 / 9 / 1 Dust 2 Dust 2" [ref=e647] [cursor=pointer]':
+                    - /url: /go?url=https://www.faceit.com/en/cs2/room/1-2d04efa7-ee03-4f38-ae11-cc36b516011c/scoreboard
+                    - generic:
+                      - generic:
+                        - generic: Tue 20 Oct
+                        - generic: 23:44
+                    - generic:
+                      - generic:
+                        - generic: W
+                        - generic:
+                          - generic: "13"
+                          - generic: ":"
+                          - generic: "6"
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "Skill level 10"
+                            - generic:
+                              - generic: 5,237
+                              - generic: "26"
+                    - generic: "1.66"
+                    - generic: ‎20 / 9 / 1
+                    - generic:
+                      - generic:
+                        - img "Dust 2"
+                        - generic: Dust 2
+                  - 'link "Sat 17 Oct 01:46 W 13 : 10 Skill level 10 5,211 23 1.75 ‎36 / 13 / 7 Cache Cache" [ref=e648] [cursor=pointer]':
+                    - /url: /go?url=https://www.faceit.com/en/cs2/room/1-a34d80c7-3b13-4d61-a987-5f907440193a/scoreboard
+                    - generic:
+                      - generic:
+                        - generic: Sat 17 Oct
+                        - generic: 01:46
+                    - generic:
+                      - generic:
+                        - generic: W
+                        - generic:
+                          - generic: "13"
+                          - generic: ":"
+                          - generic: "10"
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "Skill level 10"
+                            - generic:
+                              - generic: 5,211
+                              - generic: "23"
+                    - generic: "1.75"
+                    - generic: ‎36 / 13 / 7
+                    - generic:
+                      - generic:
+                        - img "Cache"
+                        - generic: Cache
+                  - 'link "Sat 17 Oct 01:14 W 13 : 1 Skill level 10 5,188 23 1.75 ‎19 / 6 / 2 Anubis Anubis" [ref=e649] [cursor=pointer]':
+                    - /url: /go?url=https://www.faceit.com/en/cs2/room/1-77e2b4df-c8e1-455b-b20a-fca98d90c058/scoreboard
+                    - generic:
+                      - generic:
+                        - generic: Sat 17 Oct
+                        - generic: 01:14
+                    - generic:
+                      - generic:
+                        - generic: W
+                        - generic:
+                          - generic: "13"
+                          - generic: ":"
+                          - generic: "1"
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "Skill level 10"
+                            - generic:
+                              - generic: 5,188
+                              - generic: "23"
+                    - generic: "1.75"
+                    - generic: ‎19 / 6 / 2
+                    - generic:
+                      - generic:
+                        - img "Anubis"
+                        - generic: Anubis
+                  - 'link "Sat 17 Oct 00:21 L 9 : 13 Skill level 10 5,165 29 1.23 ‎19 / 16 / 4 Dust 2 Dust 2" [ref=e650] [cursor=pointer]':
+                    - /url: /go?url=https://www.faceit.com/en/cs2/room/1-dec94885-cfc4-41dd-ac9e-a9b8f6535ff8/scoreboard
+                    - generic:
+                      - generic:
+                        - generic: Sat 17 Oct
+                        - generic: 00:21
+                    - generic:
+                      - generic:
+                        - generic: L
+                        - generic:
+                          - generic: "9"
+                          - generic: ":"
+                          - generic: "13"
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "Skill level 10"
+                            - generic:
+                              - generic: 5,165
+                              - generic: "29"
+                    - generic: "1.23"
+                    - generic: ‎19 / 16 / 4
+                    - generic:
+                      - generic:
+                        - img "Dust 2"
+                        - generic: Dust 2
+            - generic [ref=e651]:
+              - generic [ref=e652]:
+                - generic [ref=e653]: Highlights
+                - link "View all videos" [ref=e655] [cursor=pointer]:
+                  - /url: /go?url=https://www.faceit.com/en/players/donk666/videos
+              - generic [ref=e656]:
+                - generic [ref=e657] [cursor=pointer]:
+                  - generic [ref=e660]:
+                    - generic [ref=e661]: Cache AK-47 3K
+                    - generic [ref=e662]: 21 hours ago
+                  - generic [ref=e663]: "1832"
+                - generic [ref=e669] [cursor=pointer]:
+                  - generic [ref=e672]:
+                    - generic [ref=e673]: Dust 2 AK-47 3K
+                    - generic [ref=e674]: 22 hours ago
+                  - generic [ref=e675]: "1352"
+                - generic [ref=e681] [cursor=pointer]:
+                  - generic [ref=e684]:
+                    - generic [ref=e685]: Cache AK-47 Ace
+                    - generic [ref=e686]: 4 days ago
+                  - generic [ref=e687]: "16488"
+                - generic [ref=e693] [cursor=pointer]:
+                  - generic [ref=e696]:
+                    - generic [ref=e697]: Anubis Deagle 3K
+                    - generic [ref=e698]: 4 days ago
+                  - generic [ref=e699]: "5373"
+  - alert [ref=e705]
+  - link [ref=e706] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - complementary "Live chat widget": 
+  - link [ref=e707] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=e708] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - link [ref=e709] [cursor=pointer]:
+    - /url: https://pubads.g.doubleclick.net/
+  - generic [ref=e710]:
+    - img "avatar" [ref=e711] [cursor=pointer]
+    - generic "Matches" [ref=e712] [cursor=pointer]
+    - generic "Notifications" [ref=e715] [cursor=pointer]
+    - generic "Social" [ref=e718] [cursor=pointer]
+    - generic "Create Group" [ref=e721] [cursor=pointer]
+    - generic "Invite Players" [ref=e726] [cursor=pointer]

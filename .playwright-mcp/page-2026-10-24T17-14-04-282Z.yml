@@ -1,0 +1,95 @@
+- generic [ref=f20e2]:
+  - banner [ref=f20e3]:
+    - generic [ref=f20e19]:
+      - img "brand logo" [ref=f20e21]
+      - text:     
+  - main [ref=f20e22]:
+    - generic [ref=f20e25]:
+      - generic [ref=f20e27]:
+        - generic [ref=f20e30]:
+          - generic [ref=f20e275]:
+            - generic [ref=f20e279]:
+              - generic [ref=f20e280]: ОУП.06.В Физика. Тема 7.2 Эволюция Вселенной. 1 курс 2 семестр.
+              - generic [ref=f20e281]: 1 Первая тема
+            - generic [ref=f20e283]:
+              - generic [ref=f20e284]: Вопрос 16. Сопоставьте вид излучения и наиболее типичный экран защиты.
+              - generic [ref=f20e287]: Перетащите ответы в правильные категории
+              - generic [ref=f20e288]:
+                - generic [ref=f20e289]:
+                  - list [ref=f20e291]:
+                    - generic "Лист бумаги или верхний слой кожи" [ref=f20e292]
+                    - generic [ref=f20e293]: +
+                  - list [ref=f20e296]:
+                    - generic "Толстый свинец или бетон" [ref=f20e297]
+                    - generic [ref=f20e298]: +
+                  - list [ref=f20e301]:
+                    - generic "Тонкий металл (например, алюминий)" [ref=f20e302]
+                    - generic [ref=f20e303]: +
+                - generic [ref=f20e305]:
+                  - generic [ref=f20e306]: Варианты ответов
+                  - list [ref=f20e307]:
+                    - listitem [ref=f20e308]:
+                      - generic [ref=f20e309]: 
+                      - generic [ref=f20e310]: 3 Гамма
+                    - listitem [ref=f20e311]:
+                      - generic [ref=f20e312]: 
+                      - generic [ref=f20e313]: 2 Бета
+                    - listitem [ref=f20e314]:
+                      - generic [ref=f20e315]: 
+                      - generic [ref=f20e316]: 1 Альфа
+              - generic [ref=f20e317]:
+                - generic "ОК" [ref=f20e320] [cursor=pointer]
+                - generic [ref=f20e321]: Выберите ответы для данной категории.
+                - list [ref=f20e323]:
+                  - listitem [ref=f20e324]: 3 Гамма
+                  - listitem [ref=f20e325]: 2 Бета
+                  - listitem [ref=f20e326]: 1 Альфа
+          - generic [ref=f20e57]:
+            - button " Назад" [ref=f20e167] [cursor=pointer]:
+              - generic [ref=f20e168]: 
+              - text: Назад
+            - generic [ref=f20e58]:
+              - text: 
+              - button "Пропустить" [ref=f20e59] [cursor=pointer]
+              - text: 
+        - generic [ref=f20e61]:
+          - generic [ref=f20e62]: 01:24:09
+          - generic [ref=f20e72]:
+            - generic [ref=f20e74]:
+              - generic [ref=f20e75]: Пройдено
+              - generic [ref=f20e76]: ":"
+              - generic [ref=f20e77]: 30%
+            - generic [ref=f20e79]:
+              - generic [ref=f20e80]:
+                - generic [ref=f20e81]: Все страницы
+                - generic [ref=f20e82] [cursor=pointer]
+              - generic [ref=f20e86]:
+                - generic [ref=f20e88]:
+                  - generic [ref=f20e89] [cursor=pointer]: "1"
+                  - generic [ref=f20e92] [cursor=pointer]: "2"
+                  - generic [ref=f20e94] [cursor=pointer]: "3"
+                  - generic [ref=f20e96] [cursor=pointer]: "4"
+                  - generic [ref=f20e98] [cursor=pointer]: "5"
+                  - generic [ref=f20e100] [cursor=pointer]: "6"
+                  - generic [ref=f20e102] [cursor=pointer]:
+                    - generic [ref=f20e103]: "7"
+                    - generic [ref=f20e327]: Вы здесь
+                  - generic [ref=f20e104] [cursor=pointer]: "8"
+                  - generic [ref=f20e106] [cursor=pointer]: "9"
+                  - generic [ref=f20e108] [cursor=pointer]: "10"
+                  - generic [ref=f20e110] [cursor=pointer]: "11"
+                  - generic [ref=f20e112] [cursor=pointer]: "12"
+                  - generic [ref=f20e114] [cursor=pointer]: "13"
+                  - generic [ref=f20e116] [cursor=pointer]: "14"
+                  - generic [ref=f20e118] [cursor=pointer]: "15"
+                  - generic [ref=f20e120] [cursor=pointer]: "16"
+                  - generic [ref=f20e122] [cursor=pointer]: "17"
+                  - generic [ref=f20e124] [cursor=pointer]: "18"
+                  - generic [ref=f20e126] [cursor=pointer]: "19"
+                  - generic [ref=f20e128] [cursor=pointer]: "20"
+                - generic [ref=f20e130]:
+                  - generic [ref=f20e131]: 
+                  - generic [ref=f20e133]: 1-10
+                  - generic [ref=f20e136] [cursor=pointer]: 
+      - generic [ref=f20e138]: © 2026 StartExam Platform
+  - contentinfo

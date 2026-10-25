@@ -1,0 +1,251 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "Rostrum" [ref=e3] [cursor=pointer]:
+      - /url: /
+    - navigation [ref=e5]:
+      - link "Панель" [ref=e6] [cursor=pointer]:
+        - /url: /admin
+      - link "Claim" [ref=e7] [cursor=pointer]:
+        - /url: /admin/claim
+      - button "Выйти" [ref=e9] [cursor=pointer]
+  - main [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - paragraph [ref=e14]: НАСТРОЙКА
+          - generic [ref=e15]:
+            - generic [ref=e16]:
+              - generic [ref=e17]: МОЙ ПРОФИЛЬ (A · ник на FACEIT)
+              - combobox "МОЙ ПРОФИЛЬ (A · ник на FACEIT)" [ref=e18]
+            - generic [ref=e19]:
+              - generic [ref=e20]: ПРОФИЛЬ (B · второй ник, необязательно)
+              - combobox "ПРОФИЛЬ (B · второй ник, необязательно)" [ref=e21]
+            - generic [ref=e22]:
+              - generic [ref=e23]: DISPLAY NICKNAME (C · ПЕЧАТАЕТСЯ В ПРОФИЛЕ)
+              - textbox "DISPLAY NICKNAME (C · ПЕЧАТАЕТСЯ В ПРОФИЛЕ)" [ref=e24]:
+                - /placeholder: пусто = подтверждённый алиас
+              - generic [ref=e25]: пусто — печатается реальный ник; алиас берётся из claim, если он есть
+            - generic [ref=e26]:
+              - generic [ref=e27]:
+                - generic [ref=e28]: РОЛЬ
+                - combobox "РОЛЬ" [ref=e29]:
+                  - option "— нет —" [selected]
+                  - option "ДРУГ"
+                  - option "СОПЕРНИК"
+                  - option "СОКОМАНДНИК"
+                  - option "КАСТЕР"
+              - generic [ref=e30]:
+                - generic [ref=e31]: МЕТКА
+                - textbox "МЕТКА" [ref=e32]:
+                  - /placeholder: Autumn Cup
+            - generic [ref=e33]:
+              - generic [ref=e34]: НАЗНАЧЕНИЕ
+              - combobox "НАЗНАЧЕНИЕ" [ref=e35]:
+                - option "внутренняя страница" [selected]
+                - option "разрешённый внешний сайт"
+            - generic [ref=e36]:
+              - generic [ref=e37]: REDIRECT URL (КНОПКА ADD FRIEND)
+              - textbox "REDIRECT URL (КНОПКА ADD FRIEND)" [disabled] [ref=e38]:
+                - /placeholder: https://cup.example/bracket
+              - generic [ref=e39]: Любой корректный http(s)-адрес. Схемы кроме http/https отклоняются.
+            - paragraph [ref=e40]:
+              - text: ссылка вида
+              - code [ref=e41]: /p/xxxxxxxxxx
+              - text: · → внутренняя страница
+            - button "ЗАПУСТИТЬ" [ref=e42] [cursor=pointer]
+        - generic [ref=e43]:
+          - paragraph [ref=e44]: ПРОФИЛИ
+          - generic [ref=e45]:
+            - article [ref=e46]:
+              - generic [ref=e49]:
+                - strong [ref=e50]: w0nderful
+                - text: 🇺🇦 UA · 3846 ELO · lvl 10
+              - paragraph [ref=e51]:
+                - generic [ref=e52]: нет claim
+            - article [ref=e53]:
+              - generic [ref=e54]:
+                - generic [ref=e55]: DO
+                - generic [ref=e57]:
+                  - strong [ref=e58]: donk
+                  - text: KZ · 2991 ELO · lvl 10
+              - paragraph [ref=e59]:
+                - generic [ref=e60]: нет claim
+            - article [ref=e61]:
+              - generic [ref=e62]:
+                - generic [ref=e63]: FR
+                - generic [ref=e65]:
+                  - strong [ref=e66]: fr3sh
+                  - text: 🇩🇪 DE · — ELO · lvl —
+              - paragraph [ref=e67]:
+                - generic [ref=e68]: нет claim
+            - article [ref=e69]:
+              - generic [ref=e72]:
+                - strong [ref=e73]: lol
+                - text: 🇺🇦 UA · 2205 ELO · lvl 10
+              - paragraph [ref=e74]:
+                - generic [ref=e75]: нет claim
+            - article [ref=e76]:
+              - generic [ref=e79]:
+                - strong [ref=e80]: fre5zy
+                - text: 🇷🇺 RU · 2213 ELO · lvl 10
+              - paragraph [ref=e81]:
+                - generic [ref=e82]: нет claim
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - paragraph [ref=e85]: ССЫЛКИ
+          - paragraph [ref=e86]: Ссылка живёт на этом домене. Назначение — внутренняя страница профиля или разрешённый внешний сайт; кнопка на странице всегда показывает хост, поэтому скрытого редиректа не бывает.
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - generic [ref=e89]: профиль · aka donk
+              - generic [ref=e90]:
+                - code [ref=e91]: /p/donk
+                - text: → внутренняя страница
+                - generic [ref=e92]: НЕ ПОДТВЕРЖДЁН
+              - generic [ref=e93]:
+                - button "Скопировать ссылку" [ref=e94] [cursor=pointer]: COPY
+                - button "СКРЫТЬ" [ref=e96] [cursor=pointer]
+                - button "DELETE" [ref=e98] [cursor=pointer]
+            - group [ref=e100]:
+              - generic "Изменить" [ref=e101]
+              - option "— нет —" [selected]
+              - option "ДРУГ"
+              - option "СОПЕРНИК"
+              - option "СОКОМАНДНИК"
+              - option "КАСТЕР"
+              - option "внутренняя страница" [selected]
+              - option "разрешённый внешний сайт"
+            - generic [ref=e102]:
+              - generic [ref=e103]: профиль · aka lol
+              - generic [ref=e104]:
+                - code [ref=e105]: /p/lol
+                - text: → внутренняя страница
+                - generic [ref=e106]: НЕ ПОДТВЕРЖДЁН
+              - generic [ref=e107]:
+                - button "Скопировать ссылку" [ref=e108] [cursor=pointer]: COPY
+                - button "СКРЫТЬ" [ref=e110] [cursor=pointer]
+                - button "DELETE" [ref=e112] [cursor=pointer]
+            - group [ref=e114]:
+              - generic "Изменить" [ref=e115]
+              - option "— нет —" [selected]
+              - option "ДРУГ"
+              - option "СОПЕРНИК"
+              - option "СОКОМАНДНИК"
+              - option "КАСТЕР"
+              - option "внутренняя страница" [selected]
+              - option "разрешённый внешний сайт"
+            - generic [ref=e116]:
+              - generic [ref=e117]: профиль · aka fr3sh
+              - generic [ref=e118]:
+                - code [ref=e119]: /p/fr3sh
+                - text: → внутренняя страница
+                - generic [ref=e120]: НЕ ПОДТВЕРЖДЁН
+              - generic [ref=e121]:
+                - button "Скопировать ссылку" [ref=e122] [cursor=pointer]: COPY
+                - button "СКРЫТЬ" [ref=e124] [cursor=pointer]
+                - button "DELETE" [ref=e126] [cursor=pointer]
+            - group [ref=e128]:
+              - generic "Изменить" [ref=e129]
+              - option "— нет —" [selected]
+              - option "ДРУГ"
+              - option "СОПЕРНИК"
+              - option "СОКОМАНДНИК"
+              - option "КАСТЕР"
+              - option "внутренняя страница" [selected]
+              - option "разрешённый внешний сайт"
+            - generic [ref=e130]:
+              - generic [ref=e131]: профиль · aka fre5zy
+              - generic [ref=e132]:
+                - code [ref=e133]: /p/fre5zy
+                - text: → внутренняя страница
+                - generic [ref=e134]: НЕ ПОДТВЕРЖДЁН
+              - generic [ref=e135]:
+                - button "Скопировать ссылку" [ref=e136] [cursor=pointer]: COPY
+                - button "СКРЫТЬ" [ref=e138] [cursor=pointer]
+                - button "DELETE" [ref=e140] [cursor=pointer]
+            - group [ref=e142]:
+              - generic "Изменить" [ref=e143]
+              - option "— нет —" [selected]
+              - option "ДРУГ"
+              - option "СОПЕРНИК"
+              - option "СОКОМАНДНИК"
+              - option "КАСТЕР"
+              - option "внутренняя страница" [selected]
+              - option "разрешённый внешний сайт"
+        - generic [ref=e144]:
+          - paragraph [ref=e145]: СЛУЖЕБНОЕ
+          - list [ref=e147]:
+            - listitem [ref=e148]:
+              - generic [ref=e149]: Источник профилей
+              - generic [ref=e150]: браузер · http://127.0.0.1:9222
+            - listitem [ref=e151]:
+              - generic [ref=e152]: FACEIT Data API
+              - generic [ref=e153]: нет FACEIT_API_KEY
+            - listitem [ref=e154]:
+              - generic [ref=e155]: FACEIT OAuth (доказательство владения)
+              - generic [ref=e156]: нет FACEIT_CLIENT_ID / CLIENT_SECRET / PUBLIC_ORIGIN
+            - listitem [ref=e157]:
+              - generic [ref=e158]: Claim'ы без доказательства
+              - generic [ref=e159]: включены — страницы помечаются
+          - generic [ref=e160]:
+            - textbox "FACEIT nickname" [ref=e161]
+            - button "Загрузить" [ref=e162] [cursor=pointer]
+          - table [ref=e163]:
+            - rowgroup [ref=e164]:
+              - row [ref=e165]:
+                - columnheader "Игрок" [ref=e166]
+                - columnheader "Страна" [ref=e167]
+                - columnheader "ELO" [ref=e168]
+                - columnheader "Уровень" [ref=e169]
+                - columnheader "Источник" [ref=e170]
+            - rowgroup [ref=e171]:
+              - row [ref=e172]:
+                - cell "w0nderful 591e26a3-eb86-4d4c-afa8-b5754455dc03" [ref=e173]:
+                  - strong [ref=e174]: w0nderful
+                  - generic [ref=e175]: 591e26a3-eb86-4d4c-afa8-b5754455dc03
+                - cell "🇺🇦 UA" [ref=e176]
+                - cell "3846" [ref=e177]
+                - cell "10" [ref=e178]
+                - cell "browser" [ref=e179]
+              - row [ref=e181]:
+                - cell "donk fb945110-f48f-4690-9b24-9dd9b59bede5" [ref=e182]:
+                  - strong [ref=e183]: donk
+                  - generic [ref=e184]: fb945110-f48f-4690-9b24-9dd9b59bede5
+                - cell "KZ" [ref=e185]
+                - cell "2991" [ref=e186]
+                - cell "10" [ref=e187]
+                - cell "browser" [ref=e188]
+              - row [ref=e190]:
+                - cell "fr3sh 3dea1544-c33a-4511-88d2-4d65c5361232" [ref=e191]:
+                  - strong [ref=e192]: fr3sh
+                  - generic [ref=e193]: 3dea1544-c33a-4511-88d2-4d65c5361232
+                - cell "🇩🇪 DE" [ref=e194]
+                - cell "—" [ref=e195]
+                - cell "—" [ref=e196]
+                - cell "browser" [ref=e197]
+              - row [ref=e199]:
+                - cell "lol c2854eb3-b387-4415-b0c8-a445f46644aa" [ref=e200]:
+                  - strong [ref=e201]: lol
+                  - generic [ref=e202]: c2854eb3-b387-4415-b0c8-a445f46644aa
+                - cell "🇺🇦 UA" [ref=e203]
+                - cell "2205" [ref=e204]
+                - cell "10" [ref=e205]
+                - cell "browser" [ref=e206]
+              - row [ref=e208]:
+                - cell "fre5zy 92662bf8-2ddd-4d05-9f86-8783cf780b4a" [ref=e209]:
+                  - strong [ref=e210]: fre5zy
+                  - generic [ref=e211]: 92662bf8-2ddd-4d05-9f86-8783cf780b4a
+                - cell "🇷🇺 RU" [ref=e212]
+                - cell "2213" [ref=e213]
+                - cell "10" [ref=e214]
+                - cell "browser" [ref=e215]
+          - table [ref=e217]:
+            - rowgroup [ref=e218]:
+              - row [ref=e219]:
+                - columnheader "Алиас → реальный ник" [ref=e220]
+                - columnheader "Статус" [ref=e221]
+                - columnheader "Создан" [ref=e222]
+            - rowgroup [ref=e223]:
+              - row [ref=e224]:
+                - cell "Claim'ов нет." [ref=e225]
+          - paragraph [ref=e226]: Ссылки создаются кнопкой ЗАПУСТИТЬ — она принимает введённые ники и обновляет запись, а не плодит дубли.
+    - paragraph

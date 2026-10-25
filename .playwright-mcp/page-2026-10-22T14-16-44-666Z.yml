@@ -1,0 +1,790 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e9]:
+    - complementary [ref=f1e10]:
+      - generic [ref=f1e11]:
+        - generic [ref=f1e12]:
+          - generic [ref=f1e14]:
+            - img [ref=f1e18] [cursor=pointer]
+            - img "avatar" [ref=f1e32]
+          - heading "donk" [level=1] [ref=f1e34]
+        - button "ADD FRIEND" [ref=f1e36] [cursor=pointer]
+      - generic [ref=f1e37]:
+        - generic [ref=f1e39]:
+          - generic [ref=f1e40]: Gift A Sub
+          - generic [ref=f1e44] [cursor=pointer]: Gift Sub
+        - generic [ref=f1e45]:
+          - generic [ref=f1e46]: Member since Apr 24, 2021
+          - generic [ref=f1e47]: We don't know anything about donk
+          - generic [ref=f1e48]:
+            - img "kz" [ref=f1e50]
+            - generic [ref=f1e51]: KZ
+          - link [ref=f1e55] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f1e59]:
+          - generic [ref=f1e60]: Game history
+          - generic [ref=f1e61]:
+            - generic [ref=f1e62] [cursor=pointer]:
+              - generic [ref=f1e63]: C
+              - generic [ref=f1e65]:
+                - generic [ref=f1e66]: CS2
+                - generic [ref=f1e67]: 2,378 matches
+            - generic [ref=f1e71]:
+              - generic [ref=f1e72]: C
+              - generic [ref=f1e74]:
+                - generic [ref=f1e75]: CS:GO
+                - generic [ref=f1e76]: — matches
+    - generic [ref=f1e77]:
+      - generic [ref=f1e79]:
+        - link "Games" [ref=f1e81] [cursor=pointer]:
+          - /url: "#"
+        - link "Friends" [ref=f1e87] [cursor=pointer]:
+          - /url: "#"
+        - link "Videos" [ref=f1e93] [cursor=pointer]:
+          - /url: "#"
+        - link "Guestbook" [ref=f1e99] [cursor=pointer]:
+          - /url: "#"
+        - link "Inventory" [ref=f1e105] [cursor=pointer]:
+          - /url: "#"
+        - link "Clubs" [ref=f1e111] [cursor=pointer]:
+          - /url: "#"
+        - link "Teams" [ref=f1e117] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f1e122]:
+        - generic [ref=f1e123]:
+          - generic [ref=f1e126] [cursor=pointer]:
+            - generic [ref=f1e127]: C
+            - generic [ref=f1e129]: CS2
+          - generic [ref=f1e135]:
+            - link "Summary" [ref=f1e137] [cursor=pointer]:
+              - /url: "#"
+            - link "Match history" [ref=f1e142] [cursor=pointer]:
+              - /url: "#"
+            - link "Matchmaking" [ref=f1e147] [cursor=pointer]:
+              - /url: "#"
+            - link "Leagues" [ref=f1e152] [cursor=pointer]:
+              - /url: "#"
+            - link "Tournaments" [ref=f1e157] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=f1e161]:
+          - generic [ref=f1e162]:
+            - generic [ref=f1e163]:
+              - generic [ref=f1e164]:
+                - generic [ref=f1e169]:
+                  - generic [ref=f1e170]: Season 9
+                  - generic [ref=f1e171]: Matchmaking
+                - link "Season 9 stats" [ref=f1e172] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e177]:
+                - generic [ref=f1e178]:
+                  - img "Skill level 10" [ref=f1e179]
+                  - generic [ref=f1e184]: 2,991
+                - generic [ref=f1e185]:
+                  - generic [ref=f1e186]:
+                    - generic [ref=f1e187]:
+                      - img "kz" [ref=f1e189]
+                      - generic [ref=f1e190]: "288"
+                    - generic [ref=f1e191]:
+                      - img "EU" [ref=f1e192]:
+                        - img "EU" [ref=f1e193]
+                      - generic [ref=f1e197]: 8,545
+                  - generic [ref=f1e198]:
+                    - generic [ref=f1e199]:
+                      - generic [ref=f1e200]: "109"
+                      - generic [ref=f1e201]: Matches
+                      - generic [aria-hidden] [ref=f1e202]: •
+                    - generic [ref=f1e203]:
+                      - generic [ref=f1e204]: 50.5%
+                      - generic [ref=f1e205]: Win rate
+            - generic [ref=f1e206]:
+              - generic [ref=f1e207]:
+                - generic [ref=f1e208]: Recent performance
+                - generic [ref=f1e209]:
+                  - generic [ref=f1e210]: Last 30 Matches
+                  - generic [ref=f1e211]: •
+                  - generic [ref=f1e212] [cursor=pointer]:
+                    - img "Skill level 10" [ref=f1e213]
+                    - generic [ref=f1e218]: 2,910 Avg skill level of Match
+              - generic [ref=f1e222]:
+                - generic [ref=f1e223]:
+                  - generic [ref=f1e224]: Elo change
+                  - generic [ref=f1e225]: "+114"
+                - generic [ref=f1e226]:
+                  - generic [ref=f1e227]:
+                    - generic [ref=f1e228]: W
+                    - generic [ref=f1e230]: "19"
+                  - generic [ref=f1e231]: /
+                  - generic [ref=f1e232]:
+                    - generic [ref=f1e233]: L
+                    - generic [ref=f1e235]: "14"
+              - img "Elo progression" [ref=f1e239] [cursor=pointer]
+              - generic [ref=f1e245]:
+                - generic [ref=f1e247]:
+                  - generic [ref=f1e248]:
+                    - generic [ref=f1e249]: "1.07"
+                    - img "FACEIT Rating" [ref=f1e272]
+                  - generic [ref=f1e276]:
+                    - generic [ref=f1e277]:
+                      - generic [ref=f1e278]: Swing
+                      - generic [ref=f1e279]: "-0.71%"
+                    - generic [ref=f1e281]:
+                      - generic [ref=f1e282]: Consistency
+                      - generic [ref=f1e283]: 48%
+                - generic [ref=f1e285]:
+                  - generic [ref=f1e286]:
+                    - generic [ref=f1e287]: 14 / 15 / 5
+                    - generic [ref=f1e288]: K/D/A
+                  - generic [ref=f1e289]:
+                    - generic [ref=f1e290]: "0.94"
+                    - generic [ref=f1e291]: K/D
+                  - generic [ref=f1e292]:
+                    - generic [ref=f1e293]: "0.66"
+                    - generic [ref=f1e294]: K/R
+                  - generic [ref=f1e295]:
+                    - generic [ref=f1e296]: 63%
+                    - generic [ref=f1e297]: HS%
+                  - generic [ref=f1e298]:
+                    - generic [ref=f1e299]: "73.8"
+                    - generic [ref=f1e300]: ADR
+                  - generic [ref=f1e301]:
+                    - generic [ref=f1e302]: 53%
+                    - generic [ref=f1e303]: Win rate
+          - generic [ref=f1e304]:
+            - generic [ref=f1e305]:
+              - generic [ref=f1e306]: Recent matches
+              - link "Full match history" [ref=f1e309] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=f1e313]:
+              - generic [ref=f1e315]:
+                - generic [ref=f1e316]: Date
+                - generic [ref=f1e317]: Score
+                - generic [ref=f1e319]: Rating
+                - generic [ref=f1e333]: K/D/A
+                - generic [ref=f1e334]: Map
+              - generic [ref=f1e335]:
+                - 'link "Thu 1 Jan 03:00 L 8 : 13 Skill level 10 2,991 30 0.56 6 / 18 / 2 Mirage Mirage" [ref=f1e336] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e338]:
+                    - generic [ref=f1e339]: Thu 1 Jan
+                    - generic [ref=f1e340]: 03:00
+                  - generic [ref=f1e342]:
+                    - generic [ref=f1e343]: L
+                    - generic [ref=f1e344]:
+                      - generic [ref=f1e345]: "8"
+                      - generic [ref=f1e346]: ":"
+                      - generic [ref=f1e347]: "13"
+                  - generic [ref=f1e355]:
+                    - img "Skill level 10" [ref=f1e356]
+                    - generic [ref=f1e361]:
+                      - generic [ref=f1e362]: 2,991
+                      - generic [ref=f1e363]: "30"
+                  - generic [ref=f1e370]: "0.56"
+                  - generic [ref=f1e378]: 6 / 18 / 2
+                  - generic [ref=f1e380]:
+                    - img "Mirage" [ref=f1e381]
+                    - generic [ref=f1e382]: Mirage
+                - 'link "Thu 1 Jan 03:00 W 13 : 10 Skill level 10 2,991 30 0.85 8 / 15 / 5 Dust 2 Dust 2" [ref=f1e384] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e386]:
+                    - generic [ref=f1e387]: Thu 1 Jan
+                    - generic [ref=f1e388]: 03:00
+                  - generic [ref=f1e390]:
+                    - generic [ref=f1e391]: W
+                    - generic [ref=f1e392]:
+                      - generic [ref=f1e393]: "13"
+                      - generic [ref=f1e394]: ":"
+                      - generic [ref=f1e395]: "10"
+                  - generic [ref=f1e403]:
+                    - img "Skill level 10" [ref=f1e404]
+                    - generic [ref=f1e409]:
+                      - generic [ref=f1e410]: 2,991
+                      - generic [ref=f1e411]: "30"
+                  - generic [ref=f1e418]: "0.85"
+                  - generic [ref=f1e426]: 8 / 15 / 5
+                  - generic [ref=f1e428]:
+                    - img "Dust 2" [ref=f1e429]
+                    - generic [ref=f1e430]: Dust 2
+                - 'link "Sun 18 Oct 11:47 W 13 : 11 Skill level 10 2,991 30 0.85 11 / 17 / 3 Dust 2 Dust 2" [ref=f1e432] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e434]:
+                    - generic [ref=f1e435]: Sun 18 Oct
+                    - generic [ref=f1e436]: 11:47
+                  - generic [ref=f1e438]:
+                    - generic [ref=f1e439]: W
+                    - generic [ref=f1e440]:
+                      - generic [ref=f1e441]: "13"
+                      - generic [ref=f1e442]: ":"
+                      - generic [ref=f1e443]: "11"
+                  - generic [ref=f1e451]:
+                    - img "Skill level 10" [ref=f1e452]
+                    - generic [ref=f1e457]:
+                      - generic [ref=f1e458]: 2,991
+                      - generic [ref=f1e459]: "30"
+                  - generic [ref=f1e466]: "0.85"
+                  - generic [ref=f1e474]: 11 / 17 / 3
+                  - generic [ref=f1e476]:
+                    - img "Dust 2" [ref=f1e477]
+                    - generic [ref=f1e478]: Dust 2
+                - 'link "Sun 18 Oct 10:52 W 13 : 1 Skill level 10 2,995 30 1.51 12 / 4 / 2 Dust 2 Dust 2" [ref=f1e480] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e482]:
+                    - generic [ref=f1e483]: Sun 18 Oct
+                    - generic [ref=f1e484]: 10:52
+                  - generic [ref=f1e486]:
+                    - generic [ref=f1e487]: W
+                    - generic [ref=f1e488]:
+                      - generic [ref=f1e489]: "13"
+                      - generic [ref=f1e490]: ":"
+                      - generic [ref=f1e491]: "1"
+                  - generic [ref=f1e499]:
+                    - img "Skill level 10" [ref=f1e500]
+                    - generic [ref=f1e505]:
+                      - generic [ref=f1e506]: 2,995
+                      - generic [ref=f1e507]: "30"
+                  - generic [ref=f1e514]: "1.51"
+                  - generic [ref=f1e522]: 12 / 4 / 2
+                  - generic [ref=f1e524]:
+                    - img "Dust 2" [ref=f1e525]
+                    - generic [ref=f1e526]: Dust 2
+                - 'link "Sat 17 Oct 13:31 W 13 : 4 Skill level 10 2,991 30 1.26 14 / 11 / 4 Mirage Mirage" [ref=f1e528] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e530]:
+                    - generic [ref=f1e531]: Sat 17 Oct
+                    - generic [ref=f1e532]: 13:31
+                  - generic [ref=f1e534]:
+                    - generic [ref=f1e535]: W
+                    - generic [ref=f1e536]:
+                      - generic [ref=f1e537]: "13"
+                      - generic [ref=f1e538]: ":"
+                      - generic [ref=f1e539]: "4"
+                  - generic [ref=f1e547]:
+                    - img "Skill level 10" [ref=f1e548]
+                    - generic [ref=f1e553]:
+                      - generic [ref=f1e554]: 2,991
+                      - generic [ref=f1e555]: "30"
+                  - generic [ref=f1e562]: "1.26"
+                  - generic [ref=f1e570]: 14 / 11 / 4
+                  - generic [ref=f1e572]:
+                    - img "Mirage" [ref=f1e573]
+                    - generic [ref=f1e574]: Mirage
+                - 'link "Sat 17 Oct 12:55 L 7 : 13 Skill level 10 2,970 30 0.67 9 / 20 / 2 Mirage Mirage" [ref=f1e576] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e578]:
+                    - generic [ref=f1e579]: Sat 17 Oct
+                    - generic [ref=f1e580]: 12:55
+                  - generic [ref=f1e582]:
+                    - generic [ref=f1e583]: L
+                    - generic [ref=f1e584]:
+                      - generic [ref=f1e585]: "7"
+                      - generic [ref=f1e586]: ":"
+                      - generic [ref=f1e587]: "13"
+                  - generic [ref=f1e595]:
+                    - img "Skill level 10" [ref=f1e596]
+                    - generic [ref=f1e601]:
+                      - generic [ref=f1e602]: 2,970
+                      - generic [ref=f1e603]: "30"
+                  - generic [ref=f1e610]: "0.67"
+                  - generic [ref=f1e618]: 9 / 20 / 2
+                  - generic [ref=f1e620]:
+                    - img "Mirage" [ref=f1e621]
+                    - generic [ref=f1e622]: Mirage
+                - 'link "Sat 17 Oct 11:53 W 13 : 4 Skill level 10 2,995 30 0.75 9 / 8 / 3 Ancient" [ref=f1e624] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e626]:
+                    - generic [ref=f1e627]: Sat 17 Oct
+                    - generic [ref=f1e628]: 11:53
+                  - generic [ref=f1e630]:
+                    - generic [ref=f1e631]: W
+                    - generic [ref=f1e632]:
+                      - generic [ref=f1e633]: "13"
+                      - generic [ref=f1e634]: ":"
+                      - generic [ref=f1e635]: "4"
+                  - generic [ref=f1e643]:
+                    - img "Skill level 10" [ref=f1e644]
+                    - generic [ref=f1e649]:
+                      - generic [ref=f1e650]: 2,995
+                      - generic [ref=f1e651]: "30"
+                  - generic [ref=f1e658]: "0.75"
+                  - generic [ref=f1e666]: 9 / 8 / 3
+                  - generic [ref=f1e667]: Ancient
+                - 'link "Sat 17 Oct 11:18 W 13 : 5 Skill level 10 2,995 30 1.27 16 / 10 / 5 Mirage Mirage" [ref=f1e671] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e673]:
+                    - generic [ref=f1e674]: Sat 17 Oct
+                    - generic [ref=f1e675]: 11:18
+                  - generic [ref=f1e677]:
+                    - generic [ref=f1e678]: W
+                    - generic [ref=f1e679]:
+                      - generic [ref=f1e680]: "13"
+                      - generic [ref=f1e681]: ":"
+                      - generic [ref=f1e682]: "5"
+                  - generic [ref=f1e690]:
+                    - img "Skill level 10" [ref=f1e691]
+                    - generic [ref=f1e696]:
+                      - generic [ref=f1e697]: 2,995
+                      - generic [ref=f1e698]: "30"
+                  - generic [ref=f1e705]: "1.27"
+                  - generic [ref=f1e713]: 16 / 10 / 5
+                  - generic [ref=f1e715]:
+                    - img "Mirage" [ref=f1e716]
+                    - generic [ref=f1e717]: Mirage
+                - 'link "Sun 30 Aug 14:37 L 10 : 13 Skill level 10 2,965 30 1.06 21 / 16 / 5 Ancient" [ref=f1e719] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e721]:
+                    - generic [ref=f1e722]: Sun 30 Aug
+                    - generic [ref=f1e723]: 14:37
+                  - generic [ref=f1e725]:
+                    - generic [ref=f1e726]: L
+                    - generic [ref=f1e727]:
+                      - generic [ref=f1e728]: "10"
+                      - generic [ref=f1e729]: ":"
+                      - generic [ref=f1e730]: "13"
+                  - generic [ref=f1e738]:
+                    - img "Skill level 10" [ref=f1e739]
+                    - generic [ref=f1e744]:
+                      - generic [ref=f1e745]: 2,965
+                      - generic [ref=f1e746]: "30"
+                  - generic [ref=f1e753]: "1.06"
+                  - generic [ref=f1e761]: 21 / 16 / 5
+                  - generic [ref=f1e762]: Ancient
+                - 'link "Sun 30 Aug 13:50 W 13 : 6 Skill level 10 2,995 30 1.24 15 / 13 / 1 Dust 2 Dust 2" [ref=f1e766] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e768]:
+                    - generic [ref=f1e769]: Sun 30 Aug
+                    - generic [ref=f1e770]: 13:50
+                  - generic [ref=f1e772]:
+                    - generic [ref=f1e773]: W
+                    - generic [ref=f1e774]:
+                      - generic [ref=f1e775]: "13"
+                      - generic [ref=f1e776]: ":"
+                      - generic [ref=f1e777]: "6"
+                  - generic [ref=f1e785]:
+                    - img "Skill level 10" [ref=f1e786]
+                    - generic [ref=f1e791]:
+                      - generic [ref=f1e792]: 2,995
+                      - generic [ref=f1e793]: "30"
+                  - generic [ref=f1e800]: "1.24"
+                  - generic [ref=f1e808]: 15 / 13 / 1
+                  - generic [ref=f1e810]:
+                    - img "Dust 2" [ref=f1e811]
+                    - generic [ref=f1e812]: Dust 2
+                - 'link "Sun 30 Aug 13:08 L 14 : 16 Skill level 10 2,965 30 1.05 25 / 24 / 4 Nuke Nuke" [ref=f1e814] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e816]:
+                    - generic [ref=f1e817]: Sun 30 Aug
+                    - generic [ref=f1e818]: 13:08
+                  - generic [ref=f1e820]:
+                    - generic [ref=f1e821]: L
+                    - generic [ref=f1e822]:
+                      - generic [ref=f1e823]: "14"
+                      - generic [ref=f1e824]: ":"
+                      - generic [ref=f1e825]: "16"
+                  - generic [ref=f1e833]:
+                    - img "Skill level 10" [ref=f1e834]
+                    - generic [ref=f1e839]:
+                      - generic [ref=f1e840]: 2,965
+                      - generic [ref=f1e841]: "30"
+                  - generic [ref=f1e848]: "1.05"
+                  - generic [ref=f1e856]: 25 / 24 / 4
+                  - generic [ref=f1e858]:
+                    - img "Nuke" [ref=f1e859]
+                    - generic [ref=f1e860]: Nuke
+                - 'link "Sat 29 Aug 17:22 L 9 : 13 Skill level 10 2,995 30 1.07 15 / 16 / 9 Ancient" [ref=f1e862] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e864]:
+                    - generic [ref=f1e865]: Sat 29 Aug
+                    - generic [ref=f1e866]: 17:22
+                  - generic [ref=f1e868]:
+                    - generic [ref=f1e869]: L
+                    - generic [ref=f1e870]:
+                      - generic [ref=f1e871]: "9"
+                      - generic [ref=f1e872]: ":"
+                      - generic [ref=f1e873]: "13"
+                  - generic [ref=f1e881]:
+                    - img "Skill level 10" [ref=f1e882]
+                    - generic [ref=f1e887]:
+                      - generic [ref=f1e888]: 2,995
+                      - generic [ref=f1e889]: "30"
+                  - generic [ref=f1e896]: "1.07"
+                  - generic [ref=f1e904]: 15 / 16 / 9
+                  - generic [ref=f1e905]: Ancient
+                - 'link "Sat 29 Aug 16:43 L 3 : 13 Skill level 10 3,025 30 0.86 8 / 14 / 2 Dust 2 Dust 2" [ref=f1e909] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e911]:
+                    - generic [ref=f1e912]: Sat 29 Aug
+                    - generic [ref=f1e913]: 16:43
+                  - generic [ref=f1e915]:
+                    - generic [ref=f1e916]: L
+                    - generic [ref=f1e917]:
+                      - generic [ref=f1e918]: "3"
+                      - generic [ref=f1e919]: ":"
+                      - generic [ref=f1e920]: "13"
+                  - generic [ref=f1e928]:
+                    - img "Skill level 10" [ref=f1e929]
+                    - generic [ref=f1e934]:
+                      - generic [ref=f1e935]: 3,025
+                      - generic [ref=f1e936]: "30"
+                  - generic [ref=f1e943]: "0.86"
+                  - generic [ref=f1e951]: 8 / 14 / 2
+                  - generic [ref=f1e953]:
+                    - img "Dust 2" [ref=f1e954]
+                    - generic [ref=f1e955]: Dust 2
+                - 'link "Sat 29 Aug 16:11 L 5 : 13 Skill level 10 3,055 30 0.63 6 / 14 / 4 Dust 2 Dust 2" [ref=f1e957] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e959]:
+                    - generic [ref=f1e960]: Sat 29 Aug
+                    - generic [ref=f1e961]: 16:11
+                  - generic [ref=f1e963]:
+                    - generic [ref=f1e964]: L
+                    - generic [ref=f1e965]:
+                      - generic [ref=f1e966]: "5"
+                      - generic [ref=f1e967]: ":"
+                      - generic [ref=f1e968]: "13"
+                  - generic [ref=f1e976]:
+                    - img "Skill level 10" [ref=f1e977]
+                    - generic [ref=f1e982]:
+                      - generic [ref=f1e983]: 3,055
+                      - generic [ref=f1e984]: "30"
+                  - generic [ref=f1e991]: "0.63"
+                  - generic [ref=f1e999]: 6 / 14 / 4
+                  - generic [ref=f1e1001]:
+                    - img "Dust 2" [ref=f1e1002]
+                    - generic [ref=f1e1003]: Dust 2
+                - 'link "Sat 29 Aug 15:29 W 16 : 14 Skill level 10 3,085 30 1.57 30 / 19 / 11 Mirage Mirage" [ref=f1e1005] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1007]:
+                    - generic [ref=f1e1008]: Sat 29 Aug
+                    - generic [ref=f1e1009]: 15:29
+                  - generic [ref=f1e1011]:
+                    - generic [ref=f1e1012]: W
+                    - generic [ref=f1e1013]:
+                      - generic [ref=f1e1014]: "16"
+                      - generic [ref=f1e1015]: ":"
+                      - generic [ref=f1e1016]: "14"
+                  - generic [ref=f1e1024]:
+                    - img "Skill level 10" [ref=f1e1025]
+                    - generic [ref=f1e1030]:
+                      - generic [ref=f1e1031]: 3,085
+                      - generic [ref=f1e1032]: "30"
+                  - generic [ref=f1e1039]: "1.57"
+                  - generic [ref=f1e1047]: 30 / 19 / 11
+                  - generic [ref=f1e1049]:
+                    - img "Mirage" [ref=f1e1050]
+                    - generic [ref=f1e1051]: Mirage
+                - 'link "Sat 29 Aug 14:17 W 13 : 7 Skill level 10 3,055 30 0.87 11 / 13 / 8 Mirage Mirage" [ref=f1e1053] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1055]:
+                    - generic [ref=f1e1056]: Sat 29 Aug
+                    - generic [ref=f1e1057]: 14:17
+                  - generic [ref=f1e1059]:
+                    - generic [ref=f1e1060]: W
+                    - generic [ref=f1e1061]:
+                      - generic [ref=f1e1062]: "13"
+                      - generic [ref=f1e1063]: ":"
+                      - generic [ref=f1e1064]: "7"
+                  - generic [ref=f1e1072]:
+                    - img "Skill level 10" [ref=f1e1073]
+                    - generic [ref=f1e1078]:
+                      - generic [ref=f1e1079]: 3,055
+                      - generic [ref=f1e1080]: "30"
+                  - generic [ref=f1e1087]: "0.87"
+                  - generic [ref=f1e1095]: 11 / 13 / 8
+                  - generic [ref=f1e1097]:
+                    - img "Mirage" [ref=f1e1098]
+                    - generic [ref=f1e1099]: Mirage
+                - 'link "Sat 29 Aug 13:35 W 13 : 9 Skill level 10 3,025 30 1.05 9 / 16 / 3 Mirage Mirage" [ref=f1e1101] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1103]:
+                    - generic [ref=f1e1104]: Sat 29 Aug
+                    - generic [ref=f1e1105]: 13:35
+                  - generic [ref=f1e1107]:
+                    - generic [ref=f1e1108]: W
+                    - generic [ref=f1e1109]:
+                      - generic [ref=f1e1110]: "13"
+                      - generic [ref=f1e1111]: ":"
+                      - generic [ref=f1e1112]: "9"
+                  - generic [ref=f1e1120]:
+                    - img "Skill level 10" [ref=f1e1121]
+                    - generic [ref=f1e1126]:
+                      - generic [ref=f1e1127]: 3,025
+                      - generic [ref=f1e1128]: "30"
+                  - generic [ref=f1e1135]: "1.05"
+                  - generic [ref=f1e1143]: 9 / 16 / 3
+                  - generic [ref=f1e1145]:
+                    - img "Mirage" [ref=f1e1146]
+                    - generic [ref=f1e1147]: Mirage
+                - 'link "Thu 27 Aug 15:34 L 9 : 13 Skill level 10 2,995 30 1.42 14 / 14 / 4 Dust 2 Dust 2" [ref=f1e1149] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1151]:
+                    - generic [ref=f1e1152]: Thu 27 Aug
+                    - generic [ref=f1e1153]: 15:34
+                  - generic [ref=f1e1155]:
+                    - generic [ref=f1e1156]: L
+                    - generic [ref=f1e1157]:
+                      - generic [ref=f1e1158]: "9"
+                      - generic [ref=f1e1159]: ":"
+                      - generic [ref=f1e1160]: "13"
+                  - generic [ref=f1e1168]:
+                    - img "Skill level 10" [ref=f1e1169]
+                    - generic [ref=f1e1174]:
+                      - generic [ref=f1e1175]: 2,995
+                      - generic [ref=f1e1176]: "30"
+                  - generic [ref=f1e1183]: "1.42"
+                  - generic [ref=f1e1191]: 14 / 14 / 4
+                  - generic [ref=f1e1193]:
+                    - img "Dust 2" [ref=f1e1194]
+                    - generic [ref=f1e1195]: Dust 2
+                - 'link "Thu 27 Aug 14:49 W 13 : 5 Skill level 10 3,026 30 1.25 11 / 9 / 3 Ancient" [ref=f1e1197] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1199]:
+                    - generic [ref=f1e1200]: Thu 27 Aug
+                    - generic [ref=f1e1201]: 14:49
+                  - generic [ref=f1e1203]:
+                    - generic [ref=f1e1204]: W
+                    - generic [ref=f1e1205]:
+                      - generic [ref=f1e1206]: "13"
+                      - generic [ref=f1e1207]: ":"
+                      - generic [ref=f1e1208]: "5"
+                  - generic [ref=f1e1216]:
+                    - img "Skill level 10" [ref=f1e1217]
+                    - generic [ref=f1e1222]:
+                      - generic [ref=f1e1223]: 3,026
+                      - generic [ref=f1e1224]: "30"
+                  - generic [ref=f1e1231]: "1.25"
+                  - generic [ref=f1e1239]: 11 / 9 / 3
+                  - generic [ref=f1e1240]: Ancient
+                - 'link "Thu 27 Aug 14:08 W 13 : 8 Skill level 10 2,996 30 1.50 17 / 13 / 2 Dust 2 Dust 2" [ref=f1e1244] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1246]:
+                    - generic [ref=f1e1247]: Thu 27 Aug
+                    - generic [ref=f1e1248]: 14:08
+                  - generic [ref=f1e1250]:
+                    - generic [ref=f1e1251]: W
+                    - generic [ref=f1e1252]:
+                      - generic [ref=f1e1253]: "13"
+                      - generic [ref=f1e1254]: ":"
+                      - generic [ref=f1e1255]: "8"
+                  - generic [ref=f1e1263]:
+                    - img "Skill level 10" [ref=f1e1264]
+                    - generic [ref=f1e1269]:
+                      - generic [ref=f1e1270]: 2,996
+                      - generic [ref=f1e1271]: "30"
+                  - generic [ref=f1e1278]: "1.50"
+                  - generic [ref=f1e1286]: 17 / 13 / 2
+                  - generic [ref=f1e1288]:
+                    - img "Dust 2" [ref=f1e1289]
+                    - generic [ref=f1e1290]: Dust 2
+                - 'link "Thu 27 Aug 13:26 L 6 : 13 Skill level 10 2,966 30 0.67 7 / 17 / 6 Dust 2 Dust 2" [ref=f1e1292] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1294]:
+                    - generic [ref=f1e1295]: Thu 27 Aug
+                    - generic [ref=f1e1296]: 13:26
+                  - generic [ref=f1e1298]:
+                    - generic [ref=f1e1299]: L
+                    - generic [ref=f1e1300]:
+                      - generic [ref=f1e1301]: "6"
+                      - generic [ref=f1e1302]: ":"
+                      - generic [ref=f1e1303]: "13"
+                  - generic [ref=f1e1311]:
+                    - img "Skill level 10" [ref=f1e1312]
+                    - generic [ref=f1e1317]:
+                      - generic [ref=f1e1318]: 2,966
+                      - generic [ref=f1e1319]: "30"
+                  - generic [ref=f1e1326]: "0.67"
+                  - generic [ref=f1e1334]: 7 / 17 / 6
+                  - generic [ref=f1e1336]:
+                    - img "Dust 2" [ref=f1e1337]
+                    - generic [ref=f1e1338]: Dust 2
+                - 'link "Thu 27 Aug 12:39 L 7 : 13 Skill level 10 2,996 30 0.71 10 / 17 / 5 Ancient" [ref=f1e1340] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1342]:
+                    - generic [ref=f1e1343]: Thu 27 Aug
+                    - generic [ref=f1e1344]: 12:39
+                  - generic [ref=f1e1346]:
+                    - generic [ref=f1e1347]: L
+                    - generic [ref=f1e1348]:
+                      - generic [ref=f1e1349]: "7"
+                      - generic [ref=f1e1350]: ":"
+                      - generic [ref=f1e1351]: "13"
+                  - generic [ref=f1e1359]:
+                    - img "Skill level 10" [ref=f1e1360]
+                    - generic [ref=f1e1365]:
+                      - generic [ref=f1e1366]: 2,996
+                      - generic [ref=f1e1367]: "30"
+                  - generic [ref=f1e1374]: "0.71"
+                  - generic [ref=f1e1382]: 10 / 17 / 5
+                  - generic [ref=f1e1383]: Ancient
+                - 'link "Thu 27 Aug 11:54 W 13 : 6 Skill level 10 3,026 30 1.03 10 / 14 / 5 Dust 2 Dust 2" [ref=f1e1387] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1389]:
+                    - generic [ref=f1e1390]: Thu 27 Aug
+                    - generic [ref=f1e1391]: 11:54
+                  - generic [ref=f1e1393]:
+                    - generic [ref=f1e1394]: W
+                    - generic [ref=f1e1395]:
+                      - generic [ref=f1e1396]: "13"
+                      - generic [ref=f1e1397]: ":"
+                      - generic [ref=f1e1398]: "6"
+                  - generic [ref=f1e1406]:
+                    - img "Skill level 10" [ref=f1e1407]
+                    - generic [ref=f1e1412]:
+                      - generic [ref=f1e1413]: 3,026
+                      - generic [ref=f1e1414]: "30"
+                  - generic [ref=f1e1421]: "1.03"
+                  - generic [ref=f1e1429]: 10 / 14 / 5
+                  - generic [ref=f1e1431]:
+                    - img "Dust 2" [ref=f1e1432]
+                    - generic [ref=f1e1433]: Dust 2
+                - 'link "Wed 26 Aug 15:59 W 13 : 7 Skill level 10 2,996 30 1.18 16 / 10 / 2 Mirage Mirage" [ref=f1e1435] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1437]:
+                    - generic [ref=f1e1438]: Wed 26 Aug
+                    - generic [ref=f1e1439]: 15:59
+                  - generic [ref=f1e1441]:
+                    - generic [ref=f1e1442]: W
+                    - generic [ref=f1e1443]:
+                      - generic [ref=f1e1444]: "13"
+                      - generic [ref=f1e1445]: ":"
+                      - generic [ref=f1e1446]: "7"
+                  - generic [ref=f1e1454]:
+                    - img "Skill level 10" [ref=f1e1455]
+                    - generic [ref=f1e1460]:
+                      - generic [ref=f1e1461]: 2,996
+                      - generic [ref=f1e1462]: "30"
+                  - generic [ref=f1e1469]: "1.18"
+                  - generic [ref=f1e1477]: 16 / 10 / 2
+                  - generic [ref=f1e1479]:
+                    - img "Mirage" [ref=f1e1480]
+                    - generic [ref=f1e1481]: Mirage
+                - 'link "Wed 26 Aug 15:21 W 13 : 4 Skill level 10 2,967 30 1.33 14 / 11 / 8 Mirage Mirage" [ref=f1e1483] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1485]:
+                    - generic [ref=f1e1486]: Wed 26 Aug
+                    - generic [ref=f1e1487]: 15:21
+                  - generic [ref=f1e1489]:
+                    - generic [ref=f1e1490]: W
+                    - generic [ref=f1e1491]:
+                      - generic [ref=f1e1492]: "13"
+                      - generic [ref=f1e1493]: ":"
+                      - generic [ref=f1e1494]: "4"
+                  - generic [ref=f1e1502]:
+                    - img "Skill level 10" [ref=f1e1503]
+                    - generic [ref=f1e1508]:
+                      - generic [ref=f1e1509]: 2,967
+                      - generic [ref=f1e1510]: "30"
+                  - generic [ref=f1e1517]: "1.33"
+                  - generic [ref=f1e1525]: 14 / 11 / 8
+                  - generic [ref=f1e1527]:
+                    - img "Mirage" [ref=f1e1528]
+                    - generic [ref=f1e1529]: Mirage
+                - 'link "Wed 26 Aug 14:43 W 13 : 10 Skill level 10 2,937 30 1.45 21 / 11 / 6 Dust 2 Dust 2" [ref=f1e1531] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1533]:
+                    - generic [ref=f1e1534]: Wed 26 Aug
+                    - generic [ref=f1e1535]: 14:43
+                  - generic [ref=f1e1537]:
+                    - generic [ref=f1e1538]: W
+                    - generic [ref=f1e1539]:
+                      - generic [ref=f1e1540]: "13"
+                      - generic [ref=f1e1541]: ":"
+                      - generic [ref=f1e1542]: "10"
+                  - generic [ref=f1e1550]:
+                    - img "Skill level 10" [ref=f1e1551]
+                    - generic [ref=f1e1556]:
+                      - generic [ref=f1e1557]: 2,937
+                      - generic [ref=f1e1558]: "30"
+                  - generic [ref=f1e1565]: "1.45"
+                  - generic [ref=f1e1573]: 21 / 11 / 6
+                  - generic [ref=f1e1575]:
+                    - img "Dust 2" [ref=f1e1576]
+                    - generic [ref=f1e1577]: Dust 2
+                - 'link "Wed 26 Aug 13:38 W 13 : 11 Skill level 10 2,907 30 0.91 14 / 15 / 4 Mirage Mirage" [ref=f1e1579] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1581]:
+                    - generic [ref=f1e1582]: Wed 26 Aug
+                    - generic [ref=f1e1583]: 13:38
+                  - generic [ref=f1e1585]:
+                    - generic [ref=f1e1586]: W
+                    - generic [ref=f1e1587]:
+                      - generic [ref=f1e1588]: "13"
+                      - generic [ref=f1e1589]: ":"
+                      - generic [ref=f1e1590]: "11"
+                  - generic [ref=f1e1598]:
+                    - img "Skill level 10" [ref=f1e1599]
+                    - generic [ref=f1e1604]:
+                      - generic [ref=f1e1605]: 2,907
+                      - generic [ref=f1e1606]: "30"
+                  - generic [ref=f1e1613]: "0.91"
+                  - generic [ref=f1e1621]: 14 / 15 / 4
+                  - generic [ref=f1e1623]:
+                    - img "Mirage" [ref=f1e1624]
+                    - generic [ref=f1e1625]: Mirage
+                - 'link "Wed 26 Aug 12:52 W 13 : 5 Skill level 10 2,877 30 1.08 11 / 12 / 6 Mirage Mirage" [ref=f1e1627] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1629]:
+                    - generic [ref=f1e1630]: Wed 26 Aug
+                    - generic [ref=f1e1631]: 12:52
+                  - generic [ref=f1e1633]:
+                    - generic [ref=f1e1634]: W
+                    - generic [ref=f1e1635]:
+                      - generic [ref=f1e1636]: "13"
+                      - generic [ref=f1e1637]: ":"
+                      - generic [ref=f1e1638]: "5"
+                  - generic [ref=f1e1646]:
+                    - img "Skill level 10" [ref=f1e1647]
+                    - generic [ref=f1e1652]:
+                      - generic [ref=f1e1653]: 2,877
+                      - generic [ref=f1e1654]: "30"
+                  - generic [ref=f1e1661]: "1.08"
+                  - generic [ref=f1e1669]: 11 / 12 / 6
+                  - generic [ref=f1e1671]:
+                    - img "Mirage" [ref=f1e1672]
+                    - generic [ref=f1e1673]: Mirage
+                - 'link "Wed 26 Aug 12:19 W 13 : 4 Skill level 10 2,847 30 1.20 12 / 9 / 6 Mirage Mirage" [ref=f1e1675] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1677]:
+                    - generic [ref=f1e1678]: Wed 26 Aug
+                    - generic [ref=f1e1679]: 12:19
+                  - generic [ref=f1e1681]:
+                    - generic [ref=f1e1682]: W
+                    - generic [ref=f1e1683]:
+                      - generic [ref=f1e1684]: "13"
+                      - generic [ref=f1e1685]: ":"
+                      - generic [ref=f1e1686]: "4"
+                  - generic [ref=f1e1694]:
+                    - img "Skill level 10" [ref=f1e1695]
+                    - generic [ref=f1e1700]:
+                      - generic [ref=f1e1701]: 2,847
+                      - generic [ref=f1e1702]: "30"
+                  - generic [ref=f1e1709]: "1.20"
+                  - generic [ref=f1e1717]: 12 / 9 / 6
+                  - generic [ref=f1e1719]:
+                    - img "Mirage" [ref=f1e1720]
+                    - generic [ref=f1e1721]: Mirage
+                - 'link "Sun 23 Aug 15:28 L 17 : 19 Skill level 10 2,817 30 0.88 21 / 24 / 8 Dust 2 Dust 2" [ref=f1e1723] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/donk
+                  - generic [ref=f1e1725]:
+                    - generic [ref=f1e1726]: Sun 23 Aug
+                    - generic [ref=f1e1727]: 15:28
+                  - generic [ref=f1e1729]:
+                    - generic [ref=f1e1730]: L
+                    - generic [ref=f1e1731]:
+                      - generic [ref=f1e1732]: "17"
+                      - generic [ref=f1e1733]: ":"
+                      - generic [ref=f1e1734]: "19"
+                  - generic [ref=f1e1742]:
+                    - img "Skill level 10" [ref=f1e1743]
+                    - generic [ref=f1e1748]:
+                      - generic [ref=f1e1749]: 2,817
+                      - generic [ref=f1e1750]: "30"
+                  - generic [ref=f1e1757]: "0.88"
+                  - generic [ref=f1e1765]: 21 / 24 / 8
+                  - generic [ref=f1e1767]:
+                    - img "Dust 2" [ref=f1e1768]
+                    - generic [ref=f1e1769]: Dust 2
+  - generic [ref=f1e1771]:
+    - img "avatar" [ref=f1e1772] [cursor=pointer]
+    - generic "Matches" [ref=f1e1773] [cursor=pointer]
+    - generic "Notifications" [ref=f1e1776] [cursor=pointer]
+    - generic "Social" [ref=f1e1779] [cursor=pointer]
+    - generic "Create Group" [ref=f1e1782] [cursor=pointer]
+    - generic "Invite Players" [ref=f1e1787] [cursor=pointer]

@@ -1,0 +1,107 @@
+- generic [ref=f3e2]:
+  - banner [ref=f3e3]:
+    - generic [ref=f3e10]:
+      - img "brand logo" [ref=f3e12]
+      - text:     
+  - main [ref=f3e13]:
+    - generic [ref=f3e16]:
+      - generic [ref=f3e18]:
+        - generic [ref=f3e21]:
+          - generic [ref=f3e704]:
+            - generic [ref=f3e708]:
+              - generic [ref=f3e709]: ОУП.13.В Основы безопасности и защиты Родины. 1 курс 2 семестр. Тема 11.4. Беспилотные системы и радиосвязь
+              - generic [ref=f3e710]: 1 Первая тема
+            - generic [ref=f3e712]:
+              - generic [ref=f3e713]: Вопрос 19. Сопоставьте ситуацию и первое корректное действие.
+              - generic [ref=f3e716]: Перетащите ответы в правильные категории
+              - generic [ref=f3e717]:
+                - generic [ref=f3e718]:
+                  - list [ref=f3e720]:
+                    - generic "Проветрить, вывести людей, не включать электричество, сообщить через 112" [ref=f3e721]
+                    - generic [ref=f3e722]: +
+                    - listitem [ref=f3e751]:
+                      - generic [ref=f3e752]: 
+                      - generic [ref=f3e753]: 1 Запах газа
+                      - generic [ref=f3e768]: ╳
+                  - list [ref=f3e725]:
+                    - generic "Отойти и сообщить персоналу или 112" [ref=f3e726]
+                    - generic [ref=f3e727]: +
+                    - listitem [ref=f3e748]:
+                      - generic [ref=f3e749]: 
+                      - generic [ref=f3e750]: 2 Подозрительный предмет
+                      - generic [ref=f3e770]: ╳
+                  - list [ref=f3e730]:
+                    - generic "Сменить пароль, включить 2FA, выйти со всех устройств" [ref=f3e731]
+                    - generic [ref=f3e732]: +
+                  - list [ref=f3e735]:
+                    - generic "Остановиться, оценить, связаться и подать сигнал" [ref=f3e736]
+                    - generic [ref=f3e737]: +
+                - generic [ref=f3e739]:
+                  - generic [ref=f3e740]: Варианты ответов
+                  - list [ref=f3e741]:
+                    - listitem [ref=f3e742]:
+                      - generic [ref=f3e743]: 
+                      - generic [ref=f3e744]: 3 Потеря ориентировки в лесу
+                    - listitem [ref=f3e745]:
+                      - generic [ref=f3e746]: 
+                      - generic [ref=f3e747]: 4 Подозрение на взлом аккаунта
+              - generic [ref=f3e754]:
+                - generic [ref=f3e755]:
+                  - generic "ОК" [ref=f3e757] [cursor=pointer]
+                  - generic [ref=f3e767]: Отойти и сообщить персоналу или 112
+                - generic [ref=f3e758]: Выберите ответы для данной категории.
+                - list [ref=f3e760]:
+                  - listitem [ref=f3e761]: 3 Потеря ориентировки в лесу
+                  - listitem [ref=f3e762]: 4 Подозрение на взлом аккаунта
+                  - listitem [ref=f3e763]: 2 Подозрительный предмет ✓
+                  - listitem [ref=f3e764]: 1 Запах газа ✓
+          - generic [ref=f3e84]:
+            - button " Назад" [ref=f3e201] [cursor=pointer]:
+              - generic [ref=f3e202]: 
+              - text: Назад
+            - generic [ref=f3e85]:
+              - text: 
+              - button "Ответить и завершить " [ref=f3e769] [cursor=pointer]:
+                - text: Ответить и завершить
+                - generic [ref=f3e171]: 
+        - generic [ref=f3e88]:
+          - generic [ref=f3e89]: 01:13:24
+          - generic [ref=f3e98]:
+            - generic [ref=f3e100]:
+              - generic [ref=f3e101]: Пройдено
+              - generic [ref=f3e102]: ":"
+              - generic [ref=f3e103]: 95%
+            - generic [ref=f3e105]:
+              - generic [ref=f3e106]:
+                - generic [ref=f3e107]: Все страницы
+                - generic [ref=f3e108] [cursor=pointer]
+              - generic [ref=f3e112]:
+                - generic [ref=f3e114]:
+                  - generic [ref=f3e115] [cursor=pointer]: "1"
+                  - generic [ref=f3e118] [cursor=pointer]: "2"
+                  - generic [ref=f3e120] [cursor=pointer]: "3"
+                  - generic [ref=f3e122] [cursor=pointer]: "4"
+                  - generic [ref=f3e124] [cursor=pointer]: "5"
+                  - generic [ref=f3e126] [cursor=pointer]: "6"
+                  - generic [ref=f3e128] [cursor=pointer]: "7"
+                  - generic [ref=f3e130] [cursor=pointer]: "8"
+                  - generic [ref=f3e132] [cursor=pointer]: "9"
+                  - generic [ref=f3e134] [cursor=pointer]: "10"
+                  - generic [ref=f3e136] [cursor=pointer]: "11"
+                  - generic [ref=f3e138] [cursor=pointer]: "12"
+                  - generic [ref=f3e140] [cursor=pointer]: "13"
+                  - generic [ref=f3e142] [cursor=pointer]: "14"
+                  - generic [ref=f3e144] [cursor=pointer]: "15"
+                  - generic [ref=f3e146] [cursor=pointer]: "16"
+                  - generic [ref=f3e148] [cursor=pointer]: "17"
+                  - generic [ref=f3e150] [cursor=pointer]: "18"
+                  - generic [ref=f3e152] [cursor=pointer]: "19"
+                  - generic [ref=f3e154] [cursor=pointer]:
+                    - generic [ref=f3e155]: "20"
+                    - generic [ref=f3e766]: Вы здесь
+                - generic [ref=f3e156]:
+                  - generic [ref=f3e157] [cursor=pointer]: 
+                  - generic [ref=f3e159]: 11-20
+                  - generic [ref=f3e162]: 
+      - generic [ref=f3e164]: © 2026 StartExam Platform
+  - contentinfo

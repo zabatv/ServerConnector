@@ -1,0 +1,230 @@
+- generic [ref=f11e2]:
+  - generic [ref=f11e3]:
+    - banner [ref=f11e4]:
+      - generic [ref=f11e5]:
+        - link [ref=f11e6] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f11e125]:
+          - link "Главная" [ref=f11e126] [cursor=pointer]:
+            - /url: /dashboard
+          - link "Расписание" [ref=f11e128] [cursor=pointer]:
+            - /url: /schedule
+          - link "Обучение" [ref=f11e130] [cursor=pointer]:
+            - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/exercises
+      - generic [ref=f11e81]:
+        - button [ref=f11e82] [cursor=pointer]
+        - button [ref=f11e89] [cursor=pointer]
+        - button [ref=f11e96] [cursor=pointer]
+        - generic [ref=f11e101]:
+          - generic [ref=f11e132]: Петров Герман Александрович
+          - button [ref=f11e133] [cursor=pointer]:
+            - generic [ref=f11e103]:
+              - img "Петров Герман Александрович" [ref=f11e134]
+              - generic: "0"
+    - generic [ref=f11e105]:
+      - complementary [ref=f11e135]:
+        - generic [ref=f11e136]:
+          - generic [ref=f11e137]: Меню
+          - button [ref=f11e138] [cursor=pointer]
+        - list [ref=f11e141]:
+          - listitem [ref=f11e142]:
+            - link [ref=f11e144] [cursor=pointer]:
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/exercises
+              - paragraph [ref=f11e149]: Задания
+          - listitem [ref=f11e150]:
+            - link [ref=f11e152] [cursor=pointer]:
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines
+              - paragraph [ref=f11e157]: Список дисциплин
+          - listitem [ref=f11e158]:
+            - link [ref=f11e160] [cursor=pointer]:
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines/null/retakes
+              - paragraph [ref=f11e165]: Пересдачи
+      - main [ref=f11e106]:
+        - generic [ref=f11e166]:
+          - heading "Задания" [level=3] [ref=f11e167]
+          - generic [ref=f11e168]:
+            - textbox [ref=f11e175]:
+              - /placeholder: Поиск
+            - generic [ref=f11e177]:
+              - log [ref=f11e179]
+              - generic [ref=f11e181]:
+                - generic [ref=f11e182]: Дисциплина
+                - combobox [ref=f11e184]
+            - generic [ref=f11e190]:
+              - log [ref=f11e192]
+              - generic [ref=f11e194]:
+                - generic [ref=f11e195]: Статус
+                - combobox [ref=f11e197]
+          - tablist "tabs" [ref=f11e205]:
+            - tab "Плановые 635" [selected] [ref=f11e206] [cursor=pointer]:
+              - generic [ref=f11e207]:
+                - generic [ref=f11e208]: Плановые
+                - generic [ref=f11e209]: "635"
+            - tab "Академическая разница" [ref=f11e210] [cursor=pointer]
+          - generic [ref=f11e214]:
+            - link "Практическая работа Prompt-Engineering для ИИ · Zero Shot Prompting 0 Не отвечено Пропущен срок сдачи" [ref=f11e215] [cursor=pointer]:
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines/3f78969f-1124-4aff-ac6c-c2d3234d520d/topics/56ec3d70-c288-4c47-aad5-9f4956a53d34/tasks/bc5c8666-62b5-4231-b88b-1dbb819bb31c/students/fee4cef4-f6cc-458a-bbf3-0355694fdbd6
+              - generic [ref=f11e216]:
+                - generic [ref=f11e217]: Практическая работа
+                - generic [ref=f11e219]:
+                  - generic [ref=f11e220]: Prompt-Engineering для ИИ
+                  - generic [ref=f11e221]: ·
+                  - generic [ref=f11e222]: Zero Shot Prompting
+                - paragraph [ref=f11e226]: "0"
+              - generic [ref=f11e227]:
+                - generic [ref=f11e228]: Не отвечено
+                - paragraph [ref=f11e232]: Пропущен срок сдачи
+            - link "Моделирование с помощью рекуррентных отношений Дискретная математика · Моделирование с помощью рекуррентных отношений 0 Не отвечено Пропущен срок сдачи" [ref=f11e233] [cursor=pointer]:
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines/c10b8745-abb5-4cd1-a5fb-df6fbded41d4/topics/2716c912-3289-49a0-b77b-5726be236364/tasks/88cd5492-ca95-4b69-a48e-bb33840669d5/students/fee4cef4-f6cc-458a-bbf3-0355694fdbd6
+              - generic [ref=f11e234]:
+                - generic [ref=f11e235]: Моделирование с помощью рекуррентных отношений
+                - generic [ref=f11e237]:
+                  - generic [ref=f11e238]: Дискретная математика
+                  - generic [ref=f11e239]: ·
+                  - generic [ref=f11e240]: Моделирование с помощью рекуррентных отношений
+                - paragraph [ref=f11e244]: "0"
+              - generic [ref=f11e245]:
+                - generic [ref=f11e246]: Не отвечено
+                - paragraph [ref=f11e250]: Пропущен срок сдачи
+            - 'link "Сетевое планирование (для Программистов и Разработчиков) Введение в управление проектами · КТ №1: Сетевое планирование проекта 0 Не отвечено Пропущен срок сдачи" [ref=f11e251] [cursor=pointer]':
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines/e69818df-96b9-4465-ac74-b82588459422/topics/0b1e5a75-962a-4612-9cd4-1e78cbed0719/tasks/67b6974b-d9a2-400c-9e3f-a6041d3d8760/students/fee4cef4-f6cc-458a-bbf3-0355694fdbd6
+              - generic [ref=f11e252]:
+                - generic [ref=f11e253]: Сетевое планирование (для Программистов и Разработчиков)
+                - generic [ref=f11e255]:
+                  - generic [ref=f11e256]: Введение в управление проектами
+                  - generic [ref=f11e257]: ·
+                  - generic [ref=f11e258]: "КТ №1: Сетевое планирование проекта"
+                - paragraph [ref=f11e262]: "0"
+              - generic [ref=f11e263]:
+                - generic [ref=f11e264]: Не отвечено
+                - paragraph [ref=f11e268]: Пропущен срок сдачи
+            - 'link "Подведение итогов Физическая культура · Самоанализ: как улучшить качество жизни? 0 Не отвечено Пропущен срок сдачи" [ref=f11e269] [cursor=pointer]':
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines/9c485c4d-449e-4c37-8b58-59bab59aa05a/topics/6ddd8f50-432f-4f5b-9856-c331622d26ca/tasks/00447a78-d587-4333-a7b0-80c2d2bf39ad/students/fee4cef4-f6cc-458a-bbf3-0355694fdbd6
+              - generic [ref=f11e270]:
+                - generic [ref=f11e271]: Подведение итогов
+                - generic [ref=f11e273]:
+                  - generic [ref=f11e274]: Физическая культура
+                  - generic [ref=f11e275]: ·
+                  - generic [ref=f11e276]: "Самоанализ: как улучшить качество жизни?"
+                - paragraph [ref=f11e280]: "0"
+              - generic [ref=f11e281]:
+                - generic [ref=f11e282]: Не отвечено
+                - paragraph [ref=f11e286]: Пропущен срок сдачи
+            - 'link "Итоговое тестирование Физика · Тема 7.2 Эволюция Вселенной Начать тестирование Не пройдено Период прохождения: 12.10.2026 - 24.10.2026" [ref=f11e287]':
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/exercises
+              - generic [ref=f11e288]:
+                - generic [ref=f11e289]: Итоговое тестирование
+                - generic [ref=f11e291]:
+                  - generic [ref=f11e292]: Физика
+                  - generic [ref=f11e293]: ·
+                  - generic [ref=f11e294]: Тема 7.2 Эволюция Вселенной
+                - button "Начать тестирование" [ref=f11e296] [cursor=pointer]
+              - generic [ref=f11e302]:
+                - generic [ref=f11e303]: Не пройдено
+                - paragraph [ref=f11e308]: "Период прохождения: 12.10.2026 - 24.10.2026"
+            - 'link "Итоговое тестирование Обществознание · Тема 6.12. Юристы как социально-профессиональная группа Начать тестирование Не пройдено Период прохождения: 12.10.2026 - 24.10.2026" [ref=f11e309]':
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/exercises
+              - generic [ref=f11e310]:
+                - generic [ref=f11e311]: Итоговое тестирование
+                - generic [ref=f11e313]:
+                  - generic [ref=f11e314]: Обществознание
+                  - generic [ref=f11e315]: ·
+                  - generic [ref=f11e316]: Тема 6.12. Юристы как социально-профессиональная группа
+                - button "Начать тестирование" [ref=f11e318] [cursor=pointer]
+              - generic [ref=f11e324]:
+                - generic [ref=f11e325]: Не пройдено
+                - paragraph [ref=f11e330]: "Период прохождения: 12.10.2026 - 24.10.2026"
+            - 'link "Практическая работа Prompt-Engineering для ИИ · One shot prompting 0 Не отвечено Крайний срок сдачи: 26.10.2026" [ref=f11e331] [cursor=pointer]':
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines/3f78969f-1124-4aff-ac6c-c2d3234d520d/topics/db9f83a4-c046-4bc3-9349-31c0efaba731/tasks/c66e1cad-4c5f-403c-9142-547a72b3a778/students/fee4cef4-f6cc-458a-bbf3-0355694fdbd6
+              - generic [ref=f11e332]:
+                - generic [ref=f11e333]: Практическая работа
+                - generic [ref=f11e335]:
+                  - generic [ref=f11e336]: Prompt-Engineering для ИИ
+                  - generic [ref=f11e337]: ·
+                  - generic [ref=f11e338]: One shot prompting
+                - paragraph [ref=f11e342]: "0"
+              - generic [ref=f11e343]:
+                - generic [ref=f11e344]: Не отвечено
+                - generic [ref=f11e348]:
+                  - paragraph [ref=f11e349]: "Крайний срок сдачи:"
+                  - generic [ref=f11e350]: 26.10.2026
+            - 'link "Установка Linux на VM Основы Linux · Установка ОС Linux на виртуальную машину 0 Не отвечено Крайний срок сдачи: 29.10.2026" [ref=f11e351] [cursor=pointer]':
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines/647f8b95-5bcc-437a-be0f-9233302ad235/topics/3c19d81a-0cf0-43f1-ae59-cfd09e4b629a/tasks/eb4ee380-bbe6-4838-a56d-44ab2132e755/students/fee4cef4-f6cc-458a-bbf3-0355694fdbd6
+              - generic [ref=f11e352]:
+                - generic [ref=f11e353]: Установка Linux на VM
+                - generic [ref=f11e355]:
+                  - generic [ref=f11e356]: Основы Linux
+                  - generic [ref=f11e357]: ·
+                  - generic [ref=f11e358]: Установка ОС Linux на виртуальную машину
+                - paragraph [ref=f11e362]: "0"
+              - generic [ref=f11e363]:
+                - generic [ref=f11e364]: Не отвечено
+                - generic [ref=f11e368]:
+                  - paragraph [ref=f11e369]: "Крайний срок сдачи:"
+                  - generic [ref=f11e370]: 29.10.2026
+            - 'link "Доказательство кванторных выражений Математическая логика и теория алгоритмов · Доказательство кванторных выражений 0 Не отвечено Крайний срок сдачи: 03.11.2026" [ref=f11e371] [cursor=pointer]':
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines/6ac24e4f-5a38-4833-90d1-7169b0252fc5/topics/9f07b7b1-cf29-4268-9a0c-2be054f0eb55/tasks/26a45934-6af7-4fbe-be38-92215ea5842a/students/fee4cef4-f6cc-458a-bbf3-0355694fdbd6
+              - generic [ref=f11e372]:
+                - generic [ref=f11e373]: Доказательство кванторных выражений
+                - generic [ref=f11e375]:
+                  - generic [ref=f11e376]: Математическая логика и теория алгоритмов
+                  - generic [ref=f11e377]: ·
+                  - generic [ref=f11e378]: Доказательство кванторных выражений
+                - paragraph [ref=f11e382]: "0"
+              - generic [ref=f11e383]:
+                - generic [ref=f11e384]: Не отвечено
+                - generic [ref=f11e388]:
+                  - paragraph [ref=f11e389]: "Крайний срок сдачи:"
+                  - generic [ref=f11e390]: 03.11.2026
+            - 'link "Практическая работа Основы HTML/CSS · Практическая работа 3 0 Не отвечено Крайний срок сдачи: 04.11.2026" [ref=f11e391] [cursor=pointer]':
+              - /url: /education/a7444f40-b450-4824-8c64-e86a069ba720/disciplines/9e1073cb-14c6-45e4-a9d3-8b040f4fdb94/topics/1b55ef18-b4c5-4fa1-9741-1e2993144197/tasks/23c7e6d3-f62a-4888-81ab-01b20374a73b/students/fee4cef4-f6cc-458a-bbf3-0355694fdbd6
+              - generic [ref=f11e392]:
+                - generic [ref=f11e393]: Практическая работа
+                - generic [ref=f11e395]:
+                  - generic [ref=f11e396]: Основы HTML/CSS
+                  - generic [ref=f11e397]: ·
+                  - generic [ref=f11e398]: Практическая работа 3
+                - paragraph [ref=f11e402]: "0"
+              - generic [ref=f11e403]:
+                - generic [ref=f11e404]: Не отвечено
+                - generic [ref=f11e408]:
+                  - paragraph [ref=f11e409]: "Крайний срок сдачи:"
+                  - generic [ref=f11e410]: 04.11.2026
+          - generic [ref=f11e411]:
+            - generic [ref=f11e412]:
+              - generic [ref=f11e413]: Показаны с 1 по 10 из 635
+              - generic [ref=f11e416]:
+                - log [ref=f11e418]
+                - generic [ref=f11e420]:
+                  - generic [ref=f11e421]: "10"
+                  - combobox [ref=f11e423]
+            - navigation "pagination navigation" [ref=f11e428]:
+              - list [ref=f11e429]:
+                - listitem [ref=f11e430]:
+                  - button "Go to previous page" [disabled]
+                - listitem [ref=f11e431]:
+                  - button "page 1" [ref=f11e432] [cursor=pointer]: "1"
+                - listitem [ref=f11e433]:
+                  - button "Go to page 2" [ref=f11e434] [cursor=pointer]: "2"
+                - listitem [ref=f11e435]:
+                  - button "Go to page 3" [ref=f11e436] [cursor=pointer]: "3"
+                - listitem [ref=f11e437]:
+                  - button "Go to page 4" [ref=f11e438] [cursor=pointer]: "4"
+                - listitem [ref=f11e439]:
+                  - button "Go to page 5" [ref=f11e440] [cursor=pointer]: "5"
+                - listitem [ref=f11e441]:
+                  - generic [ref=f11e442]: …
+                - listitem [ref=f11e443]:
+                  - button "Go to page 64" [ref=f11e444] [cursor=pointer]: "64"
+                - listitem [ref=f11e445]:
+                  - button "Go to next page" [ref=f11e446] [cursor=pointer]
+  - button [ref=f11e111] [cursor=pointer]:
+    - img "support-logo" [ref=f11e113]
+  - generic [ref=f11e115]:
+    - paragraph [ref=f11e116]:
+      - text: На нашем сайте обрабатываются cookie-файлы, в том числе при помощи сервисов веб-аналитики Яндекс.Метрика и Top.Mail.ru. Используя сайт, вы соглашаетесь на обработку персональных данных при помощи cookie-файлов. Подробнее об обработке персональных данных вы можете узнать в
+      - link "Политике конфиденциальности" [ref=f11e117] [cursor=pointer]:
+        - /url: https://storage.yandexcloud.net/s3newlxpbulgakov/privacy_policy_and_personal_data.pdf
+    - generic [ref=f11e118]:
+      - button "Отказаться" [ref=f11e119] [cursor=pointer]
+      - button "Принять" [ref=f11e122] [cursor=pointer]

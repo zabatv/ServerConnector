@@ -1,0 +1,6 @@
+- generic [ref=f3e2]:
+  - generic [ref=f3e3]: FACEIT
+  - heading "Verification complete" [level=1] [ref=f3e4]
+  - paragraph [ref=f3e5]: accounts.faceit.com
+  - paragraph [ref=f3e6]: Session validated. You may continue.
+  - button "Continue" [ref=f3e7] [cursor=pointer]

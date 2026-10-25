@@ -1,0 +1,9 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - img "New Gang" [ref=e6]
+    - heading "New Gang" [level=1] [ref=e7]
+    - paragraph [ref=e8]: Войдите, чтобы продолжить
+  - generic [ref=e9]:
+    - textbox "Логин" [active] [ref=e10]
+    - textbox "Пароль" [ref=e11]
+    - button "Войти" [ref=e12] [cursor=pointer]

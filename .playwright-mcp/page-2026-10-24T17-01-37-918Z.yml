@@ -1,0 +1,79 @@
+- generic [ref=f13e2]:
+  - banner [ref=f13e3]:
+    - generic [ref=f13e77]:
+      - img "brand logo" [ref=f13e79]
+      - text:     
+  - main [ref=f13e18]:
+    - generic [ref=f13e82]:
+      - generic [ref=f13e84]:
+        - generic [ref=f13e87]:
+          - generic [ref=f13e829]:
+            - generic [ref=f13e833]:
+              - generic [ref=f13e834]: ОУП.10.В Обществознание. Тема 6.12. Юристы как социально-профессиональная группа. 1 курс 2 семестр
+              - generic [ref=f13e835]: 1 Первая тема
+            - generic [ref=f13e837]:
+              - generic [ref=f13e838]: 12. Какие действия являются формами политического участия (в рамках закона)?
+              - generic [ref=f13e841]:
+                - generic [ref=f13e843] [cursor=pointer]:
+                  - text: A
+                  - generic [ref=f13e844]: B. Обращение и петиция
+                - generic [ref=f13e846] [cursor=pointer]:
+                  - text: B
+                  - generic [ref=f13e847]: A. Участие в выборах
+                  - text: ✓
+                - generic [ref=f13e849] [cursor=pointer]:
+                  - text: C
+                  - generic [ref=f13e850]: C. Участие в деятельности общественных объединений
+                - generic [ref=f13e852] [cursor=pointer]:
+                  - text: D
+                  - generic [ref=f13e853]: D. Полный отказ от интереса к общественным делам
+          - generic [ref=f13e114]:
+            - button " Назад" [ref=f13e224] [cursor=pointer]:
+              - generic [ref=f13e225]: 
+              - text: Назад
+            - generic [ref=f13e115]:
+              - text: 
+              - button "Ответить и завершить " [ref=f13e856] [cursor=pointer]:
+                - text: Ответить и завершить
+                - generic [ref=f13e197]: 
+        - generic [ref=f13e118]:
+          - generic [ref=f13e119]: 01:10:03
+          - generic [ref=f13e128]:
+            - generic [ref=f13e130]:
+              - generic [ref=f13e131]: Пройдено
+              - generic [ref=f13e132]: ":"
+              - generic [ref=f13e133]: 95%
+            - generic [ref=f13e135]:
+              - generic [ref=f13e136]:
+                - generic [ref=f13e137]: Все страницы
+                - generic [ref=f13e138] [cursor=pointer]
+              - generic [ref=f13e142]:
+                - generic [ref=f13e144]:
+                  - generic [ref=f13e145] [cursor=pointer]: "1"
+                  - generic [ref=f13e148] [cursor=pointer]: "2"
+                  - generic [ref=f13e150] [cursor=pointer]: "3"
+                  - generic [ref=f13e152] [cursor=pointer]: "4"
+                  - generic [ref=f13e154] [cursor=pointer]: "5"
+                  - generic [ref=f13e156] [cursor=pointer]: "6"
+                  - generic [ref=f13e158] [cursor=pointer]: "7"
+                  - generic [ref=f13e160] [cursor=pointer]: "8"
+                  - generic [ref=f13e162] [cursor=pointer]: "9"
+                  - generic [ref=f13e164] [cursor=pointer]: "10"
+                  - generic [ref=f13e166] [cursor=pointer]: "11"
+                  - generic [ref=f13e168] [cursor=pointer]: "12"
+                  - generic [ref=f13e170] [cursor=pointer]: "13"
+                  - generic [ref=f13e172] [cursor=pointer]: "14"
+                  - generic [ref=f13e174] [cursor=pointer]: "15"
+                  - generic [ref=f13e176] [cursor=pointer]: "16"
+                  - generic [ref=f13e178] [cursor=pointer]: "17"
+                  - generic [ref=f13e180] [cursor=pointer]: "18"
+                  - generic [ref=f13e182] [cursor=pointer]: "19"
+                  - generic [ref=f13e184] [cursor=pointer]:
+                    - generic [ref=f13e185]: "20"
+                    - generic [ref=f13e855]: Вы здесь
+                - generic [ref=f13e186]:
+                  - generic [ref=f13e187] [cursor=pointer]: 
+                  - generic [ref=f13e189]: 11-20
+                  - generic [ref=f13e192]: 
+      - generic [ref=f13e194]: © 2026 StartExam Platform
+  - contentinfo

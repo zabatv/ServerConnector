@@ -1,0 +1,780 @@
+- generic [active] [ref=f10e1]:
+  - generic [ref=f10e9]:
+    - complementary [ref=f10e10]:
+      - generic [ref=f10e11]:
+        - generic [ref=f10e12]:
+          - generic [ref=f10e14]:
+            - img [ref=f10e18] [cursor=pointer]
+            - img "avatar" [ref=f10e32]
+          - heading "fre5zy" [level=1] [ref=f10e34]
+        - button "ADD FRIEND" [ref=f10e36] [cursor=pointer]
+      - generic [ref=f10e37]:
+        - generic [ref=f10e39]:
+          - generic [ref=f10e40]: Gift A Sub
+          - generic [ref=f10e43] [cursor=pointer]: Gift Sub
+        - generic [ref=f10e44]:
+          - generic [ref=f10e45]: Member since Mar 13, 2022
+          - generic [ref=f10e46]: We don't know anything about fre5zy
+          - generic [ref=f10e47]:
+            - img "DE" [ref=f10e49]:
+              - img "DE" [ref=f10e50]
+            - generic [ref=f10e55]: Russian Federation
+          - link [ref=f10e59] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f10e63]:
+          - generic [ref=f10e64]: Game history
+          - generic [ref=f10e65]:
+            - generic [ref=f10e66] [cursor=pointer]:
+              - generic [ref=f10e67]: C
+              - generic [ref=f10e69]:
+                - generic [ref=f10e70]: CS2
+                - generic [ref=f10e71]: 2,023 matches
+            - generic [ref=f10e74]:
+              - generic [ref=f10e75]: C
+              - generic [ref=f10e77]:
+                - generic [ref=f10e78]: CS:GO
+                - generic [ref=f10e79]: — matches
+    - generic [ref=f10e80]:
+      - generic [ref=f10e82]:
+        - link "Games" [ref=f10e84] [cursor=pointer]:
+          - /url: "#"
+        - link "Friends" [ref=f10e90] [cursor=pointer]:
+          - /url: "#"
+        - link "Videos" [ref=f10e96] [cursor=pointer]:
+          - /url: "#"
+        - link "Guestbook" [ref=f10e102] [cursor=pointer]:
+          - /url: "#"
+        - link "Inventory" [ref=f10e108] [cursor=pointer]:
+          - /url: "#"
+        - link "Clubs" [ref=f10e114] [cursor=pointer]:
+          - /url: "#"
+        - link "Teams" [ref=f10e120] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f10e125]:
+        - generic [ref=f10e126]:
+          - generic [ref=f10e129] [cursor=pointer]:
+            - generic [ref=f10e130]: C
+            - generic [ref=f10e132]: CS2
+          - generic [ref=f10e137]:
+            - link "Summary" [ref=f10e139] [cursor=pointer]:
+              - /url: "#"
+            - link "Match history" [ref=f10e144] [cursor=pointer]:
+              - /url: "#"
+            - link "Matchmaking" [ref=f10e149] [cursor=pointer]:
+              - /url: "#"
+            - link "Leagues" [ref=f10e154] [cursor=pointer]:
+              - /url: "#"
+            - link "Tournaments" [ref=f10e159] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=f10e163]:
+          - generic [ref=f10e164]:
+            - generic [ref=f10e165]:
+              - generic [ref=f10e166]:
+                - generic [ref=f10e170]:
+                  - generic [ref=f10e171]: Season 9
+                  - generic [ref=f10e172]: Matchmaking
+                - link "Season 9 stats" [ref=f10e173] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f10e177]:
+                - generic [ref=f10e178]:
+                  - img "Skill level 10" [ref=f10e179]
+                  - generic [ref=f10e184]: 2,213
+                - generic [ref=f10e185]:
+                  - generic [ref=f10e186]:
+                    - generic [ref=f10e187]:
+                      - img "DE" [ref=f10e189]:
+                        - img "DE" [ref=f10e190]
+                      - generic [ref=f10e195]: 36,804
+                    - generic [ref=f10e196]:
+                      - img "EU" [ref=f10e197]:
+                        - img "EU" [ref=f10e198]
+                      - generic [ref=f10e202]: 129,236
+                  - generic [ref=f10e203]:
+                    - generic [ref=f10e204]:
+                      - generic [ref=f10e205]: "126"
+                      - generic [ref=f10e206]: Matches
+                      - generic [aria-hidden] [ref=f10e207]: •
+                    - generic [ref=f10e208]:
+                      - generic [ref=f10e209]: 46.8%
+                      - generic [ref=f10e210]: Win rate
+            - generic [ref=f10e211]:
+              - generic [ref=f10e212]:
+                - generic [ref=f10e213]: Recent performance
+                - generic [ref=f10e214]:
+                  - generic [ref=f10e215]: Last 30 Matches
+                  - generic [ref=f10e216]: •
+                  - generic [ref=f10e217] [cursor=pointer]:
+                    - img "Skill level 10" [ref=f10e218]
+                    - generic [ref=f10e223]: 2,315 Avg skill level of Match
+              - generic [ref=f10e226]:
+                - generic [ref=f10e227]:
+                  - generic [ref=f10e228]: Elo change
+                  - generic [ref=f10e229]: "-100"
+                - generic [ref=f10e230]:
+                  - generic [ref=f10e231]:
+                    - generic [ref=f10e232]: W
+                    - generic [ref=f10e234]: "13"
+                  - generic [ref=f10e235]: /
+                  - generic [ref=f10e236]:
+                    - generic [ref=f10e237]: L
+                    - generic [ref=f10e239]: "17"
+              - img "Elo progression" [ref=f10e243] [cursor=pointer]
+              - generic [ref=f10e249]:
+                - generic [ref=f10e251]:
+                  - generic [ref=f10e252]:
+                    - generic [ref=f10e253]: "1.10"
+                    - img "FACEIT Rating" [ref=f10e276]
+                  - generic [ref=f10e280]:
+                    - generic [ref=f10e281]:
+                      - generic [ref=f10e282]: Swing
+                      - generic [ref=f10e283]: "-7.44%"
+                    - generic [ref=f10e285]:
+                      - generic [ref=f10e286]: Consistency
+                      - generic [ref=f10e287]: 72%
+                - generic [ref=f10e289]:
+                  - generic [ref=f10e290]:
+                    - generic [ref=f10e291]: 16 / 15 / 4
+                    - generic [ref=f10e292]: K/D/A
+                  - generic [ref=f10e293]:
+                    - generic [ref=f10e294]: "1.07"
+                    - generic [ref=f10e295]: K/D
+                  - generic [ref=f10e296]:
+                    - generic [ref=f10e297]: "0.75"
+                    - generic [ref=f10e298]: K/R
+                  - generic [ref=f10e299]:
+                    - generic [ref=f10e300]: 52%
+                    - generic [ref=f10e301]: HS%
+                  - generic [ref=f10e302]:
+                    - generic [ref=f10e303]: "82.9"
+                    - generic [ref=f10e304]: ADR
+                  - generic [ref=f10e305]:
+                    - generic [ref=f10e306]: 43%
+                    - generic [ref=f10e307]: Win rate
+          - generic [ref=f10e308]:
+            - generic [ref=f10e309]:
+              - generic [ref=f10e310]: Recent matches
+              - link "Full match history" [ref=f10e313] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=f10e316]:
+              - generic [ref=f10e318]:
+                - generic [ref=f10e319]: Date
+                - generic [ref=f10e320]: Score
+                - generic [ref=f10e322]: Rating
+                - generic [ref=f10e336]: K/D/A
+                - generic [ref=f10e337]: Map
+              - generic [ref=f10e338]:
+                - 'link "Wed 21 Oct 23:09 W 13 : 11 Skill level 10 2,213 30 1.03 19 / 19 / 10 Anubis" [ref=f10e339] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e341]:
+                    - generic [ref=f10e342]: Wed 21 Oct
+                    - generic [ref=f10e343]: 23:09
+                  - generic [ref=f10e345]:
+                    - generic [ref=f10e346]: W
+                    - generic [ref=f10e347]:
+                      - generic [ref=f10e348]: "13"
+                      - generic [ref=f10e349]: ":"
+                      - generic [ref=f10e350]: "11"
+                  - generic [ref=f10e357]:
+                    - img "Skill level 10" [ref=f10e358]
+                    - generic [ref=f10e363]:
+                      - generic [ref=f10e364]: 2,213
+                      - generic [ref=f10e365]: "30"
+                  - generic [ref=f10e371]: "1.03"
+                  - generic [ref=f10e379]: 19 / 19 / 10
+                  - generic [ref=f10e380]: Anubis
+                - 'link "Wed 21 Oct 22:20 L 9 : 13 Skill level 10 2,183 30 1.57 21 / 14 / 4 Nuke Nuke" [ref=f10e384] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e386]:
+                    - generic [ref=f10e387]: Wed 21 Oct
+                    - generic [ref=f10e388]: 22:20
+                  - generic [ref=f10e390]:
+                    - generic [ref=f10e391]: L
+                    - generic [ref=f10e392]:
+                      - generic [ref=f10e393]: "9"
+                      - generic [ref=f10e394]: ":"
+                      - generic [ref=f10e395]: "13"
+                  - generic [ref=f10e402]:
+                    - img "Skill level 10" [ref=f10e403]
+                    - generic [ref=f10e408]:
+                      - generic [ref=f10e409]: 2,183
+                      - generic [ref=f10e410]: "30"
+                  - generic [ref=f10e416]: "1.57"
+                  - generic [ref=f10e424]: 21 / 14 / 4
+                  - generic [ref=f10e426]:
+                    - img "Nuke" [ref=f10e427]
+                    - generic [ref=f10e428]: Nuke
+                - 'link "Wed 21 Oct 21:37 L 9 : 13 Skill level 10 2,213 30 1.07 11 / 16 / 7 Inferno Inferno" [ref=f10e430] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e432]:
+                    - generic [ref=f10e433]: Wed 21 Oct
+                    - generic [ref=f10e434]: 21:37
+                  - generic [ref=f10e436]:
+                    - generic [ref=f10e437]: L
+                    - generic [ref=f10e438]:
+                      - generic [ref=f10e439]: "9"
+                      - generic [ref=f10e440]: ":"
+                      - generic [ref=f10e441]: "13"
+                  - generic [ref=f10e448]:
+                    - img "Skill level 10" [ref=f10e449]
+                    - generic [ref=f10e454]:
+                      - generic [ref=f10e455]: 2,213
+                      - generic [ref=f10e456]: "30"
+                  - generic [ref=f10e462]: "1.07"
+                  - generic [ref=f10e470]: 11 / 16 / 7
+                  - generic [ref=f10e472]:
+                    - img "Inferno" [ref=f10e473]
+                    - generic [ref=f10e474]: Inferno
+                - 'link "Wed 21 Oct 19:29 L 5 : 13 Skill level 10 2,243 30 0.75 11 / 14 / 2 Mirage Mirage" [ref=f10e476] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e478]:
+                    - generic [ref=f10e479]: Wed 21 Oct
+                    - generic [ref=f10e480]: 19:29
+                  - generic [ref=f10e482]:
+                    - generic [ref=f10e483]: L
+                    - generic [ref=f10e484]:
+                      - generic [ref=f10e485]: "5"
+                      - generic [ref=f10e486]: ":"
+                      - generic [ref=f10e487]: "13"
+                  - generic [ref=f10e494]:
+                    - img "Skill level 10" [ref=f10e495]
+                    - generic [ref=f10e500]:
+                      - generic [ref=f10e501]: 2,243
+                      - generic [ref=f10e502]: "30"
+                  - generic [ref=f10e508]: "0.75"
+                  - generic [ref=f10e516]: 11 / 14 / 2
+                  - generic [ref=f10e518]:
+                    - img "Mirage" [ref=f10e519]
+                    - generic [ref=f10e520]: Mirage
+                - 'link "Wed 21 Oct 18:29 L 14 : 16 Skill level 10 2,273 30 1.21 24 / 21 / 7 Anubis" [ref=f10e522] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e524]:
+                    - generic [ref=f10e525]: Wed 21 Oct
+                    - generic [ref=f10e526]: 18:29
+                  - generic [ref=f10e528]:
+                    - generic [ref=f10e529]: L
+                    - generic [ref=f10e530]:
+                      - generic [ref=f10e531]: "14"
+                      - generic [ref=f10e532]: ":"
+                      - generic [ref=f10e533]: "16"
+                  - generic [ref=f10e540]:
+                    - img "Skill level 10" [ref=f10e541]
+                    - generic [ref=f10e546]:
+                      - generic [ref=f10e547]: 2,273
+                      - generic [ref=f10e548]: "30"
+                  - generic [ref=f10e554]: "1.21"
+                  - generic [ref=f10e562]: 24 / 21 / 7
+                  - generic [ref=f10e563]: Anubis
+                - 'link "Tue 20 Oct 23:53 L 10 : 13 Skill level 10 2,303 30 1.12 17 / 17 / 5 Inferno Inferno" [ref=f10e567] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e569]:
+                    - generic [ref=f10e570]: Tue 20 Oct
+                    - generic [ref=f10e571]: 23:53
+                  - generic [ref=f10e573]:
+                    - generic [ref=f10e574]: L
+                    - generic [ref=f10e575]:
+                      - generic [ref=f10e576]: "10"
+                      - generic [ref=f10e577]: ":"
+                      - generic [ref=f10e578]: "13"
+                  - generic [ref=f10e585]:
+                    - img "Skill level 10" [ref=f10e586]
+                    - generic [ref=f10e591]:
+                      - generic [ref=f10e592]: 2,303
+                      - generic [ref=f10e593]: "30"
+                  - generic [ref=f10e599]: "1.12"
+                  - generic [ref=f10e607]: 17 / 17 / 5
+                  - generic [ref=f10e609]:
+                    - img "Inferno" [ref=f10e610]
+                    - generic [ref=f10e611]: Inferno
+                - 'link "Tue 20 Oct 22:59 L 4 : 13 Skill level 10 2,328 30 0.69 8 / 15 / 3 Anubis" [ref=f10e613] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e615]:
+                    - generic [ref=f10e616]: Tue 20 Oct
+                    - generic [ref=f10e617]: 22:59
+                  - generic [ref=f10e619]:
+                    - generic [ref=f10e620]: L
+                    - generic [ref=f10e621]:
+                      - generic [ref=f10e622]: "4"
+                      - generic [ref=f10e623]: ":"
+                      - generic [ref=f10e624]: "13"
+                  - generic [ref=f10e631]:
+                    - img "Skill level 10" [ref=f10e632]
+                    - generic [ref=f10e637]:
+                      - generic [ref=f10e638]: 2,328
+                      - generic [ref=f10e639]: "30"
+                  - generic [ref=f10e645]: "0.69"
+                  - generic [ref=f10e653]: 8 / 15 / 3
+                  - generic [ref=f10e654]: Anubis
+                - 'link "Tue 20 Oct 22:22 L 9 : 13 Skill level 10 2,351 30 1.02 16 / 17 / 4 Nuke Nuke" [ref=f10e658] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e660]:
+                    - generic [ref=f10e661]: Tue 20 Oct
+                    - generic [ref=f10e662]: 22:22
+                  - generic [ref=f10e664]:
+                    - generic [ref=f10e665]: L
+                    - generic [ref=f10e666]:
+                      - generic [ref=f10e667]: "9"
+                      - generic [ref=f10e668]: ":"
+                      - generic [ref=f10e669]: "13"
+                  - generic [ref=f10e676]:
+                    - img "Skill level 10" [ref=f10e677]
+                    - generic [ref=f10e682]:
+                      - generic [ref=f10e683]: 2,351
+                      - generic [ref=f10e684]: "30"
+                  - generic [ref=f10e690]: "1.02"
+                  - generic [ref=f10e698]: 16 / 17 / 4
+                  - generic [ref=f10e700]:
+                    - img "Nuke" [ref=f10e701]
+                    - generic [ref=f10e702]: Nuke
+                - 'link "Tue 20 Oct 21:37 W 13 : 11 Skill level 10 2,376 30 0.78 12 / 19 / 7 Dust 2 Dust 2" [ref=f10e704] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e706]:
+                    - generic [ref=f10e707]: Tue 20 Oct
+                    - generic [ref=f10e708]: 21:37
+                  - generic [ref=f10e710]:
+                    - generic [ref=f10e711]: W
+                    - generic [ref=f10e712]:
+                      - generic [ref=f10e713]: "13"
+                      - generic [ref=f10e714]: ":"
+                      - generic [ref=f10e715]: "11"
+                  - generic [ref=f10e722]:
+                    - img "Skill level 10" [ref=f10e723]
+                    - generic [ref=f10e728]:
+                      - generic [ref=f10e729]: 2,376
+                      - generic [ref=f10e730]: "30"
+                  - generic [ref=f10e736]: "0.78"
+                  - generic [ref=f10e744]: 12 / 19 / 7
+                  - generic [ref=f10e746]:
+                    - img "Dust 2" [ref=f10e747]
+                    - generic [ref=f10e748]: Dust 2
+                - 'link "Tue 20 Oct 01:59 L 11 : 13 Skill level 10 2,355 30 0.83 9 / 15 / 6 Mirage Mirage" [ref=f10e750] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e752]:
+                    - generic [ref=f10e753]: Tue 20 Oct
+                    - generic [ref=f10e754]: 01:59
+                  - generic [ref=f10e756]:
+                    - generic [ref=f10e757]: L
+                    - generic [ref=f10e758]:
+                      - generic [ref=f10e759]: "11"
+                      - generic [ref=f10e760]: ":"
+                      - generic [ref=f10e761]: "13"
+                  - generic [ref=f10e768]:
+                    - img "Skill level 10" [ref=f10e769]
+                    - generic [ref=f10e774]:
+                      - generic [ref=f10e775]: 2,355
+                      - generic [ref=f10e776]: "30"
+                  - generic [ref=f10e782]: "0.83"
+                  - generic [ref=f10e790]: 9 / 15 / 6
+                  - generic [ref=f10e792]:
+                    - img "Mirage" [ref=f10e793]
+                    - generic [ref=f10e794]: Mirage
+                - 'link "Tue 20 Oct 01:06 W 13 : 8 Skill level 10 2,385 30 1.48 28 / 12 / 1 Mirage Mirage" [ref=f10e796] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e798]:
+                    - generic [ref=f10e799]: Tue 20 Oct
+                    - generic [ref=f10e800]: 01:06
+                  - generic [ref=f10e802]:
+                    - generic [ref=f10e803]: W
+                    - generic [ref=f10e804]:
+                      - generic [ref=f10e805]: "13"
+                      - generic [ref=f10e806]: ":"
+                      - generic [ref=f10e807]: "8"
+                  - generic [ref=f10e814]:
+                    - img "Skill level 10" [ref=f10e815]
+                    - generic [ref=f10e820]:
+                      - generic [ref=f10e821]: 2,385
+                      - generic [ref=f10e822]: "30"
+                  - generic [ref=f10e828]: "1.48"
+                  - generic [ref=f10e836]: 28 / 12 / 1
+                  - generic [ref=f10e838]:
+                    - img "Mirage" [ref=f10e839]
+                    - generic [ref=f10e840]: Mirage
+                - 'link "Tue 20 Oct 00:26 W 13 : 2 Skill level 10 2,355 30 1.31 12 / 9 / 6 Anubis" [ref=f10e842] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e844]:
+                    - generic [ref=f10e845]: Tue 20 Oct
+                    - generic [ref=f10e846]: 00:26
+                  - generic [ref=f10e848]:
+                    - generic [ref=f10e849]: W
+                    - generic [ref=f10e850]:
+                      - generic [ref=f10e851]: "13"
+                      - generic [ref=f10e852]: ":"
+                      - generic [ref=f10e853]: "2"
+                  - generic [ref=f10e860]:
+                    - img "Skill level 10" [ref=f10e861]
+                    - generic [ref=f10e866]:
+                      - generic [ref=f10e867]: 2,355
+                      - generic [ref=f10e868]: "30"
+                  - generic [ref=f10e874]: "1.31"
+                  - generic [ref=f10e882]: 12 / 9 / 6
+                  - generic [ref=f10e883]: Anubis
+                - 'link "Mon 19 Oct 23:53 W 13 : 5 Skill level 10 2,325 30 1.00 13 / 14 / 5 Anubis" [ref=f10e887] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e889]:
+                    - generic [ref=f10e890]: Mon 19 Oct
+                    - generic [ref=f10e891]: 23:53
+                  - generic [ref=f10e893]:
+                    - generic [ref=f10e894]: W
+                    - generic [ref=f10e895]:
+                      - generic [ref=f10e896]: "13"
+                      - generic [ref=f10e897]: ":"
+                      - generic [ref=f10e898]: "5"
+                  - generic [ref=f10e905]:
+                    - img "Skill level 10" [ref=f10e906]
+                    - generic [ref=f10e911]:
+                      - generic [ref=f10e912]: 2,325
+                      - generic [ref=f10e913]: "30"
+                  - generic [ref=f10e919]: "1.00"
+                  - generic [ref=f10e927]: 13 / 14 / 5
+                  - generic [ref=f10e928]: Anubis
+                - 'link "Mon 19 Oct 23:17 W 13 : 10 Skill level 10 2,295 30 1.17 18 / 16 / 5 Ancient" [ref=f10e932] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e934]:
+                    - generic [ref=f10e935]: Mon 19 Oct
+                    - generic [ref=f10e936]: 23:17
+                  - generic [ref=f10e938]:
+                    - generic [ref=f10e939]: W
+                    - generic [ref=f10e940]:
+                      - generic [ref=f10e941]: "13"
+                      - generic [ref=f10e942]: ":"
+                      - generic [ref=f10e943]: "10"
+                  - generic [ref=f10e950]:
+                    - img "Skill level 10" [ref=f10e951]
+                    - generic [ref=f10e956]:
+                      - generic [ref=f10e957]: 2,295
+                      - generic [ref=f10e958]: "30"
+                  - generic [ref=f10e964]: "1.17"
+                  - generic [ref=f10e972]: 18 / 16 / 5
+                  - generic [ref=f10e973]: Ancient
+                - 'link "Mon 19 Oct 22:35 L 1 : 13 Skill level 10 2,265 30 0.82 6 / 14 / 2 Nuke Nuke" [ref=f10e977] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e979]:
+                    - generic [ref=f10e980]: Mon 19 Oct
+                    - generic [ref=f10e981]: 22:35
+                  - generic [ref=f10e983]:
+                    - generic [ref=f10e984]: L
+                    - generic [ref=f10e985]:
+                      - generic [ref=f10e986]: "1"
+                      - generic [ref=f10e987]: ":"
+                      - generic [ref=f10e988]: "13"
+                  - generic [ref=f10e995]:
+                    - img "Skill level 10" [ref=f10e996]
+                    - generic [ref=f10e1001]:
+                      - generic [ref=f10e1002]: 2,265
+                      - generic [ref=f10e1003]: "30"
+                  - generic [ref=f10e1009]: "0.82"
+                  - generic [ref=f10e1017]: 6 / 14 / 2
+                  - generic [ref=f10e1019]:
+                    - img "Nuke" [ref=f10e1020]
+                    - generic [ref=f10e1021]: Nuke
+                - 'link "Mon 19 Oct 00:02 L 8 : 13 Skill level 10 2,295 30 0.99 14 / 17 / 7 Anubis" [ref=f10e1023] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1025]:
+                    - generic [ref=f10e1026]: Mon 19 Oct
+                    - generic [ref=f10e1027]: 00:02
+                  - generic [ref=f10e1029]:
+                    - generic [ref=f10e1030]: L
+                    - generic [ref=f10e1031]:
+                      - generic [ref=f10e1032]: "8"
+                      - generic [ref=f10e1033]: ":"
+                      - generic [ref=f10e1034]: "13"
+                  - generic [ref=f10e1041]:
+                    - img "Skill level 10" [ref=f10e1042]
+                    - generic [ref=f10e1047]:
+                      - generic [ref=f10e1048]: 2,295
+                      - generic [ref=f10e1049]: "30"
+                  - generic [ref=f10e1055]: "0.99"
+                  - generic [ref=f10e1063]: 14 / 17 / 7
+                  - generic [ref=f10e1064]: Anubis
+                - 'link "Sun 18 Oct 23:22 W 13 : 7 Skill level 10 2,325 30 1.55 17 / 12 / 2 Nuke Nuke" [ref=f10e1068] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1070]:
+                    - generic [ref=f10e1071]: Sun 18 Oct
+                    - generic [ref=f10e1072]: 23:22
+                  - generic [ref=f10e1074]:
+                    - generic [ref=f10e1075]: W
+                    - generic [ref=f10e1076]:
+                      - generic [ref=f10e1077]: "13"
+                      - generic [ref=f10e1078]: ":"
+                      - generic [ref=f10e1079]: "7"
+                  - generic [ref=f10e1086]:
+                    - img "Skill level 10" [ref=f10e1087]
+                    - generic [ref=f10e1092]:
+                      - generic [ref=f10e1093]: 2,325
+                      - generic [ref=f10e1094]: "30"
+                  - generic [ref=f10e1100]: "1.55"
+                  - generic [ref=f10e1108]: 17 / 12 / 2
+                  - generic [ref=f10e1110]:
+                    - img "Nuke" [ref=f10e1111]
+                    - generic [ref=f10e1112]: Nuke
+                - 'link "Sat 17 Oct 23:05 W 13 : 3 Skill level 10 2,295 30 1.80 22 / 9 / 3 Vertigo" [ref=f10e1114] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1116]:
+                    - generic [ref=f10e1117]: Sat 17 Oct
+                    - generic [ref=f10e1118]: 23:05
+                  - generic [ref=f10e1120]:
+                    - generic [ref=f10e1121]: W
+                    - generic [ref=f10e1122]:
+                      - generic [ref=f10e1123]: "13"
+                      - generic [ref=f10e1124]: ":"
+                      - generic [ref=f10e1125]: "3"
+                  - generic [ref=f10e1132]:
+                    - img "Skill level 10" [ref=f10e1133]
+                    - generic [ref=f10e1138]:
+                      - generic [ref=f10e1139]: 2,295
+                      - generic [ref=f10e1140]: "30"
+                  - generic [ref=f10e1146]: "1.80"
+                  - generic [ref=f10e1154]: 22 / 9 / 3
+                  - generic [ref=f10e1155]: Vertigo
+                - 'link "Sat 17 Oct 22:33 L 14 : 16 Skill level 10 2,275 30 1.20 23 / 19 / 3 Dust 2 Dust 2" [ref=f10e1159] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1161]:
+                    - generic [ref=f10e1162]: Sat 17 Oct
+                    - generic [ref=f10e1163]: 22:33
+                  - generic [ref=f10e1165]:
+                    - generic [ref=f10e1166]: L
+                    - generic [ref=f10e1167]:
+                      - generic [ref=f10e1168]: "14"
+                      - generic [ref=f10e1169]: ":"
+                      - generic [ref=f10e1170]: "16"
+                  - generic [ref=f10e1177]:
+                    - img "Skill level 10" [ref=f10e1178]
+                    - generic [ref=f10e1183]:
+                      - generic [ref=f10e1184]: 2,275
+                      - generic [ref=f10e1185]: "30"
+                  - generic [ref=f10e1191]: "1.20"
+                  - generic [ref=f10e1199]: 23 / 19 / 3
+                  - generic [ref=f10e1201]:
+                    - img "Dust 2" [ref=f10e1202]
+                    - generic [ref=f10e1203]: Dust 2
+                - 'link "Sat 17 Oct 01:37 W 13 : 3 Skill level 10 2,300 30 1.01 10 / 13 / 5 Mirage Mirage" [ref=f10e1205] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1207]:
+                    - generic [ref=f10e1208]: Sat 17 Oct
+                    - generic [ref=f10e1209]: 01:37
+                  - generic [ref=f10e1211]:
+                    - generic [ref=f10e1212]: W
+                    - generic [ref=f10e1213]:
+                      - generic [ref=f10e1214]: "13"
+                      - generic [ref=f10e1215]: ":"
+                      - generic [ref=f10e1216]: "3"
+                  - generic [ref=f10e1223]:
+                    - img "Skill level 10" [ref=f10e1224]
+                    - generic [ref=f10e1229]:
+                      - generic [ref=f10e1230]: 2,300
+                      - generic [ref=f10e1231]: "30"
+                  - generic [ref=f10e1237]: "1.01"
+                  - generic [ref=f10e1245]: 10 / 13 / 5
+                  - generic [ref=f10e1247]:
+                    - img "Mirage" [ref=f10e1248]
+                    - generic [ref=f10e1249]: Mirage
+                - 'link "Sat 17 Oct 00:59 L 10 : 13 Skill level 10 2,280 30 1.09 17 / 18 / 4 Nuke Nuke" [ref=f10e1251] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1253]:
+                    - generic [ref=f10e1254]: Sat 17 Oct
+                    - generic [ref=f10e1255]: 00:59
+                  - generic [ref=f10e1257]:
+                    - generic [ref=f10e1258]: L
+                    - generic [ref=f10e1259]:
+                      - generic [ref=f10e1260]: "10"
+                      - generic [ref=f10e1261]: ":"
+                      - generic [ref=f10e1262]: "13"
+                  - generic [ref=f10e1269]:
+                    - img "Skill level 10" [ref=f10e1270]
+                    - generic [ref=f10e1275]:
+                      - generic [ref=f10e1276]: 2,280
+                      - generic [ref=f10e1277]: "30"
+                  - generic [ref=f10e1283]: "1.09"
+                  - generic [ref=f10e1291]: 17 / 18 / 4
+                  - generic [ref=f10e1293]:
+                    - img "Nuke" [ref=f10e1294]
+                    - generic [ref=f10e1295]: Nuke
+                - 'link "Sat 17 Oct 00:21 L 11 : 13 Skill level 10 2,306 30 1.19 25 / 18 / 5 Dust 2 Dust 2" [ref=f10e1297] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1299]:
+                    - generic [ref=f10e1300]: Sat 17 Oct
+                    - generic [ref=f10e1301]: 00:21
+                  - generic [ref=f10e1303]:
+                    - generic [ref=f10e1304]: L
+                    - generic [ref=f10e1305]:
+                      - generic [ref=f10e1306]: "11"
+                      - generic [ref=f10e1307]: ":"
+                      - generic [ref=f10e1308]: "13"
+                  - generic [ref=f10e1315]:
+                    - img "Skill level 10" [ref=f10e1316]
+                    - generic [ref=f10e1321]:
+                      - generic [ref=f10e1322]: 2,306
+                      - generic [ref=f10e1323]: "30"
+                  - generic [ref=f10e1329]: "1.19"
+                  - generic [ref=f10e1337]: 25 / 18 / 5
+                  - generic [ref=f10e1339]:
+                    - img "Dust 2" [ref=f10e1340]
+                    - generic [ref=f10e1341]: Dust 2
+                - 'link "Fri 16 Oct 23:31 L 11 : 13 Skill level 10 2,331 30 1.12 23 / 16 / 7 Inferno Inferno" [ref=f10e1343] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1345]:
+                    - generic [ref=f10e1346]: Fri 16 Oct
+                    - generic [ref=f10e1347]: 23:31
+                  - generic [ref=f10e1349]:
+                    - generic [ref=f10e1350]: L
+                    - generic [ref=f10e1351]:
+                      - generic [ref=f10e1352]: "11"
+                      - generic [ref=f10e1353]: ":"
+                      - generic [ref=f10e1354]: "13"
+                  - generic [ref=f10e1361]:
+                    - img "Skill level 10" [ref=f10e1362]
+                    - generic [ref=f10e1367]:
+                      - generic [ref=f10e1368]: 2,331
+                      - generic [ref=f10e1369]: "30"
+                  - generic [ref=f10e1375]: "1.12"
+                  - generic [ref=f10e1383]: 23 / 16 / 7
+                  - generic [ref=f10e1385]:
+                    - img "Inferno" [ref=f10e1386]
+                    - generic [ref=f10e1387]: Inferno
+                - 'link "Fri 16 Oct 22:35 L 3 : 13 Skill level 10 2,361 30 0.21 3 / 13 / 0 Nuke Nuke" [ref=f10e1389] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1391]:
+                    - generic [ref=f10e1392]: Fri 16 Oct
+                    - generic [ref=f10e1393]: 22:35
+                  - generic [ref=f10e1395]:
+                    - generic [ref=f10e1396]: L
+                    - generic [ref=f10e1397]:
+                      - generic [ref=f10e1398]: "3"
+                      - generic [ref=f10e1399]: ":"
+                      - generic [ref=f10e1400]: "13"
+                  - generic [ref=f10e1407]:
+                    - img "Skill level 10" [ref=f10e1408]
+                    - generic [ref=f10e1413]:
+                      - generic [ref=f10e1414]: 2,361
+                      - generic [ref=f10e1415]: "30"
+                  - generic [ref=f10e1421]: "0.21"
+                  - generic [ref=f10e1429]: 3 / 13 / 0
+                  - generic [ref=f10e1431]:
+                    - img "Nuke" [ref=f10e1432]
+                    - generic [ref=f10e1433]: Nuke
+                - 'link "Fri 16 Oct 00:40 W 13 : 11 Skill level 10 2,361 30 1.09 21 / 19 / 3 Ancient" [ref=f10e1435] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1437]:
+                    - generic [ref=f10e1438]: Fri 16 Oct
+                    - generic [ref=f10e1439]: 00:40
+                  - generic [ref=f10e1441]:
+                    - generic [ref=f10e1442]: W
+                    - generic [ref=f10e1443]:
+                      - generic [ref=f10e1444]: "13"
+                      - generic [ref=f10e1445]: ":"
+                      - generic [ref=f10e1446]: "11"
+                  - generic [ref=f10e1453]:
+                    - img "Skill level 10" [ref=f10e1454]
+                    - generic [ref=f10e1459]:
+                      - generic [ref=f10e1460]: 2,361
+                      - generic [ref=f10e1461]: "30"
+                  - generic [ref=f10e1467]: "1.09"
+                  - generic [ref=f10e1475]: 21 / 19 / 3
+                  - generic [ref=f10e1476]: Ancient
+                - 'link "Fri 16 Oct 00:00 L 10 : 13 Skill level 10 2,339 30 0.94 12 / 20 / 2 Dust 2 Dust 2" [ref=f10e1480] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1482]:
+                    - generic [ref=f10e1483]: Fri 16 Oct
+                    - generic [ref=f10e1484]: 00:00
+                  - generic [ref=f10e1486]:
+                    - generic [ref=f10e1487]: L
+                    - generic [ref=f10e1488]:
+                      - generic [ref=f10e1489]: "10"
+                      - generic [ref=f10e1490]: ":"
+                      - generic [ref=f10e1491]: "13"
+                  - generic [ref=f10e1498]:
+                    - img "Skill level 10" [ref=f10e1499]
+                    - generic [ref=f10e1504]:
+                      - generic [ref=f10e1505]: 2,339
+                      - generic [ref=f10e1506]: "30"
+                  - generic [ref=f10e1512]: "0.94"
+                  - generic [ref=f10e1520]: 12 / 20 / 2
+                  - generic [ref=f10e1522]:
+                    - img "Dust 2" [ref=f10e1523]
+                    - generic [ref=f10e1524]: Dust 2
+                - 'link "Thu 15 Oct 23:16 W 13 : 4 Skill level 10 2,364 30 1.29 15 / 10 / 2 Ancient" [ref=f10e1526] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1528]:
+                    - generic [ref=f10e1529]: Thu 15 Oct
+                    - generic [ref=f10e1530]: 23:16
+                  - generic [ref=f10e1532]:
+                    - generic [ref=f10e1533]: W
+                    - generic [ref=f10e1534]:
+                      - generic [ref=f10e1535]: "13"
+                      - generic [ref=f10e1536]: ":"
+                      - generic [ref=f10e1537]: "4"
+                  - generic [ref=f10e1544]:
+                    - img "Skill level 10" [ref=f10e1545]
+                    - generic [ref=f10e1550]:
+                      - generic [ref=f10e1551]: 2,364
+                      - generic [ref=f10e1552]: "30"
+                  - generic [ref=f10e1558]: "1.29"
+                  - generic [ref=f10e1566]: 15 / 10 / 2
+                  - generic [ref=f10e1567]: Ancient
+                - 'link "Thu 15 Oct 03:00 L 8 : 13 Skill level 10 2,343 30 0.82 13 / 18 / 6 Ancient" [ref=f10e1571] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1573]:
+                    - generic [ref=f10e1574]: Thu 15 Oct
+                    - generic [ref=f10e1575]: 03:00
+                  - generic [ref=f10e1577]:
+                    - generic [ref=f10e1578]: L
+                    - generic [ref=f10e1579]:
+                      - generic [ref=f10e1580]: "8"
+                      - generic [ref=f10e1581]: ":"
+                      - generic [ref=f10e1582]: "13"
+                  - generic [ref=f10e1589]:
+                    - img "Skill level 10" [ref=f10e1590]
+                    - generic [ref=f10e1595]:
+                      - generic [ref=f10e1596]: 2,343
+                      - generic [ref=f10e1597]: "30"
+                  - generic [ref=f10e1603]: "0.82"
+                  - generic [ref=f10e1611]: 13 / 18 / 6
+                  - generic [ref=f10e1612]: Ancient
+                - 'link "Thu 15 Oct 02:11 W 13 : 9 Skill level 10 2,373 30 1.48 18 / 14 / 5 Mirage Mirage" [ref=f10e1616] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1618]:
+                    - generic [ref=f10e1619]: Thu 15 Oct
+                    - generic [ref=f10e1620]: 02:11
+                  - generic [ref=f10e1622]:
+                    - generic [ref=f10e1623]: W
+                    - generic [ref=f10e1624]:
+                      - generic [ref=f10e1625]: "13"
+                      - generic [ref=f10e1626]: ":"
+                      - generic [ref=f10e1627]: "9"
+                  - generic [ref=f10e1634]:
+                    - img "Skill level 10" [ref=f10e1635]
+                    - generic [ref=f10e1640]:
+                      - generic [ref=f10e1641]: 2,373
+                      - generic [ref=f10e1642]: "30"
+                  - generic [ref=f10e1648]: "1.48"
+                  - generic [ref=f10e1656]: 18 / 14 / 5
+                  - generic [ref=f10e1658]:
+                    - img "Mirage" [ref=f10e1659]
+                    - generic [ref=f10e1660]: Mirage
+                - 'link "Tue 13 Oct 23:57 W 13 : 11 Skill level 10 2,343 30 1.34 19 / 15 / 4 Dust 2 Dust 2" [ref=f10e1662] [cursor=pointer]':
+                  - /url: https://www.faceit.com/en/players/fre5zy
+                  - generic [ref=f10e1664]:
+                    - generic [ref=f10e1665]: Tue 13 Oct
+                    - generic [ref=f10e1666]: 23:57
+                  - generic [ref=f10e1668]:
+                    - generic [ref=f10e1669]: W
+                    - generic [ref=f10e1670]:
+                      - generic [ref=f10e1671]: "13"
+                      - generic [ref=f10e1672]: ":"
+                      - generic [ref=f10e1673]: "11"
+                  - generic [ref=f10e1680]:
+                    - img "Skill level 10" [ref=f10e1681]
+                    - generic [ref=f10e1686]:
+                      - generic [ref=f10e1687]: 2,343
+                      - generic [ref=f10e1688]: "30"
+                  - generic [ref=f10e1694]: "1.34"
+                  - generic [ref=f10e1702]: 19 / 15 / 4
+                  - generic [ref=f10e1704]:
+                    - img "Dust 2" [ref=f10e1705]
+                    - generic [ref=f10e1706]: Dust 2
+  - generic [ref=f10e1708]:
+    - img "avatar" [ref=f10e1709] [cursor=pointer]
+    - generic "Matches" [ref=f10e1710] [cursor=pointer]
+    - generic "Notifications" [ref=f10e1713] [cursor=pointer]
+    - generic "Social" [ref=f10e1716] [cursor=pointer]
+    - generic "Create Group" [ref=f10e1719] [cursor=pointer]
+    - generic "Invite Players" [ref=f10e1724] [cursor=pointer]

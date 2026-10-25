@@ -1,0 +1,24 @@
+[     732ms] Unexpected identifier 'fc'
+[    1222ms] [ERROR] Unsafe attempt to load URL https://www.faceit.com/#arrowRight from frame with URL https://www.faceit.com.se/en/players/donk666. Domains, protocols and ports must match.
+ @ https://www.faceit.com.se/en/players/donk666:0
+[    1231ms] [ERROR] Unsafe attempt to load URL https://www.faceit.com/#gift from frame with URL https://www.faceit.com.se/en/players/donk666. Domains, protocols and ports must match.
+ @ https://www.faceit.com.se/en/players/donk666:0
+[    1231ms] [ERROR] Unsafe attempt to load URL https://www.faceit.com/#info from frame with URL https://www.faceit.com.se/en/players/donk666. Domains, protocols and ports must match.
+ @ https://www.faceit.com.se/en/players/donk666:0
+[    1231ms] [ERROR] Unsafe attempt to load URL https://www.faceit.com/#addFriend from frame with URL https://www.faceit.com.se/en/players/donk666. Domains, protocols and ports must match.
+ @ https://www.faceit.com.se/en/players/donk666:0
+[    1301ms] [ERROR] Access to font at 'https://cdn-frontend.faceit-cdn.net/web-next/46114e43-286983/_next/static/media/Geist_Variable-s.p.38tal-0yzr82m.woff2?dpl=46114e43-286983' from origin 'https://www.faceit.com.se' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.faceit.com.se/en/players/donk666:0
+[    1302ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://cdn-frontend.faceit-cdn.net/web-next/46114e43-286983/_next/static/media/Geist_Variable-s.p.38tal-0yzr82m.woff2?dpl=46114e43-286983:0
+[    1345ms] [ERROR] Unsafe attempt to load URL https://www.faceit.com/#matchmaking from frame with URL https://www.faceit.com.se/en/players/donk666. Domains, protocols and ports must match.
+ @ https://www.faceit.com.se/en/players/donk666:0
+[    1346ms] [ERROR] Unsafe attempt to load URL https://www.faceit.com/#play from frame with URL https://www.faceit.com.se/en/players/donk666. Domains, protocols and ports must match.
+ @ https://www.faceit.com.se/en/players/donk666:0
+[    1704ms] [ERROR] Access to font at 'https://cdn-frontend.faceit-cdn.net/web-next/46114e43-286983/_next/static/media/92d6beca20aace01-s.0orlkb9_1lh8a.woff2?dpl=46114e43-286983' from origin 'https://www.faceit.com.se' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.faceit.com.se/en/players/donk666:0
+[    1705ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://cdn-frontend.faceit-cdn.net/web-next/46114e43-286983/_next/static/media/92d6beca20aace01-s.0orlkb9_1lh8a.woff2?dpl=46114e43-286983:0
+[    4354ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOrigin @ https://www.faceit.com/:0
+[    7508ms] [WARNING] The resource https://web.cmp.usercentrics.eu/ui/v/4.24.0/UcTcfCmpView.6f48b33f.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.faceit.com.se/en/players/donk666:0
+[    7508ms] [WARNING] The resource https://web.cmp.usercentrics.eu/ui/v/4.24.0/secondLayer.03af4dcd.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.faceit.com.se/en/players/donk666:0
+[    7508ms] [WARNING] The resource https://web.cmp.usercentrics.eu/ui/v/4.24.0/TcfCmpController.2e73abba.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.faceit.com.se/en/players/donk666:0
+[    7508ms] [WARNING] The resource https://web.cmp.usercentrics.eu/ui/v/4.24.0/WebSdk.lib.387620fc.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.faceit.com.se/en/players/donk666:0
+[    7508ms] [WARNING] The resource https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.90eada8b.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.faceit.com.se/en/players/donk666:0
+[    7508ms] [WARNING] The resource https://web.cmp.usercentrics.eu/ui/v/4.24.0/getToastifyStyle.4f0a73d7.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.faceit.com.se/en/players/donk666:0

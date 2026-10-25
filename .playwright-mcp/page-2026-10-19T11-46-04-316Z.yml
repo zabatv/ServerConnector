@@ -1,0 +1,241 @@
+- generic [ref=f13e3]:
+  - navigation [ref=f13e5]:
+    - link [ref=f13e6] [cursor=pointer]:
+      - /url: /
+      - img "Pony Town" [ref=f13e7]
+    - generic [ref=f13e9]:
+      - link "Home" [ref=f13e12] [cursor=pointer]:
+        - /url: /
+      - link "Characters" [ref=f13e15] [cursor=pointer]:
+        - /url: /character
+      - link "Help" [ref=f13e18] [cursor=pointer]:
+        - /url: /help
+      - link "About" [ref=f13e21] [cursor=pointer]:
+        - /url: /about
+      - button "Signed-in as Герман Петров" [ref=f13e24] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f13e25]: Герман Петров
+  - main [ref=f13e30]:
+    - generic [ref=f13e32]:
+      - generic [ref=f13e33]:
+        - heading "Characters" [active] [level=1] [ref=f13e34]
+        - heading "Character selection" [level=2] [ref=f13e35]
+        - generic [ref=f13e36]:
+          - generic [ref=f13e37]: Support us on Patreon!
+          - generic [ref=f13e50]:
+            - generic "Name of your character" [ref=f13e51]:
+              - textbox "Name of your character" [ref=f13e52]: Пудинг
+              - generic "Emojis":
+                - generic [ref=f13e55] [cursor=pointer]:
+                  - img "face"
+            - button "Create new character" [ref=f13e57] [cursor=pointer]: new
+            - button "Select character" [ref=f13e59] [cursor=pointer]
+            - button "Delete pony" [ref=f13e60] [cursor=pointer]
+          - generic [ref=f13e69]:
+            - generic "Preview zoom" [ref=f13e70]:
+              - button "4x" [ref=f13e72] [cursor=pointer]
+            - button "Change background" [ref=f13e73] [cursor=pointer]
+            - button "Toggle name and tag (N)" [ref=f13e77] [cursor=pointer]
+            - button "Turn head" [ref=f13e81] [cursor=pointer]
+            - button "Flip preview" [ref=f13e85] [cursor=pointer]
+            - button "Toggle color palette" [ref=f13e89] [cursor=pointer]
+            - button "Undo edit"
+            - button "Redo edit"
+          - generic [ref=f13e93]:
+            - button "Duplicate" [ref=f13e95] [cursor=pointer]
+            - button "Revert changes" [disabled]: Revert
+            - button "Save character" [ref=f13e96] [cursor=pointer]: Save
+          - generic [ref=f13e97]:
+            - generic [ref=f13e99]:
+              - button [ref=f13e100] [cursor=pointer]:
+                - strong [ref=f13e101]: Play
+                - text: "on Safe Russian #1"
+              - button "select server" [ref=f13e102] [cursor=pointer]
+            - generic [ref=f13e103]:
+              - heading "Server rules" [level=5] [ref=f13e104]
+              - paragraph [ref=f13e105]: No swearing or adult topics are allowed
+          - generic [ref=f13e107]:
+            - heading "General rules" [level=5] [ref=f13e108]
+            - list [ref=f13e109]:
+              - listitem [ref=f13e110]: Be kind to others
+              - listitem [ref=f13e111]: Don't spam
+              - listitem [ref=f13e112]: Don't create more than one account
+              - listitem [ref=f13e113]: Don't use hacks, scripts, macros or autoclickers
+              - listitem [ref=f13e114]: Don't encourage behaviour violating the rules
+              - listitem [ref=f13e115]: Violation of the rules may result in temporary or permanent ban
+            - paragraph [ref=f13e116]:
+              - text: For more details about the rules, see our
+              - link "Help page" [ref=f13e117] [cursor=pointer]:
+                - /url: /help#rules
+              - text: .
+            - separator [ref=f13e118]
+            - heading "Notice" [level=5] [ref=f13e119]
+            - paragraph [ref=f13e120]:
+              - text: This game is a
+              - strong [ref=f13e121]: work in progress
+              - text: . There might be bugs and occasional downtimes.
+      - generic [ref=f13e122]:
+        - heading "Character customization" [level=2] [ref=f13e123]
+        - generic [ref=f13e124]:
+          - button "Undo edit"
+          - button "Redo edit"
+        - generic [ref=f13e125]:
+          - tablist "Character customization" [ref=f13e126]:
+            - tab "body" [ref=f13e127] [cursor=pointer]
+            - tab "mane" [ref=f13e128] [cursor=pointer]
+            - tab "tail" [ref=f13e129] [cursor=pointer]
+            - tab "face" [ref=f13e130] [cursor=pointer]
+            - tab "items" [selected] [ref=f13e131] [cursor=pointer]
+            - tab "extra" [ref=f13e132] [cursor=pointer]
+          - tabpanel "items" [ref=f13e134]:
+            - generic [ref=f13e136]:
+              - tablist "Character accessories" [ref=f13e137]:
+                - tab "head" [selected] [ref=f13e138] [cursor=pointer]
+                - tab "neck" [ref=f13e139] [cursor=pointer]
+                - tab "chest" [ref=f13e140] [cursor=pointer]
+                - tab "back" [ref=f13e141] [cursor=pointer]
+                - tab "legs" [ref=f13e142] [cursor=pointer]
+                - tab "waist" [ref=f13e143] [cursor=pointer]
+              - tabpanel "head" [ref=f13e145]:
+                - generic [ref=f13e146]:
+                  - generic [ref=f13e148]:
+                    - generic [ref=f13e149]: Head accessories
+                    - radiogroup "Select Head accessories" [ref=f13e153]:
+                      - generic [ref=f13e154]:
+                        - radio [checked] [ref=f13e155] [cursor=pointer]
+                        - radio [ref=f13e156] [cursor=pointer]
+                        - radio [ref=f13e157] [cursor=pointer]
+                        - radio [ref=f13e158] [cursor=pointer]
+                        - radio [ref=f13e159] [cursor=pointer]
+                        - radio [ref=f13e160] [cursor=pointer]
+                        - radio [ref=f13e161] [cursor=pointer]
+                        - radio [ref=f13e162] [cursor=pointer]
+                        - radio [ref=f13e163] [cursor=pointer]
+                        - radio [ref=f13e164] [cursor=pointer]
+                        - radio [ref=f13e165] [cursor=pointer]
+                        - radio [ref=f13e166] [cursor=pointer]
+                        - radio [ref=f13e167] [cursor=pointer]
+                        - radio [ref=f13e168] [cursor=pointer]
+                        - radio [ref=f13e169] [cursor=pointer]
+                        - radio [ref=f13e170] [cursor=pointer]
+                        - radio [ref=f13e171] [cursor=pointer]
+                        - radio [ref=f13e172] [cursor=pointer]
+                        - radio [ref=f13e173] [cursor=pointer]
+                        - radio [ref=f13e174] [cursor=pointer]
+                        - radio [ref=f13e175] [cursor=pointer]
+                        - radio [ref=f13e176] [cursor=pointer]
+                        - radio [ref=f13e177] [cursor=pointer]
+                        - radio [ref=f13e178] [cursor=pointer]
+                        - radio [ref=f13e179] [cursor=pointer]
+                        - radio [ref=f13e180] [cursor=pointer]
+                        - radio [ref=f13e181] [cursor=pointer]
+                  - separator [ref=f13e182]
+                  - generic [ref=f13e186] [cursor=pointer]:
+                    - checkbox "Match ear accessories" [checked] [ref=f13e187]
+                    - generic [ref=f13e188]: Match ear accessories
+                  - generic [ref=f13e189]:
+                    - generic [ref=f13e190]:
+                      - generic [ref=f13e191]: Ear accessories
+                      - radiogroup "Select Ear accessories" [ref=f13e195]:
+                        - generic [ref=f13e196]:
+                          - radio [ref=f13e197] [cursor=pointer]
+                          - radio [checked] [ref=f13e198] [cursor=pointer]
+                          - radio [ref=f13e199] [cursor=pointer]
+                          - radio [ref=f13e200] [cursor=pointer]
+                          - radio [ref=f13e201] [cursor=pointer]
+                          - radio [ref=f13e202] [cursor=pointer]
+                          - radio [ref=f13e203] [cursor=pointer]
+                          - radio [ref=f13e204] [cursor=pointer]
+                          - radio [ref=f13e205] [cursor=pointer]
+                          - radio [ref=f13e206] [cursor=pointer]
+                          - radio [ref=f13e207] [cursor=pointer]
+                          - radio [ref=f13e208] [cursor=pointer]
+                          - radio [ref=f13e209] [cursor=pointer]
+                          - radio [ref=f13e210] [cursor=pointer]
+                          - radio [ref=f13e211] [cursor=pointer]
+                          - radio [ref=f13e212] [cursor=pointer]
+                          - radio [ref=f13e213] [cursor=pointer]
+                          - radio [ref=f13e214] [cursor=pointer]
+                          - radio [ref=f13e215] [cursor=pointer]
+                          - radio [ref=f13e216] [cursor=pointer]
+                          - radio [ref=f13e217] [cursor=pointer]
+                          - radio [ref=f13e218] [cursor=pointer]
+                          - radio [ref=f13e219] [cursor=pointer]
+                    - generic [ref=f13e222]:
+                      - generic [ref=f13e223]: Color 1
+                      - generic [ref=f13e229]:
+                        - textbox "Color" [ref=f13e231]: b8e6cf
+                        - button "Pick color" [ref=f13e232] [cursor=pointer]
+                  - separator [ref=f13e236]
+                  - generic [ref=f13e238]:
+                    - generic [ref=f13e239]: Forehead accessories
+                    - radiogroup "Select Forehead accessories" [ref=f13e243]:
+                      - generic [ref=f13e244]:
+                        - radio [checked] [ref=f13e245] [cursor=pointer]
+                        - radio [ref=f13e246] [cursor=pointer]
+                  - separator [ref=f13e247]
+                  - generic [ref=f13e249]:
+                    - generic [ref=f13e250]: Eye accessories
+                    - radiogroup "Select Eye accessories" [ref=f13e254]:
+                      - generic [ref=f13e255]:
+                        - radio [checked] [ref=f13e256] [cursor=pointer]
+                        - radio [ref=f13e257] [cursor=pointer]
+                        - radio [ref=f13e258] [cursor=pointer]
+                        - radio [ref=f13e259] [cursor=pointer]
+                        - radio [ref=f13e260] [cursor=pointer]
+                        - radio [ref=f13e261] [cursor=pointer]
+                        - radio [ref=f13e262] [cursor=pointer]
+                        - radio [ref=f13e263] [cursor=pointer]
+                        - radio [ref=f13e264] [cursor=pointer]
+                        - radio [ref=f13e265] [cursor=pointer]
+                        - radio [ref=f13e266] [cursor=pointer]
+                        - radio [ref=f13e267] [cursor=pointer]
+                        - radio [ref=f13e268] [cursor=pointer]
+                        - radio [ref=f13e269] [cursor=pointer]
+                  - separator [ref=f13e270]
+                  - generic [ref=f13e274] [cursor=pointer]:
+                    - checkbox "Pull down mask" [ref=f13e275]
+                    - generic [ref=f13e276]: Pull down mask
+                  - generic [ref=f13e282]:
+                    - generic [ref=f13e283]: Mouth accessories
+                    - radiogroup "Select Mouth accessories" [ref=f13e287]:
+                      - generic [ref=f13e288]:
+                        - radio [checked] [ref=f13e289] [cursor=pointer]
+                        - radio [ref=f13e290] [cursor=pointer]
+                        - radio [ref=f13e291] [cursor=pointer]
+                        - radio [ref=f13e292] [cursor=pointer]
+                        - radio [ref=f13e293] [cursor=pointer]
+                        - radio [ref=f13e294] [cursor=pointer]
+                        - radio [ref=f13e295] [cursor=pointer]
+  - contentinfo [ref=f13e296]:
+    - generic [ref=f13e297]:
+      - text: version 0.129.5-alpha
+      - generic [ref=f13e298]: changelog
+    - generic [ref=f13e299]:
+      - generic [ref=f13e300]:
+        - generic [ref=f13e301]:
+          - text: © 2016-2026
+          - link "Pony Town" [ref=f13e302] [cursor=pointer]:
+            - /url: https://twitter.com/ponytownteam
+          - text: "|"
+        - generic [ref=f13e303]:
+          - link "Patreon support page" [ref=f13e304] [cursor=pointer]:
+            - /url: https://patreon.com/ponytownteam
+          - link "Boosty support page" [ref=f13e308] [cursor=pointer]:
+            - /url: https://boosty.to/ponytown/about?utm_source=pony.town.site
+          - link "Google Play Store" [ref=f13e312] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=town.pony.game
+          - link "Official Twitter account" [ref=f13e316] [cursor=pointer]:
+            - /url: https://twitter.com/ponytownteam
+          - link "Russian Telegram channel" [ref=f13e320] [cursor=pointer]:
+            - /url: https://t.me/ponytown_ofc
+          - link "Official VKontakte page" [ref=f13e324] [cursor=pointer]:
+            - /url: https://vk.com/ponytown
+          - link "Game support email" [ref=f13e328] [cursor=pointer]:
+            - /url: mailto:ponytownhelp@gmail.com
+      - generic [ref=f13e332]:
+        - text: jobs|
+        - link "privacy policy" [ref=f13e333] [cursor=pointer]:
+          - /url: /privacypolicy.html
+        - text: "|"
+        - link "terms of service" [ref=f13e334] [cursor=pointer]:
+          - /url: /termsofservice.html

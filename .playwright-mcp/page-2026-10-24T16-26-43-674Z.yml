@@ -1,0 +1,76 @@
+- generic [ref=f3e2]:
+  - banner [ref=f3e3]:
+    - generic [ref=f3e10]:
+      - img "brand logo" [ref=f3e12]
+      - text:     
+  - main [ref=f3e13]:
+    - generic [ref=f3e16]:
+      - generic [ref=f3e18]:
+        - generic [ref=f3e21]:
+          - generic [ref=f3e422]:
+            - generic [ref=f3e426]:
+              - generic [ref=f3e427]: ОУП.13.В Основы безопасности и защиты Родины. 1 курс 2 семестр. Тема 11.4. Беспилотные системы и радиосвязь
+              - generic [ref=f3e428]: 1 Первая тема
+            - generic [ref=f3e430]:
+              - generic [ref=f3e431]: "Вопрос 8. На платформе метро безопасно:"
+              - generic [ref=f3e434]:
+                - generic [ref=f3e435]: D Соблюдать линию безопасности и слушать объявления
+                - generic [ref=f3e439] [cursor=pointer]:
+                  - text: B
+                  - generic [ref=f3e440]: B Переходить пути при отсутствии поезда
+                - generic [ref=f3e442] [cursor=pointer]:
+                  - text: C
+                  - generic [ref=f3e443]: C Бегать по платформе и толкаться
+                - generic [ref=f3e445] [cursor=pointer]:
+                  - text: D
+                  - generic [ref=f3e446]: A Стоять максимально близко к краю для удобного входа
+          - generic [ref=f3e84]:
+            - button " Назад" [ref=f3e201] [cursor=pointer]:
+              - generic [ref=f3e202]: 
+              - text: Назад
+            - generic [ref=f3e85]:
+              - text: 
+              - button "Ответить " [ref=f3e170] [cursor=pointer]:
+                - text: Ответить
+                - generic [ref=f3e171]: 
+        - generic [ref=f3e88]:
+          - generic [ref=f3e89]: 01:21:38
+          - generic [ref=f3e98]:
+            - generic [ref=f3e100]:
+              - generic [ref=f3e101]: Пройдено
+              - generic [ref=f3e102]: ":"
+              - generic [ref=f3e103]: 50%
+            - generic [ref=f3e105]:
+              - generic [ref=f3e106]:
+                - generic [ref=f3e107]: Все страницы
+                - generic [ref=f3e108] [cursor=pointer]
+              - generic [ref=f3e112]:
+                - generic [ref=f3e114]:
+                  - generic [ref=f3e115] [cursor=pointer]: "1"
+                  - generic [ref=f3e118] [cursor=pointer]: "2"
+                  - generic [ref=f3e120] [cursor=pointer]: "3"
+                  - generic [ref=f3e122] [cursor=pointer]: "4"
+                  - generic [ref=f3e124] [cursor=pointer]: "5"
+                  - generic [ref=f3e126] [cursor=pointer]: "6"
+                  - generic [ref=f3e128] [cursor=pointer]: "7"
+                  - generic [ref=f3e130] [cursor=pointer]: "8"
+                  - generic [ref=f3e132] [cursor=pointer]: "9"
+                  - generic [ref=f3e134] [cursor=pointer]: "10"
+                  - generic [ref=f3e136] [cursor=pointer]:
+                    - generic [ref=f3e137]: "11"
+                    - generic [ref=f3e447]: Вы здесь
+                  - generic [ref=f3e138] [cursor=pointer]: "12"
+                  - generic [ref=f3e140] [cursor=pointer]: "13"
+                  - generic [ref=f3e142] [cursor=pointer]: "14"
+                  - generic [ref=f3e144] [cursor=pointer]: "15"
+                  - generic [ref=f3e146] [cursor=pointer]: "16"
+                  - generic [ref=f3e148] [cursor=pointer]: "17"
+                  - generic [ref=f3e150] [cursor=pointer]: "18"
+                  - generic [ref=f3e152] [cursor=pointer]: "19"
+                  - generic [ref=f3e154] [cursor=pointer]: "20"
+                - generic [ref=f3e156]:
+                  - generic [ref=f3e157] [cursor=pointer]: 
+                  - generic [ref=f3e159]: 11-20
+                  - generic [ref=f3e162]: 
+      - generic [ref=f3e164]: © 2026 StartExam Platform
+  - contentinfo

@@ -1,0 +1,11 @@
+- generic [ref=e4]:
+  - img "Faceit Logo" [ref=e5]
+  - generic [ref=e6]:
+    - paragraph [ref=e7]: FACEIT Teams приглашает вас присоединиться
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: ExtraSeason
+      - paragraph [ref=e12] [cursor=pointer]: получить приглашение
+    - generic [ref=e13] [cursor=pointer]:
+      - checkbox "Подтверждая участие, я соглашаюсь с условиями FACEIT Teams и правилами FACEIT" [ref=e15]
+      - generic [ref=e19]: Подтверждая участие, я соглашаюсь с условиями FACEIT Teams и правилами FACEIT
+    - button "Подтвердить" [disabled] [ref=e20]

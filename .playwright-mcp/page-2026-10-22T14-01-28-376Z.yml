@@ -1,0 +1,54 @@
+- generic [active] [ref=f369e1]:
+  - banner [ref=f369e2]:
+    - link "Rostrum" [ref=f369e3] [cursor=pointer]:
+      - /url: /
+    - navigation [ref=f369e5]:
+      - link "Панель" [ref=f369e6] [cursor=pointer]:
+        - /url: /admin
+      - link "Claim" [ref=f369e7] [cursor=pointer]:
+        - /url: /admin/claim
+      - button "Выйти" [ref=f369e9] [cursor=pointer]
+  - main [ref=f369e10]:
+    - generic [ref=f369e11]:
+      - paragraph [ref=f369e12]: НАСТРОЙКА
+      - generic [ref=f369e13]:
+        - generic [ref=f369e14]:
+          - generic [ref=f369e15]: МОЙ ПРОФИЛЬ (A · ник на FACEIT)
+          - combobox "МОЙ ПРОФИЛЬ (A · ник на FACEIT)" [ref=f369e16]
+        - generic [ref=f369e17]:
+          - generic [ref=f369e18]: ПРОФИЛЬ (B · второй ник, необязательно)
+          - combobox "ПРОФИЛЬ (B · второй ник, необязательно)" [ref=f369e19]
+        - generic [ref=f369e20]:
+          - generic [ref=f369e21]: DISPLAY NICKNAME (C · ПЕЧАТАЕТСЯ В ПРОФИЛЕ)
+          - textbox "DISPLAY NICKNAME (C · ПЕЧАТАЕТСЯ В ПРОФИЛЕ)" [ref=f369e22]:
+            - /placeholder: пусто = подтверждённый алиас
+          - generic [ref=f369e23]: пусто — печатается реальный ник; алиас берётся из claim, если он есть
+        - generic [ref=f369e24]:
+          - generic [ref=f369e25]:
+            - generic [ref=f369e26]: РОЛЬ
+            - combobox "РОЛЬ" [ref=f369e27]:
+              - option "— нет —" [selected]
+              - option "ДРУГ"
+              - option "СОПЕРНИК"
+              - option "СОКОМАНДНИК"
+              - option "КАСТЕР"
+          - generic [ref=f369e28]:
+            - generic [ref=f369e29]: МЕТКА
+            - textbox "МЕТКА" [ref=f369e30]:
+              - /placeholder: Autumn Cup
+        - generic [ref=f369e31]:
+          - generic [ref=f369e32]: НАЗНАЧЕНИЕ
+          - combobox "НАЗНАЧЕНИЕ" [ref=f369e33]:
+            - option "внутренняя страница" [selected]
+            - option "разрешённый внешний сайт"
+        - generic [ref=f369e34]:
+          - generic [ref=f369e35]: REDIRECT URL (КНОПКА ADD FRIEND)
+          - textbox "REDIRECT URL (КНОПКА ADD FRIEND)" [disabled] [ref=f369e36]:
+            - /placeholder: https://cup.example/bracket
+          - generic [ref=f369e37]: Любой корректный http(s)-адрес. Схемы кроме http/https отклоняются.
+        - paragraph [ref=f369e38]:
+          - text: ссылка вида
+          - code [ref=f369e39]: /p/xxxxxxxxxx
+          - text: · → внутренняя страница
+        - button "ЗАПУСТИТЬ" [ref=f369e40] [cursor=pointer]
+    - paragraph

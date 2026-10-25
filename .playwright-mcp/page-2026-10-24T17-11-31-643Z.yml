@@ -1,0 +1,80 @@
+- generic [ref=f20e2]:
+  - banner [ref=f20e3]:
+    - generic [ref=f20e19]:
+      - img "brand logo" [ref=f20e21]
+      - text:     
+  - main [ref=f20e22]:
+    - generic [ref=f20e25]:
+      - generic [ref=f20e27]:
+        - generic [ref=f20e30]:
+          - generic [ref=f20e171]:
+            - generic [ref=f20e175]:
+              - generic [ref=f20e176]: ОУП.06.В Физика. Тема 7.2 Эволюция Вселенной. 1 курс 2 семестр.
+              - generic [ref=f20e177]: 1 Первая тема
+            - generic [ref=f20e179]:
+              - generic [ref=f20e180]: Вопрос 10. Выберите верные утверждения о трансформаторе.
+              - generic [ref=f20e183]:
+                - generic [ref=f20e185] [cursor=pointer]:
+                  - text: A
+                  - generic [ref=f20e186]: Г Трансформатор эффективно работает на постоянном токе без специальных схем
+                - generic [ref=f20e188] [cursor=pointer]:
+                  - text: B
+                  - generic [ref=f20e189]: Б В идеальном трансформаторе отношение напряжений равно отношению числа витков
+                  - text: ✓
+                - generic [ref=f20e191] [cursor=pointer]:
+                  - text: C
+                  - generic [ref=f20e192]: А Трансформатор работает на переменном токе
+                  - text: ✓
+                - generic [ref=f20e194] [cursor=pointer]:
+                  - text: D
+                  - generic [ref=f20e195]: В В идеальном трансформаторе мощность на входе равна мощности на выходе
+          - generic [ref=f20e57]:
+            - button " Назад" [ref=f20e167] [cursor=pointer]:
+              - generic [ref=f20e168]: 
+              - text: Назад
+            - generic [ref=f20e58]:
+              - text: 
+              - button "Ответить " [ref=f20e140] [cursor=pointer]:
+                - text: Ответить
+                - generic [ref=f20e141]: 
+        - generic [ref=f20e61]:
+          - generic [ref=f20e62]: 01:26:41
+          - generic [ref=f20e72]:
+            - generic [ref=f20e74]:
+              - generic [ref=f20e75]: Пройдено
+              - generic [ref=f20e76]: ":"
+              - generic [ref=f20e77]: 10%
+            - generic [ref=f20e79]:
+              - generic [ref=f20e80]:
+                - generic [ref=f20e81]: Все страницы
+                - generic [ref=f20e82] [cursor=pointer]
+              - generic [ref=f20e86]:
+                - generic [ref=f20e88]:
+                  - generic [ref=f20e89] [cursor=pointer]: "1"
+                  - generic [ref=f20e92] [cursor=pointer]: "2"
+                  - generic [ref=f20e94] [cursor=pointer]:
+                    - generic [ref=f20e95]: "3"
+                    - generic [ref=f20e196]: Вы здесь
+                  - generic [ref=f20e96] [cursor=pointer]: "4"
+                  - generic [ref=f20e98] [cursor=pointer]: "5"
+                  - generic [ref=f20e100] [cursor=pointer]: "6"
+                  - generic [ref=f20e102] [cursor=pointer]: "7"
+                  - generic [ref=f20e104] [cursor=pointer]: "8"
+                  - generic [ref=f20e106] [cursor=pointer]: "9"
+                  - generic [ref=f20e108] [cursor=pointer]: "10"
+                  - generic [ref=f20e110] [cursor=pointer]: "11"
+                  - generic [ref=f20e112] [cursor=pointer]: "12"
+                  - generic [ref=f20e114] [cursor=pointer]: "13"
+                  - generic [ref=f20e116] [cursor=pointer]: "14"
+                  - generic [ref=f20e118] [cursor=pointer]: "15"
+                  - generic [ref=f20e120] [cursor=pointer]: "16"
+                  - generic [ref=f20e122] [cursor=pointer]: "17"
+                  - generic [ref=f20e124] [cursor=pointer]: "18"
+                  - generic [ref=f20e126] [cursor=pointer]: "19"
+                  - generic [ref=f20e128] [cursor=pointer]: "20"
+                - generic [ref=f20e130]:
+                  - generic [ref=f20e131]: 
+                  - generic [ref=f20e133]: 1-10
+                  - generic [ref=f20e136] [cursor=pointer]: 
+      - generic [ref=f20e138]: © 2026 StartExam Platform
+  - contentinfo

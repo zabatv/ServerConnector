@@ -1,0 +1,850 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e4]:
+    - generic [ref=f1e7]:
+      - link "Home" [ref=f1e10] [cursor=pointer]:
+        - /url: "#"
+      - generic "Search" [ref=f1e18] [cursor=pointer]
+      - generic "CS2" [ref=f1e28] [cursor=pointer]:
+        - generic [ref=f1e29]:
+          - img "avatar" [ref=f1e32]
+          - generic [ref=f1e33]: CS2
+      - generic [ref=f1e34]:
+        - link "Party Finder" [ref=f1e36] [cursor=pointer]:
+          - /url: "#"
+          - generic "Party Finder" [ref=f1e38]
+        - link "Play" [ref=f1e51] [cursor=pointer]:
+          - /url: "#"
+          - generic "Play" [ref=f1e53]
+        - link "Rank" [ref=f1e61] [cursor=pointer]:
+          - /url: "#"
+          - generic "Rank" [ref=f1e63]
+        - link "Track" [ref=f1e73] [cursor=pointer]:
+          - /url: "#"
+          - generic "Track" [ref=f1e75]
+        - link "Feed" [ref=f1e84] [cursor=pointer]:
+          - /url: "#"
+          - generic "Feed" [ref=f1e86]
+        - separator [ref=f1e94]
+        - link "Clubs" [ref=f1e96] [cursor=pointer]:
+          - /url: "#"
+          - generic "Clubs" [ref=f1e98]
+        - link "Create a Club" [ref=f1e106] [cursor=pointer]:
+          - /url: "#"
+          - generic "Create a Club" [ref=f1e108]
+      - generic [ref=f1e115]:
+        - link "Missions" [ref=f1e117] [cursor=pointer]:
+          - /url: "#"
+          - generic "Missions" [ref=f1e119]
+        - link "Shop" [ref=f1e127] [cursor=pointer]:
+          - /url: "#"
+          - generic "Shop" [ref=f1e129]
+        - link "Upgrade" [ref=f1e138] [cursor=pointer]:
+          - /url: "#"
+          - generic "Upgrade" [ref=f1e140]
+    - generic [ref=f1e151]:
+      - complementary [ref=f1e152]:
+        - generic [ref=f1e153]:
+          - generic [ref=f1e154]:
+            - generic [ref=f1e156]:
+              - img [ref=f1e160] [cursor=pointer]
+              - img "avatar" [ref=f1e174]
+            - heading "huilo" [level=1] [ref=f1e176]
+          - button "ADD FRIEND" [ref=f1e178] [cursor=pointer]
+        - generic [ref=f1e179]:
+          - generic [ref=f1e181]:
+            - generic [ref=f1e182]: Gift A Sub
+            - generic [ref=f1e186] [cursor=pointer]: Gift Sub
+          - generic [ref=f1e187]:
+            - generic [ref=f1e188]: Member since Jun 10, 2020
+            - generic [ref=f1e189]: We don't know anything about w0nderful
+            - generic [ref=f1e190]:
+              - img "ua" [ref=f1e192]
+              - generic [ref=f1e193]: Ukraine
+            - link [ref=f1e197] [cursor=pointer]:
+              - /url: "#"
+          - generic [ref=f1e202]:
+            - generic [ref=f1e203]: Game history
+            - generic [ref=f1e204]:
+              - generic [ref=f1e205] [cursor=pointer]:
+                - generic [ref=f1e206]: C
+                - generic [ref=f1e208]:
+                  - generic [ref=f1e209]: CS2
+                  - generic [ref=f1e210]: 1,459 matches
+              - generic [ref=f1e214]:
+                - generic [ref=f1e215]: C
+                - generic [ref=f1e217]:
+                  - generic [ref=f1e218]: CS:GO
+                  - generic [ref=f1e219]: — matches
+          - generic [ref=f1e220]:
+            - generic [ref=f1e221]:
+              - generic [ref=f1e222]:
+                - generic [ref=f1e223]: Recent Activity
+                - generic [ref=f1e224]: Last 90 days
+              - generic [ref=f1e225]:
+                - generic [ref=f1e226]:
+                  - generic [ref=f1e227]: Jul
+                  - generic [ref=f1e228]: Aug
+                  - generic [ref=f1e229]: Sep
+                  - generic [ref=f1e230]: Oct
+                - generic [ref=f1e232]:
+                  - generic [ref=f1e233]: Mon
+                  - generic [ref=f1e234]: Tue
+                  - generic [ref=f1e235]: Wed
+                  - generic [ref=f1e236]: Thu
+                  - generic [ref=f1e237]: Fri
+                  - generic [ref=f1e238]: Sat
+                  - generic [ref=f1e239]: Sun
+              - generic [ref=f1e332]:
+                - generic [ref=f1e333]: 93 Matches Played
+                - generic [ref=f1e334]:
+                  - generic [ref=f1e335]: 1 match
+                  - generic [ref=f1e340]: +5 matches
+            - generic [ref=f1e341]:
+              - generic [ref=f1e342]: Guestbook (0)
+              - generic [ref=f1e344]:
+                - generic [ref=f1e345]:
+                  - heading "The guestbook is empty" [level=5] [ref=f1e350]
+                  - generic [ref=f1e351]: No posts yet
+                - list
+      - generic [ref=f1e352]:
+        - generic [ref=f1e354]:
+          - link "Games" [ref=f1e356] [cursor=pointer]:
+            - /url: "#"
+          - link "Friends" [ref=f1e362] [cursor=pointer]:
+            - /url: "#"
+          - link "Videos" [ref=f1e368] [cursor=pointer]:
+            - /url: "#"
+          - link "Guestbook" [ref=f1e374] [cursor=pointer]:
+            - /url: "#"
+          - link "Inventory" [ref=f1e380] [cursor=pointer]:
+            - /url: "#"
+          - link "Clubs" [ref=f1e386] [cursor=pointer]:
+            - /url: "#"
+          - link "Teams" [ref=f1e392] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f1e397]:
+          - generic [ref=f1e398]:
+            - generic [ref=f1e401] [cursor=pointer]:
+              - generic [ref=f1e402]: C
+              - generic [ref=f1e404]: CS2
+            - generic [ref=f1e410]:
+              - link "Summary" [ref=f1e412] [cursor=pointer]:
+                - /url: "#"
+              - link "Match history" [ref=f1e417] [cursor=pointer]:
+                - /url: "#"
+              - link "Matchmaking" [ref=f1e422] [cursor=pointer]:
+                - /url: "#"
+              - link "Leagues" [ref=f1e427] [cursor=pointer]:
+                - /url: "#"
+              - link "Tournaments" [ref=f1e432] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f1e436]:
+            - generic [ref=f1e437]:
+              - generic [ref=f1e438]:
+                - generic [ref=f1e439]:
+                  - generic [ref=f1e444]:
+                    - generic [ref=f1e445]: Season 9
+                    - generic [ref=f1e446]: Matchmaking
+                  - link "Season 9 stats" [ref=f1e447] [cursor=pointer]:
+                    - /url: "#"
+                - generic [ref=f1e452]:
+                  - generic [ref=f1e453]:
+                    - img "Skill level 10" [ref=f1e454]
+                    - generic "Challenger rank" [ref=f1e459]: "#245"
+                    - generic [ref=f1e462]: 3,846
+                  - generic [ref=f1e463]:
+                    - generic [ref=f1e464]:
+                      - generic [ref=f1e465]:
+                        - img "ua" [ref=f1e467]
+                        - generic [ref=f1e468]: "21"
+                      - generic [ref=f1e469]:
+                        - img "EU" [ref=f1e470]:
+                          - img "EU" [ref=f1e471]
+                        - generic [ref=f1e475]: "245"
+                    - generic [ref=f1e476]:
+                      - generic [ref=f1e477]:
+                        - generic [ref=f1e478]: "71"
+                        - generic [ref=f1e479]: Matches
+                        - generic [aria-hidden] [ref=f1e480]: •
+                      - generic [ref=f1e481]:
+                        - generic [ref=f1e482]: 66.2%
+                        - generic [ref=f1e483]: Win rate
+              - generic [ref=f1e484]:
+                - generic [ref=f1e485]:
+                  - generic [ref=f1e486]: Recent performance
+                  - generic [ref=f1e487]:
+                    - generic [ref=f1e488]: Last 30 Matches
+                    - generic [ref=f1e489]: •
+                    - generic [ref=f1e490] [cursor=pointer]:
+                      - img "Skill level 10" [ref=f1e491]
+                      - generic [ref=f1e496]: 3,386 Avg skill level of Match
+                - generic [ref=f1e500]:
+                  - generic [ref=f1e501]:
+                    - generic [ref=f1e502]: Elo change
+                    - generic [ref=f1e503]: "+337"
+                  - generic [ref=f1e504]:
+                    - generic [ref=f1e505]:
+                      - generic [ref=f1e506]: W
+                      - generic [ref=f1e508]: "22"
+                    - generic [ref=f1e509]: /
+                    - generic [ref=f1e510]:
+                      - generic [ref=f1e511]: L
+                      - generic [ref=f1e513]: "8"
+                - img "Elo progression" [ref=f1e517] [cursor=pointer]
+                - generic [ref=f1e523]:
+                  - generic [ref=f1e525]:
+                    - generic [ref=f1e526]:
+                      - generic [ref=f1e527]: "1.38"
+                      - img "FACEIT Rating" [ref=f1e550]
+                    - generic [ref=f1e554]:
+                      - generic [ref=f1e555]:
+                        - generic [ref=f1e556]: Swing
+                        - generic [ref=f1e557]: +4.41%
+                      - generic [ref=f1e559]:
+                        - generic [ref=f1e560]: Consistency
+                        - generic [ref=f1e561]: 45%
+                  - generic [ref=f1e563]:
+                    - generic [ref=f1e564]:
+                      - generic [ref=f1e565]: 22 / 14 / 4
+                      - generic [ref=f1e566]: K/D/A
+                    - generic [ref=f1e567]:
+                      - generic [ref=f1e568]: "1.55"
+                      - generic [ref=f1e569]: K/D
+                    - generic [ref=f1e570]:
+                      - generic [ref=f1e571]: "1.05"
+                      - generic [ref=f1e572]: K/R
+                    - generic [ref=f1e573]:
+                      - generic [ref=f1e574]: 43%
+                      - generic [ref=f1e575]: HS%
+                    - generic [ref=f1e576]:
+                      - generic [ref=f1e577]: "105.0"
+                      - generic [ref=f1e578]: ADR
+                    - generic [ref=f1e579]:
+                      - generic [ref=f1e580]: 73%
+                      - generic [ref=f1e581]: Win rate
+            - generic [ref=f1e582]:
+              - generic [ref=f1e583]:
+                - generic [ref=f1e584]: Recent matches
+                - link "Full match history" [ref=f1e587] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e591]:
+                - generic [ref=f1e593]:
+                  - generic [ref=f1e594]: Date
+                  - generic [ref=f1e595]: Score
+                  - generic [ref=f1e597]: Rating
+                  - generic [ref=f1e611]: K/D/A
+                  - generic [ref=f1e612]: Map
+                - generic [ref=f1e613]:
+                  - 'link "Sun 27 Sep 22:47 W 13 : 5 Skill level 10 3,846 30 2.30 31 / 8 / 4 Mirage Mirage" [ref=f1e614] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e616]:
+                      - generic [ref=f1e617]: Sun 27 Sep
+                      - generic [ref=f1e618]: 22:47
+                    - generic [ref=f1e620]:
+                      - generic [ref=f1e621]: W
+                      - generic [ref=f1e622]:
+                        - generic [ref=f1e623]: "13"
+                        - generic [ref=f1e624]: ":"
+                        - generic [ref=f1e625]: "5"
+                    - generic [ref=f1e633]:
+                      - img "Skill level 10" [ref=f1e634]
+                      - generic [ref=f1e639]:
+                        - generic [ref=f1e640]: 3,846
+                        - generic [ref=f1e641]: "30"
+                    - generic [ref=f1e648]: "2.30"
+                    - generic [ref=f1e656]: 31 / 8 / 4
+                    - generic [ref=f1e658]:
+                      - img "Mirage" [ref=f1e659]
+                      - generic [ref=f1e660]: Mirage
+                  - 'link "Sat 26 Sep 18:26 L 5 : 13 Skill level 10 3,819 30 1.12 16 / 15 / 4 Nuke Nuke" [ref=f1e662] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e664]:
+                      - generic [ref=f1e665]: Sat 26 Sep
+                      - generic [ref=f1e666]: 18:26
+                    - generic [ref=f1e668]:
+                      - generic [ref=f1e669]: L
+                      - generic [ref=f1e670]:
+                        - generic [ref=f1e671]: "5"
+                        - generic [ref=f1e672]: ":"
+                        - generic [ref=f1e673]: "13"
+                    - generic [ref=f1e681]:
+                      - img "Skill level 10" [ref=f1e682]
+                      - generic [ref=f1e687]:
+                        - generic [ref=f1e688]: 3,819
+                        - generic [ref=f1e689]: "30"
+                    - generic [ref=f1e696]: "1.12"
+                    - generic [ref=f1e704]: 16 / 15 / 4
+                    - generic [ref=f1e706]:
+                      - img "Nuke" [ref=f1e707]
+                      - generic [ref=f1e708]: Nuke
+                  - 'link "Sat 26 Sep 17:55 W 13 : 3 Skill level 10 3,849 30 1.79 25 / 8 / 2 Mirage Mirage" [ref=f1e710] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e712]:
+                      - generic [ref=f1e713]: Sat 26 Sep
+                      - generic [ref=f1e714]: 17:55
+                    - generic [ref=f1e716]:
+                      - generic [ref=f1e717]: W
+                      - generic [ref=f1e718]:
+                        - generic [ref=f1e719]: "13"
+                        - generic [ref=f1e720]: ":"
+                        - generic [ref=f1e721]: "3"
+                    - generic [ref=f1e729]:
+                      - img "Skill level 10" [ref=f1e730]
+                      - generic [ref=f1e735]:
+                        - generic [ref=f1e736]: 3,849
+                        - generic [ref=f1e737]: "30"
+                    - generic [ref=f1e744]: "1.79"
+                    - generic [ref=f1e752]: 25 / 8 / 2
+                    - generic [ref=f1e754]:
+                      - img "Mirage" [ref=f1e755]
+                      - generic [ref=f1e756]: Mirage
+                  - 'link "Sat 26 Sep 00:46 W 25 : 21 Skill level 10 3,823 30 1.37 49 / 32 / 8 Mirage Mirage" [ref=f1e758] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e760]:
+                      - generic [ref=f1e761]: Sat 26 Sep
+                      - generic [ref=f1e762]: 00:46
+                    - generic [ref=f1e764]:
+                      - generic [ref=f1e765]: W
+                      - generic [ref=f1e766]:
+                        - generic [ref=f1e767]: "25"
+                        - generic [ref=f1e768]: ":"
+                        - generic [ref=f1e769]: "21"
+                    - generic [ref=f1e777]:
+                      - img "Skill level 10" [ref=f1e778]
+                      - generic [ref=f1e783]:
+                        - generic [ref=f1e784]: 3,823
+                        - generic [ref=f1e785]: "30"
+                    - generic [ref=f1e792]: "1.37"
+                    - generic [ref=f1e800]: 49 / 32 / 8
+                    - generic [ref=f1e802]:
+                      - img "Mirage" [ref=f1e803]
+                      - generic [ref=f1e804]: Mirage
+                  - 'link "Fri 25 Sep 23:16 L 11 : 13 Skill level 10 3,794 30 1.55 25 / 18 / 2 Nuke Nuke" [ref=f1e806] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e808]:
+                      - generic [ref=f1e809]: Fri 25 Sep
+                      - generic [ref=f1e810]: 23:16
+                    - generic [ref=f1e812]:
+                      - generic [ref=f1e813]: L
+                      - generic [ref=f1e814]:
+                        - generic [ref=f1e815]: "11"
+                        - generic [ref=f1e816]: ":"
+                        - generic [ref=f1e817]: "13"
+                    - generic [ref=f1e825]:
+                      - img "Skill level 10" [ref=f1e826]
+                      - generic [ref=f1e831]:
+                        - generic [ref=f1e832]: 3,794
+                        - generic [ref=f1e833]: "30"
+                    - generic [ref=f1e840]: "1.55"
+                    - generic [ref=f1e848]: 25 / 18 / 2
+                    - generic [ref=f1e850]:
+                      - img "Nuke" [ref=f1e851]
+                      - generic [ref=f1e852]: Nuke
+                  - 'link "Fri 25 Sep 22:33 W 13 : 11 Skill level 10 3,825 30 1.48 23 / 17 / 4 Anubis" [ref=f1e854] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e856]:
+                      - generic [ref=f1e857]: Fri 25 Sep
+                      - generic [ref=f1e858]: 22:33
+                    - generic [ref=f1e860]:
+                      - generic [ref=f1e861]: W
+                      - generic [ref=f1e862]:
+                        - generic [ref=f1e863]: "13"
+                        - generic [ref=f1e864]: ":"
+                        - generic [ref=f1e865]: "11"
+                    - generic [ref=f1e873]:
+                      - img "Skill level 10" [ref=f1e874]
+                      - generic [ref=f1e879]:
+                        - generic [ref=f1e880]: 3,825
+                        - generic [ref=f1e881]: "30"
+                    - generic [ref=f1e888]: "1.48"
+                    - generic [ref=f1e896]: 23 / 17 / 4
+                    - generic [ref=f1e897]: Anubis
+                  - 'link "Thu 24 Sep 22:18 W 13 : 5 Skill level 10 3,795 30 1.68 24 / 8 / 1 Anubis" [ref=f1e901] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e903]:
+                      - generic [ref=f1e904]: Thu 24 Sep
+                      - generic [ref=f1e905]: 22:18
+                    - generic [ref=f1e907]:
+                      - generic [ref=f1e908]: W
+                      - generic [ref=f1e909]:
+                        - generic [ref=f1e910]: "13"
+                        - generic [ref=f1e911]: ":"
+                        - generic [ref=f1e912]: "5"
+                    - generic [ref=f1e920]:
+                      - img "Skill level 10" [ref=f1e921]
+                      - generic [ref=f1e926]:
+                        - generic [ref=f1e927]: 3,795
+                        - generic [ref=f1e928]: "30"
+                    - generic [ref=f1e935]: "1.68"
+                    - generic [ref=f1e943]: 24 / 8 / 1
+                    - generic [ref=f1e944]: Anubis
+                  - 'link "Thu 24 Sep 21:40 W 13 : 7 Skill level 10 3,765 30 1.57 27 / 8 / 1 Mirage Mirage" [ref=f1e948] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e950]:
+                      - generic [ref=f1e951]: Thu 24 Sep
+                      - generic [ref=f1e952]: 21:40
+                    - generic [ref=f1e954]:
+                      - generic [ref=f1e955]: W
+                      - generic [ref=f1e956]:
+                        - generic [ref=f1e957]: "13"
+                        - generic [ref=f1e958]: ":"
+                        - generic [ref=f1e959]: "7"
+                    - generic [ref=f1e967]:
+                      - img "Skill level 10" [ref=f1e968]
+                      - generic [ref=f1e973]:
+                        - generic [ref=f1e974]: 3,765
+                        - generic [ref=f1e975]: "30"
+                    - generic [ref=f1e982]: "1.57"
+                    - generic [ref=f1e990]: 27 / 8 / 1
+                    - generic [ref=f1e992]:
+                      - img "Mirage" [ref=f1e993]
+                      - generic [ref=f1e994]: Mirage
+                  - 'link "Thu 24 Sep 21:02 W 13 : 9 Skill level 10 3,734 30 1.81 30 / 12 / 5 Cache" [ref=f1e996] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e998]:
+                      - generic [ref=f1e999]: Thu 24 Sep
+                      - generic [ref=f1e1000]: 21:02
+                    - generic [ref=f1e1002]:
+                      - generic [ref=f1e1003]: W
+                      - generic [ref=f1e1004]:
+                        - generic [ref=f1e1005]: "13"
+                        - generic [ref=f1e1006]: ":"
+                        - generic [ref=f1e1007]: "9"
+                    - generic [ref=f1e1015]:
+                      - img "Skill level 10" [ref=f1e1016]
+                      - generic [ref=f1e1021]:
+                        - generic [ref=f1e1022]: 3,734
+                        - generic [ref=f1e1023]: "30"
+                    - generic [ref=f1e1030]: "1.81"
+                    - generic [ref=f1e1038]: 30 / 12 / 5
+                    - generic [ref=f1e1039]: Cache
+                  - 'link "Thu 24 Sep 00:27 W 13 : 10 Skill level 10 3,708 30 1.12 20 / 16 / 5 Mirage Mirage" [ref=f1e1043] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1045]:
+                      - generic [ref=f1e1046]: Thu 24 Sep
+                      - generic [ref=f1e1047]: 00:27
+                    - generic [ref=f1e1049]:
+                      - generic [ref=f1e1050]: W
+                      - generic [ref=f1e1051]:
+                        - generic [ref=f1e1052]: "13"
+                        - generic [ref=f1e1053]: ":"
+                        - generic [ref=f1e1054]: "10"
+                    - generic [ref=f1e1062]:
+                      - img "Skill level 10" [ref=f1e1063]
+                      - generic [ref=f1e1068]:
+                        - generic [ref=f1e1069]: 3,708
+                        - generic [ref=f1e1070]: "30"
+                    - generic [ref=f1e1077]: "1.12"
+                    - generic [ref=f1e1085]: 20 / 16 / 5
+                    - generic [ref=f1e1087]:
+                      - img "Mirage" [ref=f1e1088]
+                      - generic [ref=f1e1089]: Mirage
+                  - 'link "Tue 22 Sep 01:03 L 5 : 13 Skill level 10 3,679 30 0.80 11 / 16 / 2 Nuke Nuke" [ref=f1e1091] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1093]:
+                      - generic [ref=f1e1094]: Tue 22 Sep
+                      - generic [ref=f1e1095]: 01:03
+                    - generic [ref=f1e1097]:
+                      - generic [ref=f1e1098]: L
+                      - generic [ref=f1e1099]:
+                        - generic [ref=f1e1100]: "5"
+                        - generic [ref=f1e1101]: ":"
+                        - generic [ref=f1e1102]: "13"
+                    - generic [ref=f1e1110]:
+                      - img "Skill level 10" [ref=f1e1111]
+                      - generic [ref=f1e1116]:
+                        - generic [ref=f1e1117]: 3,679
+                        - generic [ref=f1e1118]: "30"
+                    - generic [ref=f1e1125]: "0.80"
+                    - generic [ref=f1e1133]: 11 / 16 / 2
+                    - generic [ref=f1e1135]:
+                      - img "Nuke" [ref=f1e1136]
+                      - generic [ref=f1e1137]: Nuke
+                  - 'link "Tue 22 Sep 00:31 L 6 : 13 Skill level 10 3,708 30 0.97 13 / 16 / 5 Mirage Mirage" [ref=f1e1139] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1141]:
+                      - generic [ref=f1e1142]: Tue 22 Sep
+                      - generic [ref=f1e1143]: 00:31
+                    - generic [ref=f1e1145]:
+                      - generic [ref=f1e1146]: L
+                      - generic [ref=f1e1147]:
+                        - generic [ref=f1e1148]: "6"
+                        - generic [ref=f1e1149]: ":"
+                        - generic [ref=f1e1150]: "13"
+                    - generic [ref=f1e1158]:
+                      - img "Skill level 10" [ref=f1e1159]
+                      - generic [ref=f1e1164]:
+                        - generic [ref=f1e1165]: 3,708
+                        - generic [ref=f1e1166]: "30"
+                    - generic [ref=f1e1173]: "0.97"
+                    - generic [ref=f1e1181]: 13 / 16 / 5
+                    - generic [ref=f1e1183]:
+                      - img "Mirage" [ref=f1e1184]
+                      - generic [ref=f1e1185]: Mirage
+                  - 'link "Mon 21 Sep 01:33 W 13 : 8 Skill level 10 3,739 30 1.59 28 / 16 / 4 Dust 2 Dust 2" [ref=f1e1187] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1189]:
+                      - generic [ref=f1e1190]: Mon 21 Sep
+                      - generic [ref=f1e1191]: 01:33
+                    - generic [ref=f1e1193]:
+                      - generic [ref=f1e1194]: W
+                      - generic [ref=f1e1195]:
+                        - generic [ref=f1e1196]: "13"
+                        - generic [ref=f1e1197]: ":"
+                        - generic [ref=f1e1198]: "8"
+                    - generic [ref=f1e1206]:
+                      - img "Skill level 10" [ref=f1e1207]
+                      - generic [ref=f1e1212]:
+                        - generic [ref=f1e1213]: 3,739
+                        - generic [ref=f1e1214]: "30"
+                    - generic [ref=f1e1221]: "1.59"
+                    - generic [ref=f1e1229]: 28 / 16 / 4
+                    - generic [ref=f1e1231]:
+                      - img "Dust 2" [ref=f1e1232]
+                      - generic [ref=f1e1233]: Dust 2
+                  - 'link "Sun 20 Sep 20:43 W 13 : 5 Skill level 10 3,738 30 1.47 20 / 12 / 7 Anubis" [ref=f1e1235] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1237]:
+                      - generic [ref=f1e1238]: Sun 20 Sep
+                      - generic [ref=f1e1239]: 20:43
+                    - generic [ref=f1e1241]:
+                      - generic [ref=f1e1242]: W
+                      - generic [ref=f1e1243]:
+                        - generic [ref=f1e1244]: "13"
+                        - generic [ref=f1e1245]: ":"
+                        - generic [ref=f1e1246]: "5"
+                    - generic [ref=f1e1254]:
+                      - img "Skill level 10" [ref=f1e1255]
+                      - generic [ref=f1e1260]:
+                        - generic [ref=f1e1261]: 3,738
+                        - generic [ref=f1e1262]: "30"
+                    - generic [ref=f1e1269]: "1.47"
+                    - generic [ref=f1e1277]: 20 / 12 / 7
+                    - generic [ref=f1e1278]: Anubis
+                  - 'link "Sun 20 Sep 15:41 L 3 : 13 Skill level 10 3,709 30 0.90 8 / 14 / 2 Mirage Mirage" [ref=f1e1282] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1284]:
+                      - generic [ref=f1e1285]: Sun 20 Sep
+                      - generic [ref=f1e1286]: 15:41
+                    - generic [ref=f1e1288]:
+                      - generic [ref=f1e1289]: L
+                      - generic [ref=f1e1290]:
+                        - generic [ref=f1e1291]: "3"
+                        - generic [ref=f1e1292]: ":"
+                        - generic [ref=f1e1293]: "13"
+                    - generic [ref=f1e1301]:
+                      - img "Skill level 10" [ref=f1e1302]
+                      - generic [ref=f1e1307]:
+                        - generic [ref=f1e1308]: 3,709
+                        - generic [ref=f1e1309]: "30"
+                    - generic [ref=f1e1316]: "0.90"
+                    - generic [ref=f1e1324]: 8 / 14 / 2
+                    - generic [ref=f1e1326]:
+                      - img "Mirage" [ref=f1e1327]
+                      - generic [ref=f1e1328]: Mirage
+                  - 'link "Sun 20 Sep 15:11 L 6 : 13 Skill level 10 3,739 30 0.98 14 / 17 / 6 Mirage Mirage" [ref=f1e1330] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1332]:
+                      - generic [ref=f1e1333]: Sun 20 Sep
+                      - generic [ref=f1e1334]: 15:11
+                    - generic [ref=f1e1336]:
+                      - generic [ref=f1e1337]: L
+                      - generic [ref=f1e1338]:
+                        - generic [ref=f1e1339]: "6"
+                        - generic [ref=f1e1340]: ":"
+                        - generic [ref=f1e1341]: "13"
+                    - generic [ref=f1e1349]:
+                      - img "Skill level 10" [ref=f1e1350]
+                      - generic [ref=f1e1355]:
+                        - generic [ref=f1e1356]: 3,739
+                        - generic [ref=f1e1357]: "30"
+                    - generic [ref=f1e1364]: "0.98"
+                    - generic [ref=f1e1372]: 14 / 17 / 6
+                    - generic [ref=f1e1374]:
+                      - img "Mirage" [ref=f1e1375]
+                      - generic [ref=f1e1376]: Mirage
+                  - 'link "Thu 17 Sep 00:34 W 13 : 10 Skill level 10 3,769 30 1.49 20 / 15 / 12 Anubis" [ref=f1e1378] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1380]:
+                      - generic [ref=f1e1381]: Thu 17 Sep
+                      - generic [ref=f1e1382]: 00:34
+                    - generic [ref=f1e1384]:
+                      - generic [ref=f1e1385]: W
+                      - generic [ref=f1e1386]:
+                        - generic [ref=f1e1387]: "13"
+                        - generic [ref=f1e1388]: ":"
+                        - generic [ref=f1e1389]: "10"
+                    - generic [ref=f1e1397]:
+                      - img "Skill level 10" [ref=f1e1398]
+                      - generic [ref=f1e1403]:
+                        - generic [ref=f1e1404]: 3,769
+                        - generic [ref=f1e1405]: "30"
+                    - generic [ref=f1e1412]: "1.49"
+                    - generic [ref=f1e1420]: 20 / 15 / 12
+                    - generic [ref=f1e1421]: Anubis
+                  - 'link "Wed 16 Sep 23:41 W 13 : 8 Skill level 10 3,739 30 1.74 26 / 10 / 4 Nuke Nuke" [ref=f1e1425] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1427]:
+                      - generic [ref=f1e1428]: Wed 16 Sep
+                      - generic [ref=f1e1429]: 23:41
+                    - generic [ref=f1e1431]:
+                      - generic [ref=f1e1432]: W
+                      - generic [ref=f1e1433]:
+                        - generic [ref=f1e1434]: "13"
+                        - generic [ref=f1e1435]: ":"
+                        - generic [ref=f1e1436]: "8"
+                    - generic [ref=f1e1444]:
+                      - img "Skill level 10" [ref=f1e1445]
+                      - generic [ref=f1e1450]:
+                        - generic [ref=f1e1451]: 3,739
+                        - generic [ref=f1e1452]: "30"
+                    - generic [ref=f1e1459]: "1.74"
+                    - generic [ref=f1e1467]: 26 / 10 / 4
+                    - generic [ref=f1e1469]:
+                      - img "Nuke" [ref=f1e1470]
+                      - generic [ref=f1e1471]: Nuke
+                  - 'link "Tue 15 Sep 23:55 W 13 : 10 Skill level 10 3,711 30 1.51 31 / 14 / 0 Anubis" [ref=f1e1473] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1475]:
+                      - generic [ref=f1e1476]: Tue 15 Sep
+                      - generic [ref=f1e1477]: 23:55
+                    - generic [ref=f1e1479]:
+                      - generic [ref=f1e1480]: W
+                      - generic [ref=f1e1481]:
+                        - generic [ref=f1e1482]: "13"
+                        - generic [ref=f1e1483]: ":"
+                        - generic [ref=f1e1484]: "10"
+                    - generic [ref=f1e1492]:
+                      - img "Skill level 10" [ref=f1e1493]
+                      - generic [ref=f1e1498]:
+                        - generic [ref=f1e1499]: 3,711
+                        - generic [ref=f1e1500]: "30"
+                    - generic [ref=f1e1507]: "1.51"
+                    - generic [ref=f1e1515]: 31 / 14 / 0
+                    - generic [ref=f1e1516]: Anubis
+                  - 'link "Tue 15 Sep 23:03 W 13 : 7 Skill level 10 3,682 30 1.19 16 / 14 / 2 Mirage Mirage" [ref=f1e1520] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1522]:
+                      - generic [ref=f1e1523]: Tue 15 Sep
+                      - generic [ref=f1e1524]: 23:03
+                    - generic [ref=f1e1526]:
+                      - generic [ref=f1e1527]: W
+                      - generic [ref=f1e1528]:
+                        - generic [ref=f1e1529]: "13"
+                        - generic [ref=f1e1530]: ":"
+                        - generic [ref=f1e1531]: "7"
+                    - generic [ref=f1e1539]:
+                      - img "Skill level 10" [ref=f1e1540]
+                      - generic [ref=f1e1545]:
+                        - generic [ref=f1e1546]: 3,682
+                        - generic [ref=f1e1547]: "30"
+                    - generic [ref=f1e1554]: "1.19"
+                    - generic [ref=f1e1562]: 16 / 14 / 2
+                    - generic [ref=f1e1564]:
+                      - img "Mirage" [ref=f1e1565]
+                      - generic [ref=f1e1566]: Mirage
+                  - 'link "Tue 15 Sep 02:10 W 13 : 11 Skill level 10 3,652 30 1.32 23 / 20 / 6 Anubis" [ref=f1e1568] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1570]:
+                      - generic [ref=f1e1571]: Tue 15 Sep
+                      - generic [ref=f1e1572]: 02:10
+                    - generic [ref=f1e1574]:
+                      - generic [ref=f1e1575]: W
+                      - generic [ref=f1e1576]:
+                        - generic [ref=f1e1577]: "13"
+                        - generic [ref=f1e1578]: ":"
+                        - generic [ref=f1e1579]: "11"
+                    - generic [ref=f1e1587]:
+                      - img "Skill level 10" [ref=f1e1588]
+                      - generic [ref=f1e1593]:
+                        - generic [ref=f1e1594]: 3,652
+                        - generic [ref=f1e1595]: "30"
+                    - generic [ref=f1e1602]: "1.32"
+                    - generic [ref=f1e1610]: 23 / 20 / 6
+                    - generic [ref=f1e1611]: Anubis
+                  - 'link "Tue 15 Sep 01:24 W 13 : 10 Skill level 10 3,622 30 1.54 26 / 14 / 9 Ancient" [ref=f1e1615] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1617]:
+                      - generic [ref=f1e1618]: Tue 15 Sep
+                      - generic [ref=f1e1619]: 01:24
+                    - generic [ref=f1e1621]:
+                      - generic [ref=f1e1622]: W
+                      - generic [ref=f1e1623]:
+                        - generic [ref=f1e1624]: "13"
+                        - generic [ref=f1e1625]: ":"
+                        - generic [ref=f1e1626]: "10"
+                    - generic [ref=f1e1634]:
+                      - img "Skill level 10" [ref=f1e1635]
+                      - generic [ref=f1e1640]:
+                        - generic [ref=f1e1641]: 3,622
+                        - generic [ref=f1e1642]: "30"
+                    - generic [ref=f1e1649]: "1.54"
+                    - generic [ref=f1e1657]: 26 / 14 / 9
+                    - generic [ref=f1e1658]: Ancient
+                  - 'link "Mon 14 Sep 01:50 W 13 : 2 Skill level 10 3,592 30 1.70 20 / 7 / 1 Ancient" [ref=f1e1662] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1664]:
+                      - generic [ref=f1e1665]: Mon 14 Sep
+                      - generic [ref=f1e1666]: 01:50
+                    - generic [ref=f1e1668]:
+                      - generic [ref=f1e1669]: W
+                      - generic [ref=f1e1670]:
+                        - generic [ref=f1e1671]: "13"
+                        - generic [ref=f1e1672]: ":"
+                        - generic [ref=f1e1673]: "2"
+                    - generic [ref=f1e1681]:
+                      - img "Skill level 10" [ref=f1e1682]
+                      - generic [ref=f1e1687]:
+                        - generic [ref=f1e1688]: 3,592
+                        - generic [ref=f1e1689]: "30"
+                    - generic [ref=f1e1696]: "1.70"
+                    - generic [ref=f1e1704]: 20 / 7 / 1
+                    - generic [ref=f1e1705]: Ancient
+                  - 'link "Mon 14 Sep 01:17 W 13 : 11 Skill level 10 3,564 30 1.31 28 / 14 / 5 Anubis" [ref=f1e1709] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1711]:
+                      - generic [ref=f1e1712]: Mon 14 Sep
+                      - generic [ref=f1e1713]: 01:17
+                    - generic [ref=f1e1715]:
+                      - generic [ref=f1e1716]: W
+                      - generic [ref=f1e1717]:
+                        - generic [ref=f1e1718]: "13"
+                        - generic [ref=f1e1719]: ":"
+                        - generic [ref=f1e1720]: "11"
+                    - generic [ref=f1e1728]:
+                      - img "Skill level 10" [ref=f1e1729]
+                      - generic [ref=f1e1734]:
+                        - generic [ref=f1e1735]: 3,564
+                        - generic [ref=f1e1736]: "30"
+                    - generic [ref=f1e1743]: "1.31"
+                    - generic [ref=f1e1751]: 28 / 14 / 5
+                    - generic [ref=f1e1752]: Anubis
+                  - 'link "Mon 14 Sep 00:31 W 13 : 11 Skill level 10 3,534 30 1.63 28 / 17 / 4 Mirage Mirage" [ref=f1e1756] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1758]:
+                      - generic [ref=f1e1759]: Mon 14 Sep
+                      - generic [ref=f1e1760]: 00:31
+                    - generic [ref=f1e1762]:
+                      - generic [ref=f1e1763]: W
+                      - generic [ref=f1e1764]:
+                        - generic [ref=f1e1765]: "13"
+                        - generic [ref=f1e1766]: ":"
+                        - generic [ref=f1e1767]: "11"
+                    - generic [ref=f1e1775]:
+                      - img "Skill level 10" [ref=f1e1776]
+                      - generic [ref=f1e1781]:
+                        - generic [ref=f1e1782]: 3,534
+                        - generic [ref=f1e1783]: "30"
+                    - generic [ref=f1e1790]: "1.63"
+                    - generic [ref=f1e1798]: 28 / 17 / 4
+                    - generic [ref=f1e1800]:
+                      - img "Mirage" [ref=f1e1801]
+                      - generic [ref=f1e1802]: Mirage
+                  - 'link "Sat 12 Sep 17:46 L 3 : 13 Skill level 10 3,504 30 0.70 10 / 16 / 0 Cache" [ref=f1e1804] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1806]:
+                      - generic [ref=f1e1807]: Sat 12 Sep
+                      - generic [ref=f1e1808]: 17:46
+                    - generic [ref=f1e1810]:
+                      - generic [ref=f1e1811]: L
+                      - generic [ref=f1e1812]:
+                        - generic [ref=f1e1813]: "3"
+                        - generic [ref=f1e1814]: ":"
+                        - generic [ref=f1e1815]: "13"
+                    - generic [ref=f1e1823]:
+                      - img "Skill level 10" [ref=f1e1824]
+                      - generic [ref=f1e1829]:
+                        - generic [ref=f1e1830]: 3,504
+                        - generic [ref=f1e1831]: "30"
+                    - generic [ref=f1e1838]: "0.70"
+                    - generic [ref=f1e1846]: 10 / 16 / 0
+                    - generic [ref=f1e1847]: Cache
+                  - 'link "Sat 12 Sep 17:05 W 13 : 3 Skill level 10 3,534 30 1.32 18 / 11 / 7 Dust 2 Dust 2" [ref=f1e1851] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1853]:
+                      - generic [ref=f1e1854]: Sat 12 Sep
+                      - generic [ref=f1e1855]: 17:05
+                    - generic [ref=f1e1857]:
+                      - generic [ref=f1e1858]: W
+                      - generic [ref=f1e1859]:
+                        - generic [ref=f1e1860]: "13"
+                        - generic [ref=f1e1861]: ":"
+                        - generic [ref=f1e1862]: "3"
+                    - generic [ref=f1e1870]:
+                      - img "Skill level 10" [ref=f1e1871]
+                      - generic [ref=f1e1876]:
+                        - generic [ref=f1e1877]: 3,534
+                        - generic [ref=f1e1878]: "30"
+                    - generic [ref=f1e1885]: "1.32"
+                    - generic [ref=f1e1893]: 18 / 11 / 7
+                    - generic [ref=f1e1895]:
+                      - img "Dust 2" [ref=f1e1896]
+                      - generic [ref=f1e1897]: Dust 2
+                  - 'link "Sat 12 Sep 00:36 W 13 : 5 Skill level 10 3,505 30 0.98 14 / 14 / 1 Mirage Mirage" [ref=f1e1899] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1901]:
+                      - generic [ref=f1e1902]: Sat 12 Sep
+                      - generic [ref=f1e1903]: 00:36
+                    - generic [ref=f1e1905]:
+                      - generic [ref=f1e1906]: W
+                      - generic [ref=f1e1907]:
+                        - generic [ref=f1e1908]: "13"
+                        - generic [ref=f1e1909]: ":"
+                        - generic [ref=f1e1910]: "5"
+                    - generic [ref=f1e1918]:
+                      - img "Skill level 10" [ref=f1e1919]
+                      - generic [ref=f1e1924]:
+                        - generic [ref=f1e1925]: 3,505
+                        - generic [ref=f1e1926]: "30"
+                    - generic [ref=f1e1933]: "0.98"
+                    - generic [ref=f1e1941]: 14 / 14 / 1
+                    - generic [ref=f1e1943]:
+                      - img "Mirage" [ref=f1e1944]
+                      - generic [ref=f1e1945]: Mirage
+                  - 'link "Sat 12 Sep 00:01 L 5 : 13 Skill level 10 3,479 30 0.84 14 / 14 / 2 Mirage Mirage" [ref=f1e1947] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1949]:
+                      - generic [ref=f1e1950]: Sat 12 Sep
+                      - generic [ref=f1e1951]: 00:01
+                    - generic [ref=f1e1953]:
+                      - generic [ref=f1e1954]: L
+                      - generic [ref=f1e1955]:
+                        - generic [ref=f1e1956]: "5"
+                        - generic [ref=f1e1957]: ":"
+                        - generic [ref=f1e1958]: "13"
+                    - generic [ref=f1e1966]:
+                      - img "Skill level 10" [ref=f1e1967]
+                      - generic [ref=f1e1972]:
+                        - generic [ref=f1e1973]: 3,479
+                        - generic [ref=f1e1974]: "30"
+                    - generic [ref=f1e1981]: "0.84"
+                    - generic [ref=f1e1989]: 14 / 14 / 2
+                    - generic [ref=f1e1991]:
+                      - img "Mirage" [ref=f1e1992]
+                      - generic [ref=f1e1993]: Mirage
+                  - 'link "Thu 10 Sep 23:17 W 13 : 6 Skill level 10 3,509 30 1.53 20 / 11 / 5 Ancient" [ref=f1e1995] [cursor=pointer]':
+                    - /url: https://www.faceit.com/en/players/w0nderful
+                    - generic [ref=f1e1997]:
+                      - generic [ref=f1e1998]: Thu 10 Sep
+                      - generic [ref=f1e1999]: 23:17
+                    - generic [ref=f1e2001]:
+                      - generic [ref=f1e2002]: W
+                      - generic [ref=f1e2003]:
+                        - generic [ref=f1e2004]: "13"
+                        - generic [ref=f1e2005]: ":"
+                        - generic [ref=f1e2006]: "6"
+                    - generic [ref=f1e2014]:
+                      - img "Skill level 10" [ref=f1e2015]
+                      - generic [ref=f1e2020]:
+                        - generic [ref=f1e2021]: 3,509
+                        - generic [ref=f1e2022]: "30"
+                    - generic [ref=f1e2029]: "1.53"
+                    - generic [ref=f1e2037]: 20 / 11 / 5
+                    - generic [ref=f1e2038]: Ancient
+  - generic [ref=f1e2042]:
+    - img "avatar" [ref=f1e2043] [cursor=pointer]
+    - generic "Matches" [ref=f1e2044] [cursor=pointer]
+    - generic "Notifications" [ref=f1e2047] [cursor=pointer]
+    - generic "Social" [ref=f1e2050] [cursor=pointer]
+    - generic "Create Group" [ref=f1e2053] [cursor=pointer]
+    - generic "Invite Players" [ref=f1e2058] [cursor=pointer]

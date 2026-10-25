@@ -1,0 +1,169 @@
+- generic [active] [ref=f8e1]:
+  - generic [ref=f8e9]:
+    - complementary [ref=f8e10]:
+      - generic [ref=f8e11]:
+        - generic [ref=f8e12]:
+          - generic [ref=f8e14]:
+            - img [ref=f8e18] [cursor=pointer]
+            - img "avatar" [ref=f8e32]
+          - heading "fr3sh" [level=1] [ref=f8e34]
+        - link "ADD FRIEND" [ref=f8e36] [cursor=pointer]:
+          - /url: /players/fr3sh/go
+      - generic [ref=f8e37]:
+        - generic [ref=f8e39]:
+          - generic [ref=f8e40]: Gift A Sub
+          - generic [ref=f8e44] [cursor=pointer]: Gift Sub
+        - generic [ref=f8e45]:
+          - generic [ref=f8e46]: Member since Feb 18, 2014
+          - generic [ref=f8e47]: We don't know anything about fr3sh
+          - generic [ref=f8e48]:
+            - img "de" [ref=f8e50]
+            - generic [ref=f8e51]: Germany
+          - link [ref=f8e55] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f8e59]:
+          - generic [ref=f8e60]: Game history
+          - generic [ref=f8e61]:
+            - generic [ref=f8e62] [cursor=pointer]:
+              - generic [ref=f8e63]: C
+              - generic [ref=f8e65]:
+                - generic [ref=f8e66]: CS2
+                - generic [ref=f8e67]: — matches
+            - generic [ref=f8e71]:
+              - generic [ref=f8e72]: C
+              - generic [ref=f8e74]:
+                - generic [ref=f8e75]: CS:GO
+                - generic [ref=f8e76]: — matches
+    - generic [ref=f8e77]:
+      - generic [ref=f8e79]:
+        - link "Games" [ref=f8e81] [cursor=pointer]:
+          - /url: "#"
+        - link "Friends" [ref=f8e87] [cursor=pointer]:
+          - /url: "#"
+        - link "Videos" [ref=f8e93] [cursor=pointer]:
+          - /url: "#"
+        - link "Guestbook" [ref=f8e99] [cursor=pointer]:
+          - /url: "#"
+        - link "Inventory" [ref=f8e105] [cursor=pointer]:
+          - /url: "#"
+        - link "Clubs" [ref=f8e111] [cursor=pointer]:
+          - /url: "#"
+        - link "Teams" [ref=f8e117] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f8e122]:
+        - generic [ref=f8e123]:
+          - generic [ref=f8e126] [cursor=pointer]:
+            - generic [ref=f8e127]: C
+            - generic [ref=f8e129]: CS2
+          - generic [ref=f8e135]:
+            - link "Summary" [ref=f8e137] [cursor=pointer]:
+              - /url: "#"
+            - link "Match history" [ref=f8e142] [cursor=pointer]:
+              - /url: "#"
+            - link "Matchmaking" [ref=f8e147] [cursor=pointer]:
+              - /url: "#"
+            - link "Leagues" [ref=f8e152] [cursor=pointer]:
+              - /url: "#"
+            - link "Tournaments" [ref=f8e157] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=f8e161]:
+          - generic [ref=f8e162]:
+            - generic [ref=f8e163]:
+              - generic [ref=f8e164]:
+                - generic [ref=f8e169]:
+                  - generic [ref=f8e170]: Season 9
+                  - generic [ref=f8e171]: Matchmaking
+                - link "Season 9 stats" [ref=f8e172] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f8e177]:
+                - generic [ref=f8e178]:
+                  - img "Skill level ?" [ref=f8e179]
+                  - generic [ref=f8e184]: —
+                - generic [ref=f8e185]:
+                  - generic [ref=f8e186]:
+                    - generic [ref=f8e187]:
+                      - img "de" [ref=f8e189]
+                      - generic [ref=f8e190]: 63,118
+                    - generic [ref=f8e191]:
+                      - img "EU" [ref=f8e192]:
+                        - img "EU" [ref=f8e193]
+                      - generic [ref=f8e197]: 977,906
+                  - generic [ref=f8e198]:
+                    - generic [ref=f8e199]:
+                      - generic [ref=f8e200]: "576"
+                      - generic [ref=f8e201]: Matches
+                      - generic [aria-hidden] [ref=f8e202]: •
+                    - generic [ref=f8e203]:
+                      - generic [ref=f8e204]: 49%
+                      - generic [ref=f8e205]: Win rate
+            - generic [ref=f8e206]:
+              - generic [ref=f8e207]:
+                - generic [ref=f8e208]: Recent performance
+                - generic [ref=f8e209]:
+                  - generic [ref=f8e210]: Last 30 Matches
+                  - generic [ref=f8e211]: •
+                  - generic [ref=f8e212] [cursor=pointer]:
+                    - img "Skill level ?" [ref=f8e213]
+                    - generic [ref=f8e218]: — Avg skill level of Match
+              - generic [ref=f8e222]:
+                - generic [ref=f8e223]:
+                  - generic [ref=f8e224]: Elo change
+                  - generic [ref=f8e225]: "-207"
+                - generic [ref=f8e226]:
+                  - generic [ref=f8e227]:
+                    - generic [ref=f8e228]: W
+                    - generic [ref=f8e230]: "0"
+                  - generic [ref=f8e231]: /
+                  - generic [ref=f8e232]:
+                    - generic [ref=f8e233]: L
+                    - generic [ref=f8e235]: "22"
+              - img "Elo progression" [ref=f8e239] [cursor=pointer]
+              - generic [ref=f8e245]:
+                - generic [ref=f8e247]:
+                  - generic [ref=f8e248]:
+                    - generic [ref=f8e249]: —
+                    - img "FACEIT Rating" [ref=f8e272]
+                  - generic [ref=f8e276]:
+                    - generic [ref=f8e277]:
+                      - generic [ref=f8e278]: Swing
+                      - generic [ref=f8e279]: —
+                    - generic [ref=f8e281]:
+                      - generic [ref=f8e282]: Consistency
+                      - generic [ref=f8e283]: —
+                - generic [ref=f8e285]:
+                  - generic [ref=f8e286]:
+                    - generic [ref=f8e287]: —
+                    - generic [ref=f8e288]: K/D/A
+                  - generic [ref=f8e289]:
+                    - generic [ref=f8e290]: —
+                    - generic [ref=f8e291]: K/D
+                  - generic [ref=f8e292]:
+                    - generic [ref=f8e293]: 0.91Average K/R Ra
+                    - generic [ref=f8e294]: K/R
+                  - generic [ref=f8e295]:
+                    - generic [ref=f8e296]: —%
+                    - generic [ref=f8e297]: HS%
+                  - generic [ref=f8e298]:
+                    - generic [ref=f8e299]: —
+                    - generic [ref=f8e300]: ADR
+                  - generic [ref=f8e301]:
+                    - generic [ref=f8e302]: —%
+                    - generic [ref=f8e303]: Win rate
+          - generic [ref=f8e304]:
+            - generic [ref=f8e305]:
+              - generic [ref=f8e306]: Recent matches
+              - link "Full match history" [ref=f8e309] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=f8e315]:
+              - generic [ref=f8e316]: Date
+              - generic [ref=f8e317]: Score
+              - generic [ref=f8e319]: Rating
+              - generic [ref=f8e333]: K/D/A
+              - generic [ref=f8e334]: Map
+  - generic [ref=f8e335]:
+    - img "avatar" [ref=f8e336] [cursor=pointer]
+    - generic "Matches" [ref=f8e337] [cursor=pointer]
+    - generic "Notifications" [ref=f8e340] [cursor=pointer]
+    - generic "Social" [ref=f8e343] [cursor=pointer]
+    - generic "Create Group" [ref=f8e346] [cursor=pointer]
+    - generic "Invite Players" [ref=f8e351] [cursor=pointer]

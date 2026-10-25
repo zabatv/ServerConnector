@@ -1,0 +1,95 @@
+- generic [ref=f20e2]:
+  - banner [ref=f20e3]:
+    - generic [ref=f20e19]:
+      - img "brand logo" [ref=f20e21]
+      - text:     
+  - main [ref=f20e22]:
+    - generic [ref=f20e25]:
+      - generic [ref=f20e27]:
+        - generic [ref=f20e30]:
+          - generic [ref=f20e438]:
+            - generic [ref=f20e442]:
+              - generic [ref=f20e443]: ОУП.06.В Физика. Тема 7.2 Эволюция Вселенной. 1 курс 2 семестр.
+              - generic [ref=f20e444]: 1 Первая тема
+            - generic [ref=f20e446]:
+              - generic [ref=f20e447]: Вопрос 18. Сопоставьте тип орбиты и наиболее типичное применение.
+              - generic [ref=f20e450]: Перетащите ответы в правильные категории
+              - generic [ref=f20e451]:
+                - generic [ref=f20e452]:
+                  - list [ref=f20e454]:
+                    - generic "Навигационные системы (например, GNSS)" [ref=f20e455]
+                    - generic [ref=f20e456]: +
+                  - list [ref=f20e459]:
+                    - generic "Спутники связи и телевещания над фиксированной точкой" [ref=f20e460]
+                    - generic [ref=f20e461]: +
+                  - list [ref=f20e464]:
+                    - generic "Дистанционное зондирование Земли и низкая задержка" [ref=f20e465]
+                    - generic [ref=f20e466]: +
+                - generic [ref=f20e468]:
+                  - generic [ref=f20e469]: Варианты ответов
+                  - list [ref=f20e470]:
+                    - listitem [ref=f20e471]:
+                      - generic [ref=f20e472]: 
+                      - generic [ref=f20e473]: 2 MEO
+                    - listitem [ref=f20e474]:
+                      - generic [ref=f20e475]: 
+                      - generic [ref=f20e476]: 1 LEO
+                    - listitem [ref=f20e477]:
+                      - generic [ref=f20e478]: 
+                      - generic [ref=f20e479]: 3 GEO
+              - generic [ref=f20e480]:
+                - generic "ОК" [ref=f20e483] [cursor=pointer]
+                - generic [ref=f20e484]: Выберите ответы для данной категории.
+                - list [ref=f20e486]:
+                  - listitem [ref=f20e487]: 2 MEO
+                  - listitem [ref=f20e488]: 1 LEO
+                  - listitem [ref=f20e489]: 3 GEO
+          - generic [ref=f20e57]:
+            - button " Назад" [ref=f20e167] [cursor=pointer]:
+              - generic [ref=f20e168]: 
+              - text: Назад
+            - generic [ref=f20e58]:
+              - text: 
+              - button "Пропустить" [ref=f20e59] [cursor=pointer]
+              - text: 
+        - generic [ref=f20e61]:
+          - generic [ref=f20e62]: 01:20:14
+          - generic [ref=f20e72]:
+            - generic [ref=f20e74]:
+              - generic [ref=f20e75]: Пройдено
+              - generic [ref=f20e76]: ":"
+              - generic [ref=f20e77]: 55%
+            - generic [ref=f20e79]:
+              - generic [ref=f20e80]:
+                - generic [ref=f20e81]: Все страницы
+                - generic [ref=f20e82] [cursor=pointer]
+              - generic [ref=f20e86]:
+                - generic [ref=f20e88]:
+                  - generic [ref=f20e89] [cursor=pointer]: "1"
+                  - generic [ref=f20e92] [cursor=pointer]: "2"
+                  - generic [ref=f20e94] [cursor=pointer]: "3"
+                  - generic [ref=f20e96] [cursor=pointer]: "4"
+                  - generic [ref=f20e98] [cursor=pointer]: "5"
+                  - generic [ref=f20e100] [cursor=pointer]: "6"
+                  - generic [ref=f20e102] [cursor=pointer]: "7"
+                  - generic [ref=f20e104] [cursor=pointer]: "8"
+                  - generic [ref=f20e106] [cursor=pointer]: "9"
+                  - generic [ref=f20e108] [cursor=pointer]: "10"
+                  - generic [ref=f20e110] [cursor=pointer]: "11"
+                  - generic [ref=f20e112] [cursor=pointer]:
+                    - generic [ref=f20e113]: "12"
+                    - generic [ref=f20e490]: Вы здесь
+                  - generic [ref=f20e114] [cursor=pointer]: "13"
+                  - generic [ref=f20e116] [cursor=pointer]: "14"
+                  - generic [ref=f20e118] [cursor=pointer]: "15"
+                  - generic [ref=f20e120] [cursor=pointer]: "16"
+                  - generic [ref=f20e122] [cursor=pointer]: "17"
+                  - generic [ref=f20e124] [cursor=pointer]: "18"
+                  - generic [ref=f20e126] [cursor=pointer]: "19"
+                  - generic [ref=f20e128] [cursor=pointer]: "20"
+                - generic [ref=f20e130]:
+                  - generic [ref=f20e131] [cursor=pointer]: 
+                  - generic [ref=f20e133]: 11-20
+                  - generic [ref=f20e136]: 
+      - generic [ref=f20e138]: © 2026 StartExam Platform
+  - contentinfo

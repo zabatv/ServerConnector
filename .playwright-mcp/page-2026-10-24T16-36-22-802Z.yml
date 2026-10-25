@@ -1,0 +1,63 @@
+- generic [ref=f4e2]:
+  - banner [ref=f4e3]:
+    - generic [ref=f4e9]:
+      - generic [ref=f4e10]: Язык
+      - generic [ref=f4e11] [cursor=pointer]: RU
+  - main [ref=f4e14]:
+    - generic [ref=f4e20]:
+      - generic [ref=f4e22]:
+        - generic [ref=f4e23]:
+          - link " Перейти в центр" [ref=f4e24] [cursor=pointer]:
+            - /url: /fnalchik
+            - generic [ref=f4e25]: 
+            - text: Перейти в центр
+          - link " Пройти еще раз" [ref=f4e26] [cursor=pointer]:
+            - /url: /fnalchik#start/ca8eed6b-8902-461f-9b54-effc1c68cf08
+            - generic [ref=f4e27]: 
+            - text: Пройти еще раз
+        - generic [ref=f4e28]:
+          - link "" [ref=f4e29] [cursor=pointer]:
+            - /url: /fnalchik/PdfReport/610a93dd-9cd4-430f-a3b6-c1cc7a6ae845?dateTime=2026-10-24,%2016-18
+          - link "" [ref=f4e31] [cursor=pointer]:
+            - /url: javascript:void(0);
+      - generic [ref=f4e33]:
+        - heading "ОУП.13.В Основы безопасности и защиты Родины. 1 курс 2 семестр. Тема 11.4. Беспилотные системы и радиосвязь" [level=3] [ref=f4e34]
+        - generic [ref=f4e35]: Результат
+      - generic [ref=f4e37]:
+        - list [ref=f4e39]:
+          - listitem [ref=f4e40]: "Дата прохождения: суббота, 24 октября 2026 г."
+        - list [ref=f4e42]:
+          - listitem [ref=f4e43]: "firstName: Герман"
+          - listitem [ref=f4e44]: "lastName: Петров"
+          - listitem [ref=f4e45]: "email: petrovga25@nalchik.ithub.ru"
+          - listitem [ref=f4e46]: "sessionId: 44e07b8c-7c08-4537-9074-1c3ac7f66ed5"
+      - generic [ref=f4e48]:
+        - heading "Результат" [level=4] [ref=f4e50]
+        - generic [ref=f4e51]:
+          - text: "Интроецированная мотивация (дисциплина):"
+          - strong [ref=f4e53]: высокий
+        - generic [ref=f4e55]:
+          - generic [ref=f4e57]:
+            - generic [ref=f4e58]: 20 из 20
+            - generic [ref=f4e59]: Баллов набрано
+          - generic [ref=f4e61]:
+            - generic [ref=f4e62]: 100%
+            - generic [ref=f4e63]: Общий результат
+          - generic [ref=f4e65]:
+            - generic [ref=f4e66]: 17 мин
+            - generic [ref=f4e67]: Время прохождения
+        - table [ref=f4e70]:
+          - rowgroup [ref=f4e71]:
+            - row [ref=f4e72]:
+              - columnheader "Секция" [ref=f4e73]
+              - columnheader "Баллы" [ref=f4e74]
+              - columnheader [ref=f4e75]
+          - rowgroup [ref=f4e76]:
+            - row [ref=f4e77]:
+              - cell "1 Первая тема" [ref=f4e78]
+              - cell "20 из 20" [ref=f4e80]
+              - cell [ref=f4e82]:
+                - progressbar [ref=f4e85]:
+                  - generic [ref=f4e86]: 100%
+  - contentinfo [ref=f4e87]:
+    - generic [ref=f4e88]: © 2026 Платформа StartExam

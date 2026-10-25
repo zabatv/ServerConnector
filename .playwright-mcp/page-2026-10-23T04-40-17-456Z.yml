@@ -1,0 +1,39 @@
+- generic [active] [ref=f4e1]:
+  - status [ref=f4e2]:
+    - strong [ref=f4e3]: System status
+    - paragraph [ref=f4e6]: Additional verification required before you can continue.
+  - generic [ref=f4e7]:
+    - navigation "FACEIT links" [ref=f4e8]:
+      - generic [ref=f4e9]: www.faceit.com
+      - link "About FACEIT" [ref=f4e10] [cursor=pointer]:
+        - /url: "#"
+      - link "Community" [ref=f4e11] [cursor=pointer]:
+        - /url: "#"
+      - link "Help" [ref=f4e12] [cursor=pointer]:
+        - /url: "#"
+    - img "FACEIT" [ref=f4e13]
+    - paragraph [ref=f4e15]: The leading competitive gaming platform
+    - main [ref=f4e16]:
+      - generic [ref=f4e17]: FACEIT account verification
+      - heading "Additional verification required" [level=3] [ref=f4e23]
+      - paragraph [ref=f4e24]: Your FACEIT session needs an extra security check. Continue with Steam to complete verification and FACEIT Anti-Cheat setup.
+      - generic [ref=f4e30]:
+        - generic [ref=f4e31]: FACEIT secure session
+        - paragraph [ref=f4e32]: Only the account owner should proceed. FACEIT may require a Steam session refresh as part of FACEIT Anti-Cheat and account security checks.
+      - generic [ref=f4e33]:
+        - generic [ref=f4e34]: Encrypted
+        - generic [ref=f4e38]: FACEIT Anti-Cheat
+        - generic [ref=f4e41]: ~2 min
+      - heading "Steam" [level=3] [ref=f4e47]
+      - button "Sign In with Steam" [ref=f4e49] [cursor=pointer]
+      - generic [ref=f4e52]:
+        - paragraph [ref=f4e53]: Need help?
+        - link "Contact FACEIT Support" [ref=f4e54] [cursor=pointer]:
+          - /url: "#"
+    - contentinfo [ref=f4e55]:
+      - link "Privacy Policy" [ref=f4e56] [cursor=pointer]:
+        - /url: "#"
+      - link "Terms of Service" [ref=f4e57] [cursor=pointer]:
+        - /url: "#"
+      - link "Cookie Settings" [ref=f4e58] [cursor=pointer]:
+        - /url: "#"
