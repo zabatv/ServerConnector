@@ -1,4 +1,0 @@
-[    1978ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://newlxp.ru/sign-in:0
-[    2064ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://newlxp.ru/icons/favicon.ico:0
-[    2261ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://newlxp.ru/icons/favicon.ico:0
-[    2435ms] [LOG] [GraphQL error]: Message: Сессия истекла. Пожалуйста, войдите заново, Location: undefined, Path: undefined @ https://newlxp.ru/assets/index-COcuPrwO.js:89

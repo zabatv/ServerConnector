@@ -1,6 +1,0 @@
-Rostrum listening on http://127.0.0.1:4173
-  Data API key : MISSING — set FACEIT_API_KEY
-  OAuth proof  : MISSING — set FACEIT_CLIENT_ID / FACEIT_CLIENT_SECRET / PUBLIC_ORIGIN
-  Dev claims   : ENABLED — pages stamped UNVERIFIED
-  Demo data    : ENABLED — fixture players, labelled
-  Profiles from: demo fixtures
